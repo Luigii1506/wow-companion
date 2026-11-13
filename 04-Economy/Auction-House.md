@@ -3,7 +3,7 @@ type: topic
 tags: [economy, forever]
 status: unknown
 confidence: low
-last_verified: 2026-11-10
+last_verified: 2026-11-13
 game_version: "Forever 1.60.1 (launch)"
 sources:
   - https://worldofwarcraft.blizzard.com/en-gb/news/24303313
@@ -15,12 +15,14 @@ sources:
   - https://www.warcrafttavern.com/forever/news/legacy-tree-rewards-in-world-of-warcraft-forever
   - https://wowdee.com
   - https://us.forums.blizzard.com/en/wow/t/gathering-nodes/2402225
+  - https://foreverdb.net/guide/making-money
 ---
 
 # Auction House y oro a nivel bajo (recolector)
 
 ## Resumen
-- **Mecánica de la AH en Forever**: casi todo es **desconocido**. Blizzard no ha publicado comisión, depósito, duración ni alcance de la AH en lo que se leyó.
+- **Comisiones (datos del cliente, ForeverDB)**: en la AH de facción (Orgrimmar) el depósito es del 5 % del precio de vendedor y la comisión del 5 % de la venta. En las AH neutrales (Blackwater) el depósito es del 25 % y la comisión del 15 %. Vende en Orgrimmar. Son datos de la build 70755 (2026-11-03) leídos del cliente: confianza media hasta verlos en la interfaz. Ver [[src-foreverdb-guide-making-money]].
+- **Sin datos todavía**: duraciones, si el depósito se devuelve al vender (regla de Classic, hipótesis) y alcance de la AH.
 - **Lo confirmado**: la AH existe y muestra una columna de nivel equipable y los sufijos de los objetos (builds de la beta de octubre). Los reinos se sustituyen por **rulesets** (Normal, PvP, RP; Hardcore más adelante) (`confirmed_forever`).
 - **Alcance**: según el podcast de Blizzard (reportado de segunda mano), la AH **no se comparte entre rulesets** al lanzamiento, y Blizzard se reserva enlazarlas como "último recurso" (`unknown`). No hay datos leídos sobre si es por facción o por región.
 - **Precios**: **no hay ningún precio** con fecha y ruleset en las fuentes. Todo precio = desconocido hasta que lo observe el jugador.
@@ -36,8 +38,9 @@ Relacionado: [[Mount-and-Costs]] · [[Patch-Changes]] · [[Sources]] · [[Confli
 | AH separada por ruleset; sin comercio entre rulesets | Probable | unknown (segunda mano) | GamerFuzion (podcast vía PCGamesN) | ~2026-11-01 |
 | AH compartida por facción o neutral | desconocido | unknown | — | — |
 | AH regional, del estilo de las commodities de Retail | desconocido | unknown | — | — |
-| Comisión (cut) | desconocido. En Classic era 5 % en la AH de facción (hipótesis) | probable_classic / unknown | No hay fuente de Forever leída | — |
-| Depósito | desconocido | unknown | — | — |
+| Comisión (cut) | 5 % facción; 15 % neutral (Blackwater) | confirmed_forever (datos del cliente; confianza media) | [[src-foreverdb-guide-making-money]] | 2026-11-03 |
+| Depósito | 5 % del precio de vendedor en facción; 25 % en neutral. Escalado por duración y devolución al vender: regla de Classic | confirmed_forever / probable_classic | [[src-foreverdb-guide-making-money]] | 2026-11-03 |
+| AH neutral | Existe (Blackwater) con tasas más altas | confirmed_forever (datos del cliente) | [[src-foreverdb-guide-making-money]] | 2026-11-03 |
 | Duraciones de subasta | desconocido | unknown | — | — |
 | Correo entre personajes | Existe (arreglo de apellidos en el correo) | confirmed_forever | DN 24-sep | 2026-09-24 |
 
@@ -90,12 +93,15 @@ Son recomendaciones con **evidencia baja**, porque no hay precios. Siguen CLAUDE
 ## Estado de verificación
 - Estado: unknown
 - Confianza: low
-- Última verificación: 2026-11-10
+- Última verificación: 2026-11-13
 - Build/versión: Forever 1.60.1 (lanzamiento)
 
 ## Preguntas pendientes
-- Comisión, depósito y duraciones de la AH en Forever (mirarlos en la propia interfaz de la AH y registrarlos).
+- Confirmar en la interfaz las tasas de ForeverDB (5 %/5 % facción, 25 %/15 % neutral) y registrar las duraciones.
 - ¿La AH es por facción, neutral o compartida? ¿Abarca toda la región dentro del ruleset?
 - Precios reales de hierbas y pieles de nivel 1–20 en el ruleset del jugador (requiere export).
-- ¿Hay una AH neutral (Booty Bay/Gadgetzan) con otra comisión?
+- ¿Dónde están exactamente las AH neutrales "Blackwater" (¿Booty Bay, Gadgetzan, Everlook?)?
 - ¿Qué addon de escaneo de AH funciona en Forever? Validarlo según [[Addons]].
+
+## Créditos
+- [Data from ForeverDB.net](https://foreverdb.net)

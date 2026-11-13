@@ -9,7 +9,7 @@ updated: 2026-11-03
 ingested: 2026-11-13
 status: confirmed_forever
 confidence: medium
-feeds: ["[[FAQ]]", "[[Patch-Changes]]"]
+feeds: ["[[FAQ]]", "[[Patch-Changes]]", "[[Auction-House]]", "[[Gold-Making]]"]
 ---
 
 # ForeverDB — Dinero y casa de subastas
@@ -29,4 +29,4 @@ feeds: ["[[FAQ]]", "[[Patch-Changes]]"]
 - [Data from ForeverDB.net](https://foreverdb.net)
 
 ## Alimenta
-- [[FAQ]] · [[Patch-Changes]]
+- [[FAQ]] · [[Patch-Changes]] · [[Auction-House]] · [[Gold-Making]]

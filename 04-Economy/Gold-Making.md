@@ -66,6 +66,7 @@ related: ["[[Gold-Gathering-While-Leveling]]", "[[Auction-House]]", "[[Mount-and
 | Saturar la AH de pieles baratas | Mein-MMO avisa de que la AH puede inundarse de pieles | unknown | Mein-MMO |
 | Comprar todos los rangos de hechizo | Gfinity aconseja no hacerlo y guardar para el riding. Para un Priest, saltarse rangos de curación o de daño tiene coste; es una opinión | unknown | Gfinity |
 | Guardar misiones completadas hasta nivel 60 para cobrar oro | Ya no funciona: Blizzard quitó la conversión de XP en oro al nivel máximo | confirmed_forever | Kaivax, 2026-11-10 |
+| Vender en una AH neutral (Blackwater) | Depósito 25 % y comisión 15 %, frente a 5 % y 5 % en Orgrimmar (datos del cliente) | confirmed_forever (confianza media) | [[src-foreverdb-guide-making-money]] |
 | Comprar oro a terceros | Va contra las normas de Blizzard (conocimiento general, no verificado en una fuente de Forever) | unknown | — |
 
 ## Datos de Forever que cambian la economía
@@ -90,6 +91,7 @@ related: ["[[Gold-Gathering-While-Leveling]]", "[[Auction-House]]", "[[Mount-and
 | https://www.warcrafttavern.com/forever/guides/inventory/ | Guía | Sin fecha (imágenes de 2026-11) | 2026-11-13 | Probablemente no |
 | https://news.blizzard.com/en-us/article/24315281 | Oficial (hotfixes) | 2026-11-05 a 2026-11-11 | 2026-11-13 | No |
 | https://us.forums.blizzard.com/en/wow/t/2405161 y /165 | Foro oficial (jugadores + Kaivax) | 2026-11-07 / 2026-11-10 | 2026-11-13 | No |
+| https://foreverdb.net/guide/making-money ([Data from ForeverDB.net](https://foreverdb.net)) | Guía con datos del cliente | 2026-11-03 | 2026-11-13 | No (build 70755) |
 | https://kami-labs.fr/en/wow-forever/or-des-quetes-niveau-60-wow-forever/ | Prensa | 2026-11-08 | 2026-11-13 | No |
 
 ## Preguntas pendientes
