@@ -20,6 +20,7 @@
 
 | D-015 | 2026-11-13 | El personaje principal pasa a ser un **Orc Rogue nivel 11**. El Undead Priest queda como alt. La bóveda sigue siendo general; playbooks, prioridad del catálogo y portada se centran en el Rogue. | Indicado por el usuario. | Vigente |
 | D-016 | 2026-11-13 | Fuentes de datos estructurados: MCP de Azeroth DB para consultas, wago.tools (CSV del cliente, permitido a IA) para datos en bloque, ForeverDB API con clave del usuario para misiones, vendedores y recolección. Wowhead no se usa en ingestas: bloquea a los bots de Anthropic. No se esquivan bloqueos ni antibots. | Registro de fuentes del 2026-11-13. | Vigente; MCP y ForeverDB pendientes |
+| D-017 | 2026-11-13 | Los datos del addon de ForeverDB (zip público, GPL-3.0 con atribución) se usan en bloque: se guardan en `data/foreverdb/addon_zip/` (fuera de git), se convierten a `data/foreverdb/addon.sqlite` con `tools/fdb_addon/` y cada nota que los usa cita "Data from ForeverDB.net". Las páginas de ForeverDB se leen según su robots.txt (permitido a ClaudeBot salvo `/api/`). Cada dato conserva su etiqueta de origen: visto en Forever, cliente o Classic (CMaNGOS). | Cubre misiones, recompensas, nodos y recetas sin esperar la clave de la API. El robots.txt invita a herramientas a usar estos archivos. | Vigente |
 
 ## Resolución de discrepancias
 

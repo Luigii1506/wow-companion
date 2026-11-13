@@ -21,6 +21,14 @@ sources:
   - https://theforeverera.com/es/guides/classes/rogue/
   - https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-november-2/2360696/9
   - "Cliente WoW Forever 1.60.1.70938 vía wago.tools (consulta local, 2026-11-13)"
+  - https://foreverdb.net/buffs-and-nerfs/rogue
+  - https://foreverdb.net/class/Rogue/pvp
+  - https://foreverdb.net/dungeon/389-ragefire-chasm
+  - https://foreverdb.net/dungeon/36-deadmines
+  - https://foreverdb.net/dungeon/33-shadowfang-keep
+  - https://foreverdb.net/dungeon/2999-ruins-of-lordaeron
+  - https://foreverdb.net/dungeon/189-scarlet-monastery
+  - https://foreverdb.net/dungeon/47-razorfen-kraul
 related: ["[[Rogue]]", "[[Combat-Rogue]]", "[[Assassination-Rogue]]", "[[Subtlety-Rogue]]", "[[Rogue-Poisons]]", "[[Rogue-Gear-and-Stats]]", "[[Rogue-Macros-and-Addons]]", "[[Leveling-Route-Orc]]", "[[Weapons-1-30]]", "[[Conflicts]]"]
 ---
 
@@ -33,6 +41,7 @@ related: ["[[Rogue]]", "[[Combat-Rogue]]", "[[Assassination-Rogue]]", "[[Subtlet
 - **Combat para subir en solitario** (Method, ForeverDB y The Forever Era coinciden). Subtlety solo si vas siempre en grupo; Assassination espera a Mutilate al 40 y necesita dos dagas. `confirmed_forever` (medium)
 - **Orden Combat de Method** (decodificado): Remorseless Attacks 10–11 → Efficient Strikes 12–13 → Coup de Grace 14–16 → Deflection 17–19 → Precision 20–21 → **Riposte 22** → Precision 23 → Endurance 24–25 → Lightning Reflexes 26 → Flawless Execution 27 → Aggression 28–30 → Weapon Expertise 31 → **Blade Flurry 32** → WE 33 → Dual Wield Spec. 34–35 → Hack and Slash 36–40. `confirmed_forever` (medium)
 - Armas: Combat con espada, hacha, maza o puño (Sinister Strike); con dagas, cambiar 1 Lightning Reflexes + 2 Endurance por 3 Puncturing Wounds y usar Backstab. No hay racials de armas en Forever.
+- **Armas de mazmorra que sí caen en Forever** (ForeverDB, addons de jugadores, 2026-11-13): Cursed Felblade 57 % y Bone Knuckles 50 % (RFC), Meathook Slicer 33 % (RoL), Cruel Barb 40 % (Deadmines), Butcher's Slicer 29 %, Blade of Silverlaine 43 %, Cell Keeper's Claws 33 % y Meteor Shard 29 % (SFK), Bloody Brass Knuckles 20 % (SM), Swinetusk Shank (RFK). Aunque falten en el cliente, existen en el servidor. `confirmed_forever` (medium; muestras de 2–15 muertes)
 - Picos: Slice and Dice y arma secundaria al 10, Garrote 14, Ambush y **Poised** 18, Rupture y venenos 20, **Vanish 22**, **Shank 24**, Cheap Shot 26, Kidney Shot y Blade Flurry 30, Adrenaline Rush 40.
 - Rotación base: (Garrote si el mob aguanta) → Sinister Strike → Slice and Dice con 1–2 CP en peleas largas → Sinister Strike a 5 → Eviscerate; desde 24 Shank en CD.
 - Para un Orc: Blood Fury (+10 % AP 15 s, 2 min de CD) al empezar peleas duras y Hardiness (−20 % aturdimientos). "Savage" ya no existe.
@@ -136,8 +145,15 @@ Contraste con el cliente (cliente 1.60.1.70938):
 - Blade of Cunning: Method lo pone a nivel 10; el cliente da ilvl 13 y req 0. Ruby-Adorned Blade: Method 30, cliente ilvl 36, req 0. Se conservan ambos.
 - **Jagged Dagger** trae Strength, no Agility, como stat (cliente).
 - No están en el cliente (posibles objetos ocultos): Cursed Felblade, Bone Knuckles, Hammer of Orgrimmar, Kris of Orgrimmar, Meathook Slicer, Cell Keeper's Claws, Butcher's Slicer, Cruel Barb, Wingblade, Blade of Silverlaine, Meteor Shard, Outlaw Sabre, Bloody Brass Knuckles, Swinetusk Shank.
+- **Confirmación de ForeverDB (2026-11-13)**: de esa lista, los addons de jugadores han registrado en Forever el drop de Cursed Felblade (Taragaman, 57 % de 14), Bone Knuckles (Oggleflint, 50 % de 14), Meathook Slicer (The Butcher, RoL, 33 % de 9), Cell Keeper's Claws (33 % de 6), Butcher's Slicer (29 % de 7), Blade of Silverlaine (43 % de 7), Meteor Shard (29 % de 7), Cruel Barb (40 % de 15), Bloody Brass Knuckles (20 % de 10) y Swinetusk Shank (visto, 2 muertes). Siguen sin dato: Hammer/Kris of Orgrimmar, Wingblade, Outlaw Sabre. Otras armas observadas: Chanting Blade y Searing Dagger (RFC, 43 %), Vileblood Scimitar y Corpse Chopper (RoL), Thief's Blade y Smite's Reaver (Deadmines), Assassin's Blade (SFK, 14 %). Fichas `src-foreverdb-dungeon-*`.
 
 Combinaciones a evitar con Hack and Slash (Method): maza + maza, daga en mano principal + hacha o espada en secundaria, daga en mano principal + puño en secundaria.
+
+## Cambios recientes que afectan al leveling (ForeverDB, cliente)
+- 11-11 (build 70888): **Poised** pasa a proc del 100 %: abrir cada pelea con energía al máximo y fuera de combate ahorra 10 de energía.
+- 04-11: Improved Sprint y Dirty Deeds bajan a nivel 15; Aggression a 25; Weapon Expertise a 25 (tras Precision 3/3); Flawless Execution −15 de energía a Eviscerate; Adrenaline Rush exige Blade Flurry.
+- Niveles de habilidades del cliente: Garrote 14, Feint 16, Ambush y Poised 18, Rupture 20, Vanish 22, Shank 24, Cheap Shot 26, Kidney Shot 30, Blind 34 ([[src-foreverdb-class-rogue-pvp]]).
+- ForeverDB (página PvP) dice que la habilidad Poisons llega con la **misión de clase de nivel 20** y Crippling Poison desde 20; su lista de misiones (datos de Classic) tiene *Plundering the Plunderers* a 18. Ver [[Rogue-Poisons]].
 
 ## Builds
 | Build | Claves | Estado |
@@ -153,6 +169,7 @@ Combinaciones a evitar con Hack and Slash (Method): maza + maza, daga en mano pr
 - Discrepancias: Remorseless Attacks a 10 (Method) frente a Coup de Grace primero (ForeverDB); Riposte a 22 (Method) frente a 30 (ForeverDB); Dual Wield entrenado o automático; cómo se aprenden los venenos ([[Rogue-Poisons]]).
 - Valores y niveles de habilidades: [[src-foreverdb-class-rogue-talents]] (cliente 1.60.1.70938) y [[src-blizzard-forum-beta-development-notes-november-2-2360696]].
 - Habilidades de armas: [[src-foreverdb-trainers]].
+- Cambios por build y niveles de habilidades: [[src-foreverdb-buffs-and-nerfs-rogue]], [[src-foreverdb-class-rogue-pvp]]. Drops observados: [[src-foreverdb-dungeon-389-ragefire-chasm]], [[src-foreverdb-dungeon-36-deadmines]], [[src-foreverdb-dungeon-33-shadowfang-keep]], [[src-foreverdb-dungeon-2999-ruins-of-lordaeron]], [[src-foreverdb-dungeon-189-scarlet-monastery]], [[src-foreverdb-dungeon-47-razorfen-kraul]].
 
 ## Fuentes
 - [Data from ForeverDB.net](https://foreverdb.net)
@@ -169,6 +186,9 @@ Combinaciones a evitar con Hack and Slash (Method): maza + maza, daga en mano pr
 | https://foreverdb.net/trainers | Datos (posiciones de Classic) | sin fecha | 2026-11-13 | Desconocido |
 | https://theforeverera.com/es/guides/classes/rogue/ | Guía fan (es) | 2026-10-25 | 2026-11-13 | Sí (cuerpo) |
 | https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-november-2/2360696/9 | Notas oficiales | 2026-11-03 | 2026-11-13 | Es el parche |
+| https://foreverdb.net/buffs-and-nerfs/rogue | Cambios por build del cliente | 2026-11-13 | 2026-11-13 | No |
+| https://foreverdb.net/class/Rogue/pvp | Guía PvP ForeverDB | build 70938 | 2026-11-13 | No |
+| https://foreverdb.net/dungeon/ (389, 36, 33, 2999, 189, 47) | Datos ForeverDB por mazmorra | 2026-11-13 | 2026-11-13 | No |
 
 ## Preguntas pendientes
 - ¿Cuántos puntos ha gastado ya el personaje y dónde? Desconocido hasta el próximo export.

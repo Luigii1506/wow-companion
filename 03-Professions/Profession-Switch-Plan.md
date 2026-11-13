@@ -29,6 +29,16 @@ sources:
   - https://foreverdb.net/item/2836
   - https://foreverdb.net/item/2318
   - https://foreverdb.net/item/2319
+  - https://foreverdb.net/guide/best-professions-by-class
+  - https://foreverdb.net/professions/best/rogue
+  - https://foreverdb.net/professions/best/orc
+  - https://foreverdb.net/guide/legacy-system
+  - https://foreverdb.net/profession/mining
+  - https://foreverdb.net/profession/mining/nodes
+  - https://foreverdb.net/profession/engineering
+  - https://foreverdb.net/quests/engineering
+  - https://foreverdb.net/profession/skinning
+  - https://foreverdb.net/profession/skinning/leveling
 related: ["[[Mining]]", "[[Skinning]]", "[[Engineering]]", "[[Engineering-for-Rogue]]", "[[Ores]]", "[[Material-Demand]]", "[[Camping]]", "[[Legacy]]", "[[Leveling-Route-Orc]]", "[[Gold-Gathering-While-Leveling]]"]
 ---
 
@@ -42,6 +52,7 @@ related: ["[[Mining]]", "[[Skinning]]", "[[Engineering]]", "[[Engineering-for-Ro
 - Por qué no esperar mucho: Engineering da **1 punto Legacy a skill 150**, alcanzable con el rango Journeyman (nivel 10); Skinning y Mining no dan ninguno. `confirmed_forever` ([[Legacy]], ForeverDB, Kami)
 - Por qué el campamento no frena el cambio: **cada jugador pone un solo objeto por hoguera**, y para un Rogue la **Lodestone** de Mining (AP 20 entre los niveles 12 y 21) compite con la Camp Chair de Skinning (+2 % crítico). Perder Skinning no te quita la Lodestone. `confirmed_forever` (cliente, TFE)
 - Skinning como oro: Light Leather se vende a 20c–47c (vendedor 15c) y Medium Leather a 74c–1s49c (2026-11-12/13). Silver Ore se paga a 3s12c–8s43c. Mining rinde más por veta que Skinning por cadáver en estos precios (inferido).
+- **Contrapunto de ForeverDB**: su recomendación para Rogue (y Orc, que no tiene racial de profesión) es **Leatherworking + Skinning**; puntúa Engineering con 0 para Rogue en PvE porque no fabrica piezas BiS, aunque la considera útil en PvP por bombas y gadgets (especulación del sitio). El plan Mining + Engineering es una elección de utilidad/PvP y de puntos Legacy, no de equipo. `confirmed_forever` (que el sitio lo dice)
 - Desaprender una profesión borra su skill (en Classic, y WT lo confirma para Engineering): si vuelves a Skinning empiezas de 1. `probable_classic`
 
 ## Calendario propuesto (inferido)
@@ -103,7 +114,23 @@ Total aproximado 1–150 comprándolo todo: **~3g–6g50s** más Heavy Stone y W
 
 Demanda de cuero por profesión: [[Material-Demand]]. Pristine Hide (EZ-Thro Fireproof Fuse) y Pristine Scale (EZ-Thro Shell, Ultralight Goblin Glider) son Scarce de Skinning que Engineering también usa: si salen, **conservarlos**.
 
+## Lo que añade ForeverDB (2026-11-13)
+| Dato | Valor | Estado |
+|---|---|---|
+| Puntos Legacy | Solo fabricación: Engineering da 1 punto a 150, 225 y 300; Mining y Skinning, 0. El primer punto de la cuenta también desbloquea el sistema (nivel 25, 150 de fabricación o explorar) | confirmed_forever (cliente + Blizzard) |
+| Recetas de Mining nuevas | Lodestone (amarilla desde 20; 1 Rough Stone + 1 Copper Bar), Rock Garden (140; 2 Heavy Stone, 1 Iron Ore, 1 Silver Bar), Azerothium Bar (275), Molten Foundry (300), Heavy Thorium Bar (300) | confirmed_forever |
+| Skill de vetas (cliente) | Copper 1, Tin 65, Silver 75, Iron 125, Gold 155, Mithril 175, Truesilver 230 | confirmed_forever |
+| Vetas por zona (Classic, corregido el 6-11) | Durotar 159 Copper; Barrens 38 Copper, 23 Tin, 20 Silver, 10 Iron; Stonetalon 47 Copper, 19 Tin; Ashenvale 55 Copper, 33 Tin, 57 Silver, 55 Iron; Thousand Needles 45 Copper, 24 Tin, 110 Iron, 35 Gold; Hillsbrad 55 Copper, 65 Tin, 68 Silver, 18 Iron | probable_classic |
+| Engineering en el cliente | 275 recetas, 77 nuevas y 22 cambiadas. Nuevas tempranas: Reagent Bot (20), SAF-T Dynamite y SAF-T Tabs (25), SAF-T Copper Bomb (55), Satchel of Copper Bombs (85), EZ-Thro Wrap (100), 9-60 Battery Pack (125), EZ-Thro Copper Bomb XL (130) | confirmed_forever |
+| Entrenadores de Engineering Horde | Mukdrak (Durotar 52.2 40.8), Thund (Org 76.0 24.1), Nogg (Expert, Org 76.0 25.0), Roxxik (Artisan, Org 76.2 25.2), Tinkerwiz (Ratchet 62.7 36.3) | probable_classic (posiciones) |
+| Entrenadores de Mining Horde | Krunn (Durotar 51.8 40.9), Makaru (Org 73.0 26.6) | probable_classic (posiciones) |
+| Especialización Gnomish/Goblin | Misiones de nivel 47 (Classic data); Goblin pide 20 Big Iron Bombs, 20 Solid Dynamite y 5 Explosive Sheep a Nixx Sprocketspring (Gadgetzan) | probable_classic |
+| Cuero que usa Engineering | Light Leather 3 recetas, Medium Leather 16, Heavy Leather 27 | confirmed_forever |
+
+Los recuentos de vetas difieren algo de los de The Forever Era citados arriba (Durotar 159 frente a 156; Barrens Iron 10 frente a 2): ForeverDB quitó objetos de misión el 6-11. Ninguno es dato observado en Forever.
+
 ## Qué dicen las guías
+- ForeverDB: [[src-foreverdb-professions-best-rogue]], [[src-foreverdb-professions-best-orc]], [[src-foreverdb-guide-best-professions-by-class]] (LW + Skinning recomendado; Engineering para PvP), [[src-foreverdb-guide-legacy-system]] (puntos), [[src-foreverdb-profession-mining]], [[src-foreverdb-profession-mining-nodes]], [[src-foreverdb-profession-engineering]], [[src-foreverdb-quests-engineering]], [[src-foreverdb-profession-skinning-leveling]].
 - Un objeto por jugador y valores de la Lodestone: [[src-theforeverera-en-camping]]. Puntos Legacy de Engineering: [[src-foreverdb-guide-professions]], [[src-kamilabs-guide-ingenierie-wow-forever]].
 - Rutas y listas de compra: [[src-foreverdb-profession-engineering-leveling]], [[src-kamilabs-guide-ingenierie-wow-forever]], [[src-theforeverera-en-guides-professions-engineering]]. Desaprender: [[src-warcrafttavern-guides-engineering]]. Entrenadores: [[src-warcrafttavern-guides-profession-trainers]].
 - Precios: [[src-foreverdb-item-2770]], [[src-foreverdb-item-2840]], [[src-foreverdb-item-2771]], [[src-foreverdb-item-2775]], [[src-foreverdb-item-2841]], [[src-foreverdb-item-2835]], [[src-foreverdb-item-2836]], [[src-foreverdb-item-2318]], [[src-foreverdb-item-2319]].
@@ -123,6 +150,9 @@ Demanda de cuero por profesión: [[Material-Demand]]. Pristine Hide (EZ-Thro Fir
 | https://www.warcrafttavern.com/forever/guides/engineering/ | guía | sin fecha | 2026-11-13 | Probablemente sí |
 | https://www.warcrafttavern.com/forever/guides/profession-trainers/ | guía | sin fecha | 2026-11-13 | desconocido |
 | foreverdb.net/item/2770, 2840, 2771, 2775, 2841, 2835, 2836, 2318, 2319 | subasta (addon) | 2026-11-12/13 | 2026-11-13 | No |
+| foreverdb.net/guide/best-professions-by-class, /professions/best/rogue, /professions/best/orc | guía y datos | 2026-11-13 | 2026-11-13 | No |
+| foreverdb.net/guide/legacy-system | guía | 2026-11-03 | 2026-11-13 | No |
+| foreverdb.net/profession/mining, /mining/nodes, /engineering, /quests/engineering, /skinning, /skinning/leveling | cliente + Classic | 2026-11-13 | 2026-11-13 | No |
 
 ## Preguntas pendientes
 - Skill actual de Mining y Skinning, oro y espacio de bolsas (export).

@@ -18,19 +18,24 @@ sources:
   - https://lfcarry.com/guides/wow-forever-gold-economy
   - https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-november-2/2360696/9
   - https://www.warcrafttavern.com/forever/news/wow-forever-pre-launch-class-changes-bug-fixes/
-related: ["[[Herbalism]]", "[[Herbs]]", "[[Gathering-Routes]]", "[[Camping]]", "[[Professions]]", "[[Conflicts]]"]
+  - https://foreverdb.net/profession/skinning
+  - https://foreverdb.net/profession/skinning/leveling
+  - https://foreverdb.net/quests/the-barrens
+  - https://foreverdb.net/guide/legacy-system
+related: ["[[Profession-Switch-Plan]]", "[[Legacy]]", "[[Herbalism]]", "[[Herbs]]", "[[Gathering-Routes]]", "[[Camping]]", "[[Professions]]", "[[Conflicts]]"]
 ---
 
 # Skinning
 
 > [!warning] Datos en conflicto: ver [[Conflicts]]
-> Nivel de personaje por rango y tope de skill en el lanzamiento (225 o 300).
+> Nivel de personaje por rango y tope de skill en el lanzamiento (225 o 300). Nuevo: Skinning **no da puntos Legacy** según ForeverDB y Blizzard; la nota decía lo contrario citando a Kami-Labs.
 
 ## Resumen
 - Como en Classic: matar y saquear del todo una bestia (o dragonkin y algunos humanoides) con un Skinning Knife en la mochila; el nivel del mob fija el skill necesario. Un solo desuelle por cadáver (restaurado en la beta el 1 de octubre). `confirmed_forever`.
 - Undead nivel ~9: todo lo de nivel 1–10 de Tirisfal pide skill 1. Apprentice con Margaret Weaver (Death Knell, 32.60 65.60, Junior); Journeyman (skill 50) con Rand Rhobart (Death's Watch Waystation, SE de Brill) o Killian Hagey (Undercity 70.20 59.10).
 - **Skill 20 → Camp Chair** (279979): +2% de crítico para ti y los cercanos en la hoguera, 1 h o hasta morir; no se acumula con Moonkin Aura (Method). Ver [[Camping]].
-- **Keen Skinning Knife** (269716, +3, solo Horde) de la quest *Unwelcome Guests* (95508); ubicación de la quest: desconocida.
+- **Keen Skinning Knife** (269716, +3, solo Horde) de la quest *Unwelcome Guests* (95508). ForeverDB la sitúa en **The Barrens**, nivel 18, la da **Walton** (sobrevivir al encuentro con Terry Longdrink y los marines de Kul Tiras); dato marcado como de Classic en esa página, posición exacta no dada. `probable_classic`
+- **Para el Orc Rogue (nivel 11, Durotar/Barrens)**: con skill 1–51 todo Durotar sirve (bestias hasta nivel 11 piden skill ≤10); de 51 a 151 The Barrens (ForeverDB). Skinning **no da puntos Legacy**: si se cambia por Engineering, se gana hasta 3 puntos (ver [[Profession-Switch-Plan]]). Conservar Light y Medium Leather: Engineering usa Light Leather en 3 recetas, Medium Leather en 16 y Heavy Leather en 27 (cliente vía ForeverDB).
 - Method (2026-11-06) cubre 1–225 y ampliará a 300 tras el lanzamiento. Si el juego limita a 225: sin confirmar (Kami-Labs dice que la beta paraba en 225).
 
 ## Rangos y entrenadores
@@ -74,11 +79,26 @@ Silverpine: ninguna guía la cubre para Skinning. Ruta combinada: [[Gathering-Ro
 | 2 | Field Guide (279969) | 140 (tier 2, Method camping) | desconocido | Mantiene el buff + Track Beasts | confirmed_forever |
 | 3 | Trapper's Workbench (279938) | 300 (tier 3) | desconocido | Mantiene el buff + fabricar trampas para el mundo abierto | confirmed_forever |
 
+Materiales (cliente, vía ForeverDB 2026-11-13): **Camp Chair** = 3 Light Leather + 2 Simple Wood (amarilla desde 20); **Field Guide** = 3 Medium Leather + 2 Slimy Murloc Scale + 1 Fine Thread (140); **Trapper's Workbench** = 2 Simple Wood + 4 Heavy Leather + 1 Iron Bar (300). Son las tres únicas recetas de Skinning en el cliente. `confirmed_forever`
+
 - No confundir el objeto Field Guide con el perk Legacy *Field Guide* (−8% de reutilización al añadir objetos al campamento) (Method camping).
 - **Materiales nuevos:** Fel Hide, Fel Leather, Pristine Scale, Pristine Leather, Pristine Hide (WT); Method sitúa Pristine Hide en 125–225. Origen exacto: desconocido. Scarce de Skinning existen (Bountiful Harvest +20% por rango); cuáles: desconocido.
 - **Bonus de skill** (Method): Keen Skinning Knife +3 (Horde, *Unwelcome Guests*); Cartilage Shapers (273054) +4, guantes de cuero de Lyn the Ignored en Dalaran; Enchant Gloves Skinning +5 (spell 13698) / Advanced +10 (spell 1248528). Máximo 317. `confirmed_forever`.
-- **Legacy:** puntos a 150, 225 y 300 (Kami-Labs). `confirmed_forever`.
+- **Legacy:** Kami-Labs decía que da puntos a 150, 225 y 300. **Incorrecto**: ForeverDB (guía del 03-11 y tooltips del cliente) y [[Legacy]] dicen que solo las seis profesiones de fabricación dan puntos; Mining, Herbalism y Skinning no. `conflicting` (pendiente de registrar en [[Conflicts]]); se da por buena la versión del cliente.
+- **Bountiful Harvest** (perk Legacy) duplica a 5/5 los materiales Scarce de Skinning.
 - **Parche 2026-11-02:** respawn de criaturas más rápido en zonas bajas, temporal (oficial). Hotfixes 5–6 nov. arreglaron botín/respawn en Durotar, Dun Morogh, Dustwallow, Riverglades, Swamp of Sorrows y Teldrassil (Conquest Capped). XP por desollar: `unknown`.
+
+### Zonas por skill según ForeverDB (spawns de Classic)
+| Skill | Zonas | Ejemplos Horde | Estado |
+|---|---|---|---|
+| 1–51 | Mulgore, Durotar, Dun Morogh | Durotar: jabalíes, escórpidos, raptores Bloodtalon, Durotar Tiger, Dreadmaw Crocolisk 9–11 (skill 10) | probable_classic |
+| 51–151 | The Barrens, Mulgore, Durotar | Barrens: Savannah Huntress/Highmane, Sunscale Lashtail, plainstriders 11–13 (skill 20–30) | probable_classic |
+| 151–181 | Ashenvale, The Barrens, Wetlands | — | probable_classic |
+| 181–206 | Desolace, Thousand Needles, Ashenvale | Thousand Needles 24–30 (skill 120–150) | probable_classic |
+| 206–236 | Dustwallow Marsh, Desolace, Stranglethorn | — | probable_classic |
+| 236–300 | Tanaris, Dustwallow Marsh, Feralas | — | probable_classic |
+
+Rangos según ForeverDB: Apprentice 75 (nivel 5), Journeyman 150 (10), Expert 225 (20), Artisan 300 (35), niveles de Classic; su página de profesiones dice que a 60 se entrena hasta Artisan (300). Encaja con WT y apoya el tope de 300, sin confirmación en el juego.
 
 ## Para ganar oro
 - Method no da consejos de oro ni precios. LFCarry (beta): cuero básico a veces cerca del valor de vendedor; Medium Leather "se vende en volumen". Sin cifras.
@@ -86,6 +106,7 @@ Silverpine: ninguna guía la cubre para Skinning. Ruta combinada: [[Gathering-Ro
 - Recomendación: guardar Light Leather/Hide hasta tener precios fechados del reino.
 
 ## Qué dicen las guías
+- [[src-foreverdb-profession-skinning]] y [[src-foreverdb-profession-skinning-leveling]]: recetas del cliente con materiales, zonas por skill, uso de cada cuero por profesión. [[src-foreverdb-guide-legacy-system]]: la recolección no da puntos Legacy. [[src-foreverdb-quests-the-barrens]]: *Unwelcome Guests*.
 - Consenso: fórmula de skill de Classic y un desuelle por cadáver (wow-professions, WT, Conquest Capped, LFCarry).
 - [[src-method-skinning-in-wow-forever-leveling-guide-skinning-items-enchants-trainers]] (2026-11-06): ruta Durotar → Barrens → Thousand Needles; objetos y enchants; Camp Chair con duración 1 h. wow-professions prefiere el raptor camp de Barrens y los yetis de Hillsbrad.
 - **Corrección:** la nota anterior (2026-11-10) decía que Method afirmaba que Skinning "está limitado a 225 por ahora". Al releer (2026-11-13), Method dice que **su guía** cubre hasta 225 y se ampliará; no afirma un tope del juego. Kami-Labs sí dice que la beta paraba en 225. El tope en live sigue sin confirmar.
@@ -104,15 +125,21 @@ Silverpine: ninguna guía la cubre para Skinning. Ruta combinada: [[Gathering-Ro
 | us.forums.blizzard.com …development-notes (2 nov) | official | 2026-11-03 | 2026-11-10 | Es el parche |
 | warcrafttavern.com …pre-launch-class-changes-bug-fixes/ | news | 2026-11-04 | 2026-11-10 | No |
 
+| foreverdb.net/profession/skinning y /skinning/leveling | datos del cliente + spawns de Classic | 2026-11-13 | 2026-11-13 | No |
+| foreverdb.net/guide/legacy-system | guía | 2026-11-03 | 2026-11-13 | No |
+| foreverdb.net/quests/the-barrens | lista de misiones (Classic) | 2026-11-13 | 2026-11-13 | No |
+
+[Data from ForeverDB.net](https://foreverdb.net)
+
 No se pudieron leer (403): mobalytics skinning, epiccarry, icy-veins.
 
 ## Preguntas pendientes
 - ¿Journeyman exige nivel 10? (Relevante ya para el nivel 9.)
 - Coste real con unidad de cada rango.
 - ¿Tope de 225 o 300 en live?
-- Cómo se aprenden Camp Chair, Field Guide y Trapper's Workbench, y sus materiales; qué trampas da el Workbench.
+- Cómo se aprenden Camp Chair, Field Guide y Trapper's Workbench (materiales ya conocidos); qué trampas da el Workbench.
 - Origen de Fel Hide/Leather y Pristine; Scarce de Skinning.
-- Dónde empieza *Unwelcome Guests* (Keen Skinning Knife).
+- Posición exacta de Walton (*Unwelcome Guests*, Barrens) en Forever.
 - ¿Desollar da XP?
 - Rutas de Skinning en Silverpine: observar en juego.
 - Precios fechados de cuero y pieles en el reino.

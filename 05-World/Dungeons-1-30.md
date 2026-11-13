@@ -1,6 +1,6 @@
 ---
 type: topic
-tags: [forever, leveling, dungeons, priest]
+tags: [forever, leveling, dungeons, priest, rogue]
 level_min: 1
 level_max: 30
 faction: horde
@@ -36,6 +36,18 @@ sources:
   - https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-11-2026
   - https://theforeverera.com/en/guides/leveling/horde/
   - https://kami-labs.fr/en/wow-forever/bugs-quetes-wow-forever/
+  - https://foreverdb.net/dungeon/389-ragefire-chasm
+  - https://foreverdb.net/dungeon/43-wailing-caverns
+  - https://foreverdb.net/dungeon/36-deadmines
+  - https://foreverdb.net/dungeon/33-shadowfang-keep
+  - https://foreverdb.net/dungeon/48-blackfathom-deeps
+  - https://foreverdb.net/dungeon/2998-excavation-site-wetlands
+  - https://foreverdb.net/dungeon/2999-ruins-of-lordaeron
+  - https://foreverdb.net/dungeon/2959-city-of-dalaran
+  - https://foreverdb.net/dungeon/3065-the-hall-of-thanes
+  - https://foreverdb.net/dungeon/189-scarlet-monastery
+  - https://foreverdb.net/dungeon/47-razorfen-kraul
+  - https://foreverdb.net/dungeon/90-gnomeregan
 related: ["[[Dungeon-XP]]", "[[Party-Leveling]]", "[[Leveling-Route-Undead]]", "[[Priest-Leveling]]", "[[Leveling-Guides-Compared]]", "[[Priest-Wands]]", "[[Conflicts]]"]
 ---
 
@@ -43,6 +55,7 @@ related: ["[[Dungeon-XP]]", "[[Party-Leveling]]", "[[Leveling-Route-Undead]]", "
 
 > [!warning] Datos en conflicto: ver [[Conflicts]]
 > Rangos de nivel (C7 y la discrepancia general entre páginas de Method y su artículo de XP), nivel de Gravestone Scepter (C8), fecha del +50% (C6).
+> ForeverDB (2026-11-13) aclara el origen: el rango "hub" coincide con el **buscador del cliente** y el del artículo, en las mazmorras nuevas, con los posts de Blizzard. Los dos son oficiales.
 
 ## Resumen
 - Plan: hacer **cada mazmorra una vez con todas sus misiones**, al final del tramo de su zona. Las misiones dan casi todo el XP; el XP por muerte subió +50% el 08/09-11 (ver [[Dungeon-XP]]). Nada de boost.
@@ -50,6 +63,8 @@ related: ["[[Dungeon-XP]]", "[[Party-Leveling]]", "[[Leveling-Route-Undead]]", "
 - Si la ruta pasa por Kalimdor (C9): [[Ragefire-Chasm]], [[Wailing-Caverns]] y [[Blackfathom-Deeps]] tienen misiones Horde.
 - Poco útiles para Horde: [[The-Deadmines]] y [[Hall-of-Thanes]] (pocas o ninguna misión, viaje largo); [[The-Stockade]] es solo Alliance.
 - Como Priest te pedirán **sanar**: Fear Ward para Shadetooth (Excavation Site), dispel de venenos/enfermedades en Gnomeregan y Razorfen Kraul, y cuidado con The Baron (RoL) y Baron Silverlaine (SFK).
+
+- **Para el Orc Rogue (main desde el 13-11)**: ver la sección "Para un Orc Rogue" más abajo. Orden natural desde Orgrimmar: [[Ragefire-Chasm]] (13–18) → [[Wailing-Caverns]] (15–24) → [[Shadowfang-Keep]] o [[The-Deadmines]] por armas (20–26) → [[Blackfathom-Deeps]] (24–32) → [[Razorfen-Kraul]] / [[Scarlet-Monastery-Graveyard]] (29–38).
 
 ## Mazmorras del tramo
 | Nivel (hub / artículo) | Mazmorra | Para un Undead | Misiones Horde | Botín caster destacado | Estado |
@@ -70,6 +85,26 @@ related: ["[[Dungeon-XP]]", "[[Party-Leveling]]", "[[Leveling-Route-Undead]]", "
 
 "Hub" = página propia y hub de Method; "artículo" = artículo de XP de Method (para las ★ dice usar el rango oficial de Blizzard). ★ = nueva de Forever. Niveles de objeto: Method "best weapons 1–30" (06-11), no específico de Priest.
 
+## Para un Orc Rogue (ForeverDB, 2026-11-13)
+Botín con frecuencia **observada en Forever** por los addons de jugadores (muestras de 6–15 muertes: orientativo). Entrada desde = nivel mínimo para entrar según el cliente. Tipos de objeto y stats no verificados aquí: ver [[Rogue-Leveling]].
+
+| Nivel (buscador) | Mazmorra | Entrada (coords) | Para Rogue: drop y frecuencia | Misiones Horde (nivel ForeverDB) | Estado |
+|---|---|---|---|---|---|
+| 13–18 (desde 10) | [[Ragefire-Chasm]] | Orgrimmar 53.0 48.9 | Cursed Felblade 57 %, Bone Knuckles 50 %, Chanting Blade 43 %, Searing Dagger 43 % | 6 (15–16), en Orgrimmar y Thunder Bluff | confirmed_forever (medium) |
+| 15–22 (Blizzard 15–20) | [[Ruins-of-Lordaeron]] | Tirisfal 63.3 67.5 | Vileblood Scimitar 67 %, Corpse Chopper 44 %, Meathook Slicer 33 %, Sword of the Fallen 22 % | 5–6 (21–22), Undercity | confirmed_forever (low) |
+| 15–24 (desde 10) | [[Wailing-Caverns]] | Barrens 47.7 35.0 | Leggings of the Fang 67 % (top pick Assassination 20), Armor of the Fang 67 %, Belt of the Fang 29 % | Serpentbloom 18, Leaders of the Fang 22 + neutrales | confirmed_forever (low) |
+| 17–26 (desde 10) | [[The-Deadmines]] | Westfall 38.2 77.5 | Cruel Barb 40 %, Thief's Blade 40 %, Smite's Reaver 27 %, Blackened Defias Belt 27 %, Cape of the Brotherhood 20 % | ninguna | confirmed_forever (medium) |
+| 20–30 (desde 11) | [[Shadowfang-Keep]] | Silverpine 44.7 67.8 | Blade of Silverlaine 43 %, Black Wolf Bracers 57 %, Feline Mantle 43 %, Cell Keeper's Claws 33 %, Butcher's Slicer 29 %, Meteor Shard 29 %, Assassin's Blade 14 % | 4 (25–27) | confirmed_forever (low) |
+| 24–32 (desde 15) | [[Blackfathom-Deeps]] | Ashenvale 16.5 11.0 | Darkwater Talwar 45 %, Naga Battle Gloves 45 %, Bite of Serra'kis 29 % | 5 (22–27) | confirmed_forever (low) |
+| 26–33 (Blizzard 24–29) | [[Excavation-Site-Wetlands]] | Wetlands 24.5 73.4 | Fighter Broadsword (visto) | 4 (31) | confirmed_forever (low) |
+| 28–35 (Blizzard 28–33) | [[City-of-Dalaran]] | Silverpine 69.6 46.1 (Horde) | Unstable Crystalline Shoulderpads (top pick Assassination 30, origen solo pista del cliente), Brawler Gloves 33 % | 3–4 (33) | confirmed_forever (low) |
+| 30–38 (desde 20) | [[Scarlet-Monastery-Graveyard]] | Tirisfal 85.1 31.4 | Bloody Brass Knuckles 20 % (Vishas) | 2 (33) | confirmed_forever (low) |
+| 29–38 (desde 25) | [[Razorfen-Kraul]] | Barrens 42.3 89.9 | Swinetusk Shank, Armor Piercer (vistos; 2 muertes) | 2 (33–34) | confirmed_forever (low) |
+
+- Muchas de estas armas figuraban en [[Rogue-Leveling]] como "no está en el cliente (posible objeto oculto)": ForeverDB las ha visto **caer en Forever**, así que existen en el servidor.
+- Reto Legacy Novice Spelunker para la Horde: RFC, RoL, WC, Deadmines, SFK y Excavation Site (jefe final de todas). Ver [[Legacy]].
+- Niveles de misión de ForeverDB más altos que los de Method en varias (Book of Ur 26 frente a 16, Essence of Aku'Mai 22 frente a 17, misiones de RFC 15–16 frente a 9).
+
 ## Datos específicos de Forever
 - Hotfix 2026-11-08/09: +50% XP por muerte en mazmorras (confirmed_forever, high; fecha en C6).
 - Hotfix 2026-11-06: *Unending Torment* (RoL) desde nivel 15 (confirmed_forever, high).
@@ -88,6 +123,7 @@ related: ["[[Dungeon-XP]]", "[[Party-Leveling]]", "[[Leveling-Route-Undead]]", "
 | Repetir mazmorras para XP | Menos rentable que en Classic; el +50% lo mejora sin datos medidos | Rentable | conflicting |
 
 ## Qué dicen las guías
+- ForeverDB (fichas `src-foreverdb-dungeon-*`): rango del buscador del cliente, coordenadas, orden de jefes, tiempos de run y botín con frecuencia observada en Forever.
 - Method (hub y 13 páginas, 12-10 a 13-11): misiones, jefes y botín por mazmorra; sin recompensas salvo XP en Hall of Thanes, Excavation Site y SM Graveyard. Ver [[src-method-dungeons]] y las fichas `src-method-dungeons-*`.
 - [[src-method-wow-forever-dungeon-xp-explained-and-all-dungeons-by-level]]: sistema de XP y rangos alternativos.
 - [[src-method-the-best-weapons-in-wow-forever-from-levels-1-30]]: niveles de armas de la tabla.
@@ -124,6 +160,9 @@ related: ["[[Dungeon-XP]]", "[[Party-Leveling]]", "[[Leveling-Route-Undead]]", "
 | https://www.warcrafttavern.com/forever/news/experience-from-dungeon-kills-increased-in-wow-forever/ | Noticia | 2026-11-08 | 2026-11-10 | No |
 | https://theforeverera.com/en/guides/leveling/horde/ | Fan site | 2026-11-04 | 2026-11-10 | No |
 | https://kami-labs.fr/en/wow-forever/bugs-quetes-wow-forever/ | Seguimiento de bugs | estado 2026-11-07 | 2026-11-10 | No |
+| https://foreverdb.net/dungeon/ (12 páginas: 389, 43, 36, 33, 48, 2998, 2999, 2959, 3065, 189, 47, 90) | Datos ForeverDB (cliente + addons) | 2026-11-13 | 2026-11-13 | No |
+
+[Data from ForeverDB.net](https://foreverdb.net)
 
 ## Preguntas pendientes
 - Recompensas en objetos de casi todas las misiones Horde (RoL, SFK, BFD, Excavation Site, Dalaran).

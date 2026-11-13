@@ -8,7 +8,7 @@ status: conflicting
 confidence: medium
 last_verified: 2026-11-13
 game_version: "Forever 1.60.1"
-sources: [https://www.method.gg/wow-forever/dungeons/city-of-dalaran, https://www.method.gg/wow-forever/dungeons, https://www.method.gg/wow-forever/wow-forever-dungeon-xp-explained-and-all-dungeons-by-level]
+sources: [https://www.method.gg/wow-forever/dungeons/city-of-dalaran, https://www.method.gg/wow-forever/dungeons, https://www.method.gg/wow-forever/wow-forever-dungeon-xp-explained-and-all-dungeons-by-level, https://foreverdb.net/dungeon/2959-city-of-dalaran]
 related: ["[[Dungeons-1-30]]", "[[Dungeon-XP]]", "[[Shadowfang-Keep]]", "[[Priest-Wands]]", "[[Conflicts]]"]
 ---
 
@@ -16,12 +16,14 @@ related: ["[[Dungeons-1-30]]", "[[Dungeon-XP]]", "[[Shadowfang-Keep]]", "[[Pries
 
 > [!warning] Datos en conflicto: ver [[Conflicts]]
 > Rango: 28–35 (cabecera de la página y hub), 26–33 (introducción de la misma página), 28–33 (artículo de XP, "rango oficial de Blizzard").
+> ForeverDB: **28–35 es el buscador del cliente** y 28–33 el post de Blizzard (Kaivax).
 
 ## Resumen
 - Nivel: 28–33 según Blizzard vía Method; otras cifras arriba. Mazmorra nueva, 8 jefes (uno secreto), 30–40 min.
 - Ubicación y entrada: versión instanciada de Dalaran, Alterac Mountains; entrada exterior por el noroeste. Requiere **Dalaran Sewers Key** (attunement).
 - Horde: attunement en Tarren Mill (Hillsbrad) con Magus Wordeen Voidglare.
 - Por qué ir: todas las misiones de una facción suman 15.800 XP (beta). Mucho botín de caster: Wand of Mana Concentration, Spine of the Devourer, Violet Sorcerer's Robes.
+- **Para el Orc Rogue (ForeverDB)**: Unstable Crystalline Shoulderpads, top pick de Assassination a nivel 30 (origen solo como pista del cliente, junto a Guardian's Dualblade de Unstable Sentinel). Entrada Horde Silverpine (69.6, 46.1), a nado por Lordamere Lake; 9 jefes; run ~47 min.
 
 ## Attunement Horde (Dalaran Sewers Key)
 | Paso | Misión | Notas | Estado |
@@ -61,7 +63,19 @@ Todas de nivel 24 según Method. Total por facción: 15.800 XP (beta, artículo 
 - Shade of the Archmage: a 0 de maná lanza Mass Polymorph y Evocation; salir de Bounding Mana.
 - Fel Ancient: hablar antes con Grindle Firespark para quitar las barreras.
 
+## Datos de ForeverDB (cliente y registros de jugadores, 2026-11-13)
+
+| Dato | Valor | Estado |
+|---|---|---|
+| Nivel | 28–35 (buscador del cliente) / 28–33 (Blizzard) | confirmed_forever (ambas) |
+| Entrada Horde | Silverpine Forest (69.6, 46.1): cruzar Lordamere Lake a nado hasta la parte trasera de la ciudad; vuelo The Sepulcher | confirmed_forever |
+| Run completa | mediana ~47 min (3 runs), mejor 37:01 | confirmed_forever (low) |
+| Cambio de Blizzard (15-10) | la cadena Horde de la Dalaran Sewer Key ya no da acceso libre a la ciudad en el mundo abierto; no afecta a la mazmorra | confirmed_forever |
+
+Orden del cliente (9): Arcane Anomaly → Fel Ancient → Mana Devourer → Mana Elemental → Unstable Sentinel → Lyn the Ignored → Atrexis the Grave Knight → Mana Wraith → Shade of the Archmage (1–3 muertes). Botín visto: Guardian's Dualblade 67 % (Unstable Sentinel), Brawler Gloves 33 % y Bonebinder's Signet 67 % (Atrexis), Drape of Shifting Energy (Mana Elemental). Misiones (33): Heart of Disruption y Starving Arcane (Image of Archmage Modera, Silverpine 68.6 45.1), Source of Power (Doctor Martin Felben, Undercity), The Grave Knight (Melisara, Hillsbrad 62.6 20.6).
+
 ## Qué dicen las guías
+- [[src-foreverdb-dungeon-2959-city-of-dalaran]]: rango del buscador del cliente, coordenadas de entrada, orden de jefes y botín con frecuencia observada en Forever (muestras pequeñas).
 - [[src-method-dungeons-city-of-dalaran]] (15-10, beta). [[src-method-wow-forever-dungeon-xp-explained-and-all-dungeons-by-level]]: 28–33, 15.800 XP, attunement en Hillsbrad.
 
 ## Fuentes
@@ -70,6 +84,9 @@ Todas de nivel 24 según Method. Total por facción: 15.800 XP (beta, artículo 
 | https://www.method.gg/wow-forever/dungeons/city-of-dalaran | Guía Method (Jurdi) | 2026-10-15 | 2026-11-13 | Sí |
 | https://www.method.gg/wow-forever/dungeons | Hub Method | sin fecha | 2026-11-13 | Desconocido |
 | https://www.method.gg/wow-forever/wow-forever-dungeon-xp-explained-and-all-dungeons-by-level | Guía Method | 2026-11-04 | 2026-11-13 | No |
+| https://foreverdb.net/dungeon/2959-city-of-dalaran | Datos ForeverDB (cliente + addons) | 2026-11-13 | 2026-11-13 | No |
+
+[Data from ForeverDB.net](https://foreverdb.net)
 
 ## Preguntas pendientes
 - Recompensas de las misiones; nivel exacto; ¿Sunreaver's Sanctuary sigue cerrado en el juego final?

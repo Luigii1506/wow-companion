@@ -275,6 +275,28 @@ Formato breve: afirmación A frente a B, y nota afectada. Resolver en el juego o
 - **C79 ampliado**: llms-full de ForeverDB también omite las 5 mazmorras nuevas, que su página /legacy sí nombra.
 - Nota: Rogue-BiS-by-Level se sobrescribió por accidente el 2026-11-13 y se reconstruyó desde las fichas; sus afirmaciones sobre Bloody Brass Knuckles y Swinetusk Shank deben revisarse contra [[Dungeons-30-60]].
 
+## Conflictos de la tanda 4 (2026-11-13, páginas de ForeverDB)
+- **C98** — Skinning y Legacy: Kami-Labs decía que Skinning da puntos de Legacy a 150/225/300; ForeverDB y Blizzard dicen que solo las profesiones de fabricación. Se toma ForeverDB/Blizzard. [[Skinning]], [[Legacy]]
+- **C99** — Armas de Rogue "no en el cliente": [[Rogue-Leveling]] las daba como posiblemente ocultas; ForeverDB registra diez de ellas cayendo en Forever (addon de jugadores). Resuelto a favor de ForeverDB para esas diez.
+- **C100** — Karazhan Crypts y Demon Fall Canyon: Method las trata como mazmorras de Forever; ForeverDB dice que solo están en los archivos del cliente, sin anuncio de Blizzard. [[Karazhan-Crypts]], [[Demon-Fall-Canyon]]
+- **C101** — Niveles de misión: ForeverDB da niveles más altos que Method (misiones de RFC 15–16 frente a 9; Book of Ur 26 frente a 16; Essence of Aku'Mai 22 frente a 17; Rig Wars 35 frente a 25; Going, Going, Guano! 33 frente a 30; A Vengeful Fate 34 frente a 29; Hearts of Zeal 33 frente a 30). ForeverDB pone An Unholy Alliance en RFD, no en RFK. Cómo resolver: en el juego. [[Dungeons-1-30]], [[Dungeons-30-60]]
+- **C102** — Número de jefes: Ruins of Lordaeron 7 (ForeverDB) frente a 6 (Method); SFK 8 frente a 9 con raro; Dalaran 9 frente a 8. [[Ruins-of-Lordaeron]], [[Shadowfang-Keep]], [[City-of-Dalaran]]
+- **C103** — Nivel de los talentos: la guía de ForeverDB dice que empiezan a nivel 5 y no a 10; su calculadora da 9 a 5. Cómo resolver: en el juego. [[Rogue-Leveling]]
+- **C104** — Venenos (relacionado con C62): la página de PvP de ForeverDB dice que se aprenden con la misión de clase de nivel 20; su lista de misiones (datos de Classic) pone *Plundering the Plunderers* a 18. [[Rogue-Poisons]]
+- **Nota sobre C7**: los rangos de nivel de mazmorra no chocan. El rango "hub" es el del buscador de grupos del cliente y el inferior viene de posts de Blizzard (Kaivax); ambos son oficiales.
+
+## Conflictos de la tanda 5 (2026-11-13, datos del addon de ForeverDB)
+- **C105** — Rangos de los entrenadores de Engineering: los títulos vistos en Forever (Thund Journeyman, Nogg Expert, Roxxik Artisan) coinciden con Kami-Labs, un rango por encima de Warcraft Tavern y Gfinity. Se toma el addon (visto en Forever). [[Engineering]]
+- **C106** — Recompensa de *Scramble*: Iron Star (281660) según el addon; "Silver Star" en [[Quests-Stonetalon-Mountains]] y [[Cozy-Sleeping-Bag-Quest-Chain]].
+- **C107** — *... and that note you found*: Lesser Troll's Blood **Elixir** (3388) según el addon; "Potion" en [[Quests-The-Barrens]].
+- **C108** — Shipping Label: el addon solo la tiene en Stormwind y Undercity (61.0, 48.2) a nivel 60; [[Quests-The-Barrens]] la pone con Dokimi en Crossroads.
+- **C109** — Puntos de mineral por zona: el addon, The Forever Era y la guía de ForeverDB dan cifras distintas (p. ej., Iron en los Barrens 10 / 2 / 41; Gold y Mithril en Stonetalon ninguno / 27 y 15). [[Mining-Nodes]]
+- **C110** — Objetos "no en el cliente" según wago.tools (Kris of Orgrimmar, Wingblade, Outlaw Sabre): el addon tiene sus estadísticas y los jugadores los vieron como recompensa en Forever. Resuelto: existen. [[Weapons-1-30]], [[Rogue-Leveling]]
+- **C111** — Habilidad para aprender Target Dummy: 85 (addon, dato de entrenador de Classic; Kami-Labs), ?/115 (The Forever Era), 145 (Method). [[Engineering]]
+- **C112** — *Stepping Stones* (79192): el addon la sitúa en los Barrens (46.4, 73.8); la nota de Stonetalon la pone en Stonetalon. [[Quests-Stonetalon-Mountains]]
+- **C113** — Entrenadores: en el addon Norzsh no es entrenador de Mining y Kaylaena Springwhisper no aparece. Añade a Strange Hermit (Zephras Isle) como entrenador de Engineering visto en Forever. [[Mining]], [[Engineering]]
+- **C64 (actualización)** — El addon da a elegir en *Hidden Enemies* entre Kris, Hammer, Axe y Staff of Orgrimmar: las dos fuentes tenían razón en parte. Resuelto.
+
 ## Estado de verificación
 - Estado: conflicting
 - Confianza: medium

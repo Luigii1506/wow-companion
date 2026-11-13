@@ -20,7 +20,8 @@ sources:
   - https://kami-labs.fr/en/guide-ingenierie-wow-forever/
   - https://www.warcrafttavern.com/forever/guides/engineering/
   - "Cliente WoW Forever 1.60.1.70938 vía wago.tools (consulta local, 2026-11-13)"
-related: ["[[Engineering]]", "[[Mining]]", "[[Profession-Switch-Plan]]", "[[Rogue]]", "[[Combat-Rogue]]", "[[Rogue-Gear-and-Stats]]", "[[Camping]]"]
+  - "Addon ForeverDB 0.60.3, datos 2026-11-13.ea2bb422 (Recipes)"
+related: ["[[Engineering]]", "[[Mining]]", "[[Profession-Switch-Plan]]", "[[Rogue]]", "[[Combat-Rogue]]", "[[Rogue-Gear-and-Stats]]", "[[Camping]]", "[[Rogue-Quest-Rewards-10-30]]"]
 ---
 
 # Engineering para un Rogue
@@ -33,6 +34,7 @@ related: ["[[Engineering]]", "[[Mining]]", "[[Profession-Switch-Plan]]", "[[Rogu
 - Primeros útiles realistas (skill ~60–200): **Rough Copper Bomb** (aturde 1 s en área), **Target Dummy** (15 s de distracción), **Iron Grenade** (132–218 de fuego y **3 s** de aturdimiento en 3 m), Goblin Jumper Cables, Flash Bomb. `confirmed_forever` (efectos leídos donde se indica)
 - Gnomish: **Net-o-Matic** (red de 10 s, puede fallar sobre ti), Cloaking Device (10 s de invisibilidad), Battle Chicken, Mind Control Cap. Goblin: explosivos (Sapper Charge, The Big One). Que cada receta sea exclusiva de una especialización en Forever: desconocido salvo las que nombra WT. `probable_classic`
 - Novedad útil al subir: **Satchel of Copper Bombs** (skill 85) va en la ranura de arma arrojadiza, daño de área bajo sin munición, sirve para atraer de lejos (WT). Que el Rogue pueda equiparlo: inferido (usa arrojadizas), sin comprobar.
+- **Addon ForeverDB** (2026-11-13.ea2bb422): skill de aprendizaje y coste de cada útil (Rough Copper Bomb 30 / 1s 30c, Target Dummy 85 / 3s —ambos costes vistos en Forever—, Iron Grenade 175 / 9s, Net-o-Matic 210 / 18s). Ver la sección de datos del addon. `confirmed_forever` (costes vistos) / `probable_classic` (skill)
 - Objeto de campamento de Engineering: Reagent Bot (20) y Repair Bot (140). No dan buff; la Lodestone de [[Mining]] sí (AP cuerpo a cuerpo) y es la que conviene colocar.
 
 ## Objetos por tramo de skill
@@ -80,6 +82,50 @@ No para un Rogue (o poco útil): scopes (Crude, Standard, Accurate, Deadly, Snip
 - Precios de vendedor de ForeverDB = SellPrice del cliente: Target Dummy 75c, Iron Grenade 1s 25c, Net-o-Matic 7s 50c, Cloaking Device 50s.
 - Objetos de campamento: Reagent Bot ID 279950, Repair Bot ID 279949, Anarchist's Workbench ID 279989 (sin precio de venta).
 
+## Datos del addon ForeverDB (2026-11-13.ea2bb422)
+Skill para aprender con `(C)` = dato de instructor de Classic; colores del cliente; coste con ✓ = visto en un instructor de Forever. Los efectos siguen como arriba (el addon no trae efectos de objeto).
+
+| Objeto | Skill para aprender | Amarillo / verde / gris | Cómo se aprende | Coste | Forever |
+|---|---|---|---|---|---|
+| Rough Dynamite | 1 | 30 / 45 / 60 | con la profesión | — | cambiada (reagents) |
+| SAF-T Dynamite | 25 | 25 / 30 / 35 | Schematic: SAF-T Dynamite (264202) | — | nueva |
+| Rough Copper Bomb | 30 (C) | 60 / 75 / 90 | instructor | 1s 30c ✓ |  |
+| Satchel of Copper Bombs | 85 | 90 / 92 / 95 | Schematic: Satchel of Copper Bombs (285285) | — | nueva |
+| Target Dummy | 85 (C) | 115 / 130 / 145 | instructor | 3s ✓ |  |
+| Large Copper Bomb | 105 (C) | 105 / 130 / 155 | instructor | 4s 50c ✓ |  |
+| Small Bronze Bomb | 120 (C) | 120 / 145 / 170 | instructor | 5s ✓ |  |
+| Goblin Rocket Boots | 130 | 245 / 255 / 265 | Schematic: Goblin Rocket Boots (7192) | 22s |  |
+| Big Bronze Bomb | 140 (C) | 140 / 165 / 190 | instructor | 6s ✓ |  |
+| Explosive Sheep | 150 (C) | 175 / 187 / 200 | instructor | 7s 50c ✓ |  |
+| Discombobulator Ray | 160 | 180 / 190 / 200 | Schematic: Discombobulator Ray (4413); cae de: Mekgineer Thermaplugg 2% (Classic) | — |  |
+| Goblin Jumper Cables | 165 | 160 / 180 / 200 | Schematic: Goblin Jumper Cables (7561); vendedores: 3 | — |  |
+| Iron Grenade | 175 (C) | 175 / 195 / 215 | instructor | 9s |  |
+| Clanking Cord | 175 | 180 / 182 / 185 | Schematic: Clanking Cord (280323) | — | nueva |
+| Gizmo Girdle | 175 | 180 / 182 / 185 | Schematic: Gizmo Girdle (280322) | — | nueva |
+| Advanced Target Dummy | 185 (C) | 185 / 205 / 225 | instructor | 10s 80c |  |
+| Flash Bomb | 185 | 185 / 205 / 225 | Schematic: Flash Bomb (6672); misión: Flash Bomb Recipe | — |  |
+| Big Iron Bomb | 190 (C) | 190 / 210 / 230 | instructor | 12s 60c |  |
+| Goblin Land Mine | 195 | 215 / 225 / 235 | Schematic: Goblin Land Mine (4416); cae de: world drop (level 19-50 creatures), Obsidian Sentinel 0.02%, Theka the Martyr 0.02% (Classic) | — |  |
+| Bent Goggles | 200 | 205 / 207 / 210 | Schematic: Bent Goggles (280326) | — | nueva |
+| Gnomish Cloaking Device | 200 | 220 / 230 / 240 | Schematic: Gnomish Cloaking Device (7742); cae de: Mekgineer Thermaplugg 2% (Classic); vendedores: 1 | — |  |
+| Goblin Sapper Charge | 205 (C) | 205 / 225 / 245 | instructor | 15s |  |
+| Gnomish Net-o-Matic Projector | 210 (C) | 230 / 240 / 250 | instructor | 18s |  |
+| Gnomish Rocket Boots | 225 (C) | 245 / 255 / 265 | instructor | 22s |  |
+| Parachute Cloak | 225 | 245 / 255 / 265 | Schematic: Parachute Cloak (10606); cae de: world drop (level 33-55 creatures), Shade of Eranikus 0.01%, Jammal'an the Prophet 0.01% (Classic) | — |  |
+| Gnomish Battle Chicken | 230 (C) | 250 / 260 / 270 | instructor | 24s |  |
+| Dense Dynamite | 250 (C) | 250 / 260 / 270 | instructor | 50s |  |
+| Thorium Grenade | 260 | 280 / 290 / 300 | Schematic: Thorium Grenade (16041); vendedores: 2 | 90s |  |
+| Masterwork Target Dummy | 275 | 295 / 305 / 315 | Schematic: Masterwork Target Dummy (16046); vendedores: 1 | — |  |
+| Field Repair Bot 74A | 300 | 320 / 330 / 340 | Schematic: Field Repair Bot 74A (18235) | — |  |
+| Stealthman 52 | 300 | 320 / 330 / 340 | Schematic: Stealthman 52 (264237) | — | nueva |
+
+- El addon resuelve la discrepancia de skill de **Target Dummy** a favor de Kami: se aprende a **85** (dato de Classic) y es amarilla a 115; coste 3s visto en Forever. Method (145) queda aislado. `probable_classic` (skill) / `confirmed_forever` (coste, colores)
+- **Rough Copper Bomb**: aprender a 30, amarilla a 60, 1s 30c visto en Forever. **Iron Grenade**: 175, 9s (coste de Classic, no visto aún).
+- **Satchel of Copper Bombs** se aprende con *Schematic: Satchel of Copper Bombs* (285285); de dónde sale el esquema: desconocido en los datos.
+- **Gizmo Girdle** (cuero) y **Clanking Cord** (malla) tienen esquemas propios (280322 y 280323), los dos nuevos de Forever, aprender a 175. Encaja con el cliente: el cinturón de cuero es Gizmo Girdle.
+- *Gnomish Cloaking Device* y *Discombobulator Ray*: esquemas que caen de Mekgineer Thermaplugg (Gnomeregan, 2 % en Classic). *Goblin Jumper Cables*: esquema de vendedor (el addon cuenta 3 vendedores; no dice cuáles ni si se vieron en Forever). *Flash Bomb*: misión *Flash Bomb Recipe*.
+- Recompensas de misión útiles para un Rogue (armas, cuero, anillos) por tramo de nivel: [[Rogue-Quest-Rewards-10-30]].
+
 ## Prioridad recomendada (inferido)
 | Momento | Fabricar / guardar | Por qué |
 |---|---|---|
@@ -113,6 +159,7 @@ No para un Rogue (o poco útil): scopes (Crude, Standard, Accurate, Deadly, Snip
 | https://foreverdb.net/item/4390, /4366, /10720, /4397 | cliente + subasta | build 70938; precios 2026-11-12/13 | 2026-11-13 | No |
 | https://kami-labs.fr/en/guide-ingenierie-wow-forever/ | guía | 2026-11-10 | 2026-11-13 | No |
 | https://www.warcrafttavern.com/forever/guides/engineering/ | guía | sin fecha | 2026-11-13 | Probablemente sí |
+| Addon ForeverDB 0.60.3, `Data/Meta.lua` versión 2026-11-13.ea2bb422 (Recipes.lua) | cliente + vistos en Forever + CMaNGOS | 2026-11-13 | 2026-11-13 | No |
 
 ## Preguntas pendientes
 - Efectos y cooldowns en Forever de Jumper Cables, Discombobulator, Flash Bomb, Rocket Boots, Sapper Charge y los gadgets nuevos (Stealthman 52, Loot-A-Rang).

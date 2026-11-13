@@ -36,7 +36,8 @@ sources:
   - https://foreverdb.net/item/2841
   - https://foreverdb.net/item/2835
   - https://foreverdb.net/item/2836
-related: ["[[Ores]]", "[[Engineering]]", "[[Blacksmithing]]", "[[Skinning]]", "[[Profession-Switch-Plan]]", "[[Camping]]", "[[Legacy]]", "[[Gathering-Routes]]", "[[Leveling-Route-Orc]]", "[[Professions]]", "[[Conflicts]]"]
+  - "Addon ForeverDB 0.60.3, datos 2026-11-13.ea2bb422 (Recipes, Gather, NPCs, Helper Professions)"
+related: ["[[Ores]]", "[[Engineering]]", "[[Blacksmithing]]", "[[Skinning]]", "[[Profession-Switch-Plan]]", "[[Camping]]", "[[Legacy]]", "[[Gathering-Routes]]", "[[Mining-Nodes]]", "[[Leveling-Route-Orc]]", "[[Professions]]", "[[Conflicts]]"]
 ---
 
 # Mining
@@ -50,6 +51,7 @@ related: ["[[Ores]]", "[[Engineering]]", "[[Blacksmithing]]", "[[Skinning]]", "[
 - Cambios de Forever: reaparición dinámica de vetas (más jugadores, más rápido), vetas Poor Copper en zonas iniciales, Iron/Gold que se sustituyen entre sí en zonas altas, varios rastreos a la vez, y materiales nuevos **Pyrite, Bauxite, Pitchblende** (Warcraft Tavern; las recetas del cliente los usan). Fundiciones nuevas: Azerothium (275) y Heavy Thorium (300, necesita la Molten Foundry). `confirmed_forever`
 - **Mining no da puntos Legacy** (solo las 6 de fabricación). Bountiful Harvest aumenta solo los materiales **Scarce**. `confirmed_forever` (ForeverDB, Legacy)
 - Entrenadores Horde cerca: **Krunn** (Razor Hill 51.8, 40.7), **Makaru** (Orgrimmar, Valley of Honor 73.0, 27.0), Norzsh (Valley of Trials, solo Apprentice). En Crossroads no consta ninguno. `probable_classic` (posiciones)
+- **Addon ForeverDB** (2026-11-13.ea2bb422): costes de fundición vistos en instructores de Forever (Tin 50c … Thorium 2g, Azerothium 5g) y vetas vistas por jugadores: en Durotar 15 Copper, en The Barrens 11 Copper, 19 Tin y 8 Silver, en Stonetalon 3 Iron que Classic no tiene. Ver [[Mining-Nodes]]. `confirmed_forever`
 - Precios del 2026-11-12/13 (escaneos de ForeverDB, **no del reino del jugador**): Copper Ore 65c–2s65c, Tin Ore 1s09c–2s10c, **Silver Ore 3s12c–8s43c**. Silver es lo más valioso de 1–125.
 
 ## Rangos y entrenadores
@@ -139,6 +141,49 @@ Lectura (inferido):
 - Coarse Stone y Tin Ore piden más que Copper en casi todos los reinos.
 - Ante la duda, conservar (regla de la bóveda), y comprobar el precio en tu subasta antes de vender.
 
+## Datos del addon ForeverDB (2026-11-13.ea2bb422)
+Recetas y colores: cliente de Forever. "Skill para aprender" con "(Classic)" = dato de instructor de Classic (CMaNGOS). "Visto en Forever" = jugadores vieron ese coste en un instructor de Forever.
+
+### Fundición y objetos de campamento
+| Receta | Materiales | Skill para aprender | Amarillo / verde / gris | Aprende | Coste (instructor) | Forever |
+|---|---|---|---|---|---|---|
+| Smelt Copper | Copper Ore x1 | 1 | 25 / 47 / 70 | con la profesión | — |  |
+| Lodestone | Rough Stone x1, Copper Bar x1 | ? | 20 / 20 / 20 | instructor | 1s (visto en Forever) | nueva |
+| Smelt Tin | Tin Ore x1 | 50 (Classic) | 50 / 62 / 75 | instructor | 50c (visto en Forever) |  |
+| Smelt Bronze | Copper Bar x1, Tin Bar x1 | 65 (Classic) | 65 / 90 / 115 | instructor | 2s (visto en Forever) |  |
+| Smelt Silver | Silver Ore x1 | 75 (Classic) | 100 / 112 / 125 | instructor | 2s (visto en Forever) |  |
+| Smelt Iron | Iron Ore x1 | 125 (Classic) | 130 / 135 / 140 | instructor | 5s (visto en Forever) |  |
+| Rock Garden | Heavy Stone x2, Iron Ore x1, Silver Bar x1 | 140 | 140 / 140 / 140 | Blueprint: Rock Garden (273097) | — | nueva |
+| Smelt Gold | Gold Ore x1 | 155 (Classic) | 170 / 177 / 185 | instructor | 25s (visto en Forever) |  |
+| Smelt Steel | Iron Bar x1, Coal x1 | 165 (Classic) | 165 / 165 / 165 | instructor | 25s (visto en Forever) |  |
+| Smelt Mithril | Mithril Ore x1 | 175 (Classic) | 175 / 175 / 175 | instructor | 50s (visto en Forever) |  |
+| Smelt Dark Iron | Dark Iron Ore x8 | ? | 230 / 230 / 230 | desconocido | — |  |
+| Smelt Truesilver | Truesilver Ore x1 | 230 (Classic) | 230 / 230 / 230 | instructor | 1g (visto en Forever) |  |
+| Smelt Thorium | Thorium Ore x1 | 250 (Classic) | 250 / 250 / 250 | instructor | 2g (visto en Forever) |  |
+| Smelt Azerothium | Pitchblende x2, Coal x1 | ? | 275 / 275 / 275 | instructor | 5g (visto en Forever) | nueva |
+| Smelt Heavy Thorium | Heavy Thorium Ore x1 | ? | 300 / 307 / 315 | instructor | 5g (visto en Forever) | nueva |
+| Molten Foundry | Thorium Bar x5, Dense Stone x2, Truesilver Bar x1 | 300 | 300 / 300 / 300 | Blueprint: Molten Foundry (273122) | — | nueva |
+| Smelt Elementium | Elementium Ore x1, Arcanite Bar x10, Fiery Core x1, Elemental Flux x3 | ? | 310 / 315 / 320 | desconocido | — |  |
+| Smelt Obsidian-Infused Thorium Bar | Enchanted Thorium Bar x2, Large Obsidian Shard x2 | ? | 315 / 322 / 330 | desconocido | — |  |
+
+Lectura: el coste de cada fundición está **visto en Forever** (Smelt Tin 50c, Bronze 2s, Silver 2s, Iron 5s, Gold y Steel 25s, Mithril 50s, Truesilver 1g, Thorium 2g, Azerothium y Heavy Thorium 5g; Lodestone 1s). El skill naranja de aprendizaje que faltaba arriba ("?") es el de Classic: Tin 50, Bronze 65, Silver 75, Iron 125, Gold 155, Steel 165, Mithril 175, Truesilver 230, Thorium 250. `confirmed_forever` (costes, colores) / `probable_classic` (skill de aprendizaje)
+
+### Instructores de Mining (Horde y neutrales) en el addon
+| Instructor | Título | Zona | x, y | Lugar |
+|---|---|---|---|---|
+| Krunn | Miner | Durotar | 51.8, 40.9 | visto en Forever |
+| Makaru | Mining Trainer | Orgrimmar | 73.0, 26.6 | visto en Forever |
+| Johan Focht | Miner | Silverpine Forest | 43.4, 40.6 | visto en Forever |
+| Pikkle | Miner | Tanaris | 51.1, 28.1 | visto en Forever |
+| Brek Stonehoof | Mining Trainer | Thunder Bluff | 34.7, 57.7 | visto en Forever |
+| Brom Killian | Mining Trainer | Undercity | 55.8, 37.1 | visto en Forever |
+| Messana Crestwind | Miner | Zephras Isle | 44.7, 44.5 | visto en Forever |
+
+- Los rangos del addon (Apprentice 0→75 nivel 5, Journeyman 50→150 nivel 10, Expert 125→225 nivel 20, Artisan 200→300 nivel 35) están marcados como **nivel habitual de Classic**; el coste de los rangos de Mining no está en los datos. `probable_classic`
+- Norzsh (Valley of Trials) no aparece como instructor de Mining en el addon; sí Messana Crestwind (Zephras Isle), vista en Forever.
+- *Blueprint: Rock Garden* (273097) cae de un PNJ sin nombre en los datos (ID 276061). `unknown`
+- Vetas por zona (Classic frente a vistas en Forever): [[Mining-Nodes]].
+
 ## Qué dicen las guías
 - Consenso: umbrales de mineral, recetas de fundición y objetos de campamento salen del cliente ([[src-theforeverera-en-guides-professions-mining]], [[src-foreverdb-profession-mining-leveling]], [[src-theforeverera-en-camping]]). WT coincide en los nombres ([[src-warcrafttavern-guides-mining]]).
 - Zonas: [[src-theforeverera-en-gathering]] y las fichas de cada mineral ([[src-theforeverera-en-gathering-copper-ore]], [[src-theforeverera-en-gathering-tin-ore]], [[src-theforeverera-en-gathering-silver-ore]], [[src-theforeverera-en-gathering-iron-ore]], [[src-theforeverera-en-gathering-gold-ore]], [[src-theforeverera-en-gathering-mithril-ore]]) usan posiciones de CMaNGOS.
@@ -164,6 +209,7 @@ Lectura (inferido):
 | https://eternadex.com/en/lehrer/ | base de datos | 2026-10-28 (datos 2026-11-07) | 2026-11-13 | Sí |
 | us.forums.blizzard.com …/2379537 y …/2377735 | foro (jugadores) | 2026-10-09 a 10-15 | 2026-11-13 | Sí (beta) |
 | foreverdb.net/item/2770, 2840, 2771, 2775, 2841, 2835, 2836 | precios de subasta (addon) | 2026-11-12/13 | 2026-11-13 | No |
+| Addon ForeverDB 0.60.3, `Data/Meta.lua` versión 2026-11-13.ea2bb422 (Recipes, Gather, NPCs; Helper Professions) | cliente + vistos en Forever + CMaNGOS | 2026-11-13 | 2026-11-13 | No |
 
 ## Preguntas pendientes
 - Skill de Mining actual del personaje (falta export).

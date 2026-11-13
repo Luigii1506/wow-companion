@@ -1,0 +1,32 @@
+---
+type: source-digest
+tags: [forever, source, dungeon]
+site: foreverdb.net
+url: https://foreverdb.net/dungeon/349-maraudon
+author: ForeverDB
+published: desconocido
+updated: 2026-11-13
+ingested: 2026-11-13
+status: probable_classic
+confidence: low
+feeds: ["[[Maraudon]]", "[[Dungeons-30-60]]"]
+---
+
+# ForeverDB — Maraudon
+
+## Puntos clave
+- Nivel 46–55 (cliente); entrada desde 25. Entrada: Desolace (29.1, 62.9); vuelo Horde Shadowprey Village. 8 jefes.
+- Hotfix 6-11: arreglado que Zaetar's Spirit no apareciera tras Princess Theradras.
+- Top picks: Blackstone Ring, Rotgrip Mantle, **Albino Crocscale Boots (Assassination Rogue 50)**.
+
+## Fiabilidad
+- Solo se leyó la cabecera (nivel, entrada, vuelo, top picks). Botín y misiones de esta página no ingeridos: casi todo es dato de Classic (sin muertes registradas en el lanzamiento).
+- Cliente 1.60.1.70938 (2026-11-13).
+- No se encontraron instrucciones incrustadas dirigidas a IA en el HTML (búsqueda de texto oculto y de frases dirigidas a asistentes, 2026-11-13).
+
+## Fuentes
+- https://foreverdb.net/dungeon/349-maraudon
+- [Data from ForeverDB.net](https://foreverdb.net)
+
+## Alimenta
+- [[Maraudon]] · [[Dungeons-30-60]]

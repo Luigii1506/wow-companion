@@ -10,6 +10,8 @@ last_verified: 2026-11-13
 game_version: "Forever 1.60.1"
 sources:
   - https://www.method.gg/wow-forever/class-guides/combat-rogue
+  - https://foreverdb.net/class/Rogue/pvp
+  - https://foreverdb.net/buffs-and-nerfs/rogue
   - https://www.method.gg/wow-forever/class-guides/combat-rogue/talents
   - https://www.method.gg/wow-forever/class-guides/combat-rogue/rotation-and-playstyle
   - https://www.method.gg/wow-forever/wow-forever-rogue-leveling-guide-and-talents
@@ -70,12 +72,22 @@ ForeverDB publica builds a 20/30/40/50/60 sin orden por punto ([[Rogue-Leveling]
 
 The Forever Era: mano derecha lenta (más daño por Sinister Strike), izquierda rápida (más procs).
 
+ForeverDB (2026-11-13) ha registrado en Forever el drop de Cruel Barb (VanCleef, 40 % de 15 muertes), Assassin's Blade (Nandos, SFK, 14 % de 7) y Bloody Brass Knuckles (Vishas, SM, 20 % de 10): las tres existen en el servidor aunque no estén en el cliente. `confirmed_forever` (medium). Más en [[Dungeons-1-30]].
+
+## PvP (ForeverDB)
+- Combat es el Rogue que castiga a los melés: Deflection da paradas y Riposte desarma tras una parada; contra casters, Kick al heal (bloquea esa escuela 5 s), Gouge y Eviscerate rápido.
+- A 30 la build PvP añade Endurance (Evasion y Sprint más a menudo) e Improved Sprint (limpia ralentizaciones).
+- Slice and Dice es opcional en PvP; en muertes rápidas todo a Eviscerate. Con espada, maza, hacha o puño se pega desde cualquier ángulo con Sinister Strike.
+- Pesos PvP propios: DPS de arma 3,5, hit 1,2, Agility 1, Stamina 0,9, crit 0,9, expertise 0,9, dodge 0,5, parry 0,2.
+- Cambios recientes que tocan a Combat: Flawless Execution (−15 de energía a Eviscerate), Adrenaline Rush ahora exige Blade Flurry, Aggression y Weapon Expertise bajan a nivel 25 (build del 04-11).
+
 ## Qué dicen las guías
 - [[src-method-class-guides-combat-rogue]], [[src-method-class-guides-combat-rogue-talents]], [[src-method-class-guides-combat-rogue-rotation-and-playstyle]]: builds y rotación endgame.
 - [[src-method-wow-forever-rogue-leveling-guide-and-talents]]: build de leveling.
 - [[src-foreverdb-class-rogue-builds]], [[src-foreverdb-class-rogue-talents]]: valores del cliente y builds por nivel.
 - [[src-theforeverera-es-guides-classes-rogue]], [[src-theforeverera-es-bis-rogue-combat-20]], [[src-theforeverera-es-bis-rogue-combat-30]]: Combat del 10 al 60; pesos de stats; BiS algorítmico.
 - [[src-blizzard-forum-beta-development-notes-november-2-2360696]]: cambios de talentos del lanzamiento.
+- [[src-foreverdb-class-rogue-pvp]] y [[src-foreverdb-buffs-and-nerfs-rogue]]: PvP y cambios por build.
 - Discrepancia menor: ForeverDB a 30 toma Lightning Reflexes 2 y Blade Flurry; Method toma Composure o Remorseless Attacks y retrasa Blade Flurry a 32.
 
 ## Fuentes
@@ -89,6 +101,8 @@ The Forever Era: mano derecha lenta (más daño por Sinister Strike), izquierda 
 | https://www.method.gg/dfc/ForeverTalentsData-1.60.1-2nov.json | Datos Method | 02-11 | 2026-11-13 | No |
 | https://foreverdb.net/class/Rogue/talents | Datos de cliente | 2026-11-13 | 2026-11-13 | No |
 | https://foreverdb.net/class/Rogue/builds | Builds | sin fecha | 2026-11-13 | No |
+| https://foreverdb.net/class/Rogue/pvp | Guía PvP | build 70938 | 2026-11-13 | No |
+| https://foreverdb.net/buffs-and-nerfs/rogue | Cambios por build | 2026-11-13 | 2026-11-13 | No |
 | https://theforeverera.com/es/guides/classes/rogue/ | Guía fan (es) | 2026-10-25 | 2026-11-13 | Sí (cuerpo) |
 | https://theforeverera.com/es/bis/rogue/combat/20/ | BiS algorítmico | 2026-11-13 | 2026-11-13 | No |
 | https://theforeverera.com/es/bis/rogue/combat/30/ | BiS algorítmico | sin fecha | 2026-11-13 | Desconocido |

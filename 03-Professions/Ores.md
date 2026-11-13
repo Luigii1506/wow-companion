@@ -22,7 +22,8 @@ sources:
   - https://www.warcrafttavern.com/forever/guides/mining/
   - https://www.gfinityesports.com/article/world-of-warcraft-forever-mining-guide-leveling-1300-trainers
   - https://us.forums.blizzard.com/en/wow/t/scarce-materials/2377735
-related: ["[[Mining]]", "[[Engineering]]", "[[Blacksmithing]]", "[[Material-Demand]]", "[[Gathering-Routes]]", "[[Leveling-Route-Orc]]", "[[Profession-Switch-Plan]]"]
+  - "Addon ForeverDB 0.60.3, datos 2026-11-13.ea2bb422 (Gather)"
+related: ["[[Mining]]", "[[Mining-Nodes]]", "[[Engineering]]", "[[Blacksmithing]]", "[[Material-Demand]]", "[[Gathering-Routes]]", "[[Leveling-Route-Orc]]", "[[Profession-Switch-Plan]]"]
 ---
 
 # Minerales (Ores)
@@ -34,6 +35,7 @@ related: ["[[Mining]]", "[[Engineering]]", "[[Blacksmithing]]", "[[Material-Dema
 - Para un Orc de 11–30 en Kalimdor: **Durotar** para Copper; **Ashenvale** (Tin, Silver, Iron) y **Thousand Needles** (Iron, Gold) son las zonas Horde con más vetas; The Barrens y Stonetalon tienen pocas. Hillsbrad (Tin 81, Silver 82) es la mejor si se cruza al este. `probable_classic`
 - Silver no tiene veta propia en zonas bajas: sale como sustitución rara de Tin (WT). Igual Gold frente a Iron y Mithril en zonas altas. `confirmed_forever` (una fuente)
 - Materiales nuevos: **Pyrite** (Scarce; abunda hasta ~75 de skill según jugadores de la beta), **Bauxite**, **Pitchblende** (para Azerothium, skill 275) y **Heavy Thorium Ore** (300). Dónde salen: desconocido.
+- **Vistas en Forever** (addon ForeverDB, 2026-11-13.ea2bb422): The Barrens es la zona Horde de Kalimdor con más vetas registradas por jugadores (11 Copper, 19 Tin, 8 Silver); Durotar 15 Copper; Stonetalon 3 Copper, 6 Tin, 2 Silver y 3 Iron. Ashenvale y Thousand Needles: ninguna registrada aún. `confirmed_forever`
 - Consumidores: Engineering y Blacksmithing casi todo; Enchanting usa Silver e Iron Ore; Alchemy Mithril y Thorium Ore (ForeverDB). Mining usa Rough Stone, Copper, Heavy Stone, Iron Ore, Silver Bar, Thorium, Dense Stone y Truesilver para sus objetos de campamento.
 
 ## Tabla de minerales
@@ -68,6 +70,22 @@ Gfinity da además umbrales amarillo/verde de cada veta (Copper 1/50/80, Tin 65/
 | Solid Stone | Solid Blasting Powder (175–185; FDB pide 334 en total) | Solid Grinding Stone | — | confirmed_forever |
 | Dense Stone | Dense Blasting Powder (250–258) | Dense Sharpening Stone | Molten Foundry (2) | confirmed_forever |
 
+## Conteos del addon ForeverDB (2026-11-13.ea2bb422)
+Celda = puntos de spawn de Classic (CMaNGOS) / puntos vistos por jugadores en Forever (negrita = `confirmed_forever`). Detalle y coordenadas en [[Mining-Nodes]].
+
+| Veta (skill) | Durotar | Barrens | Stonetalon | Ashenvale | Thousand Needles | Desolace | Silverpine | Hillsbrad |
+|---|---|---|---|---|---|---|---|---|
+| Copper Vein (1) | 159 / **15** | 38 / **11** | 47 / **3** | 55 / 0 | 45 / 0 | 9 / 0 | 105 / **2** | 55 / 0 |
+| Tin Vein (65) | — | 23 / **19** | 19 / **6** | 33 / 0 | 24 / 0 | 20 / 0 | 105 / **12** | 65 / **4** |
+| Silver Vein (75) | — | 20 / **8** | 1 / **2** | 57 / 0 | 7 / **1** | 4 / 0 | 105 / **5** | 68 / **3** |
+| Iron Deposit (125) | — | 10 / 0 | 0 / **3** | 55 / 0 | 110 / 0 | 92 / 0 | — | 18 / **4** |
+| Gold Vein (155) | — | 2 / 0 | — | 3 / 0 | 35 / 0 | 5 / 0 | — | 18 / 0 |
+| Mithril Deposit (175) | — | — | — | — | — | 30 / 0 | — | — |
+
+- Los conteos de Classic del addon **no coinciden** con los de The Forever Era de la tabla de arriba (p. ej. Barrens Iron 10 aquí, 2 en TFE y 41 en la guía de ForeverDB; Thousand Needles Iron 110 / 115; Hillsbrad Silver 68 / 82; Stonetalon Gold y Mithril: ninguno aquí, 27 y 15 en TFE). Todo es CMaNGOS: se mantienen las dos lecturas. Pendiente de registrar en [[Conflicts]].
+- Visto en Forever y no en Classic: **Iron Deposit en Stonetalon** (3 puntos) y Copper en Teldrassil y Zephras Isle (zonas sin Copper en Classic o nuevas). `confirmed_forever`
+- El addon no tiene veta propia para Incendicite, Lesser Bloodstone, Pyrite, Bauxite ni Pitchblende. `unknown`
+
 ## Qué dicen las guías
 - Zonas y puntos: [[src-theforeverera-en-gathering]] y las fichas [[src-theforeverera-en-gathering-copper-ore]], [[src-theforeverera-en-gathering-tin-ore]], [[src-theforeverera-en-gathering-silver-ore]], [[src-theforeverera-en-gathering-iron-ore]], [[src-theforeverera-en-gathering-gold-ore]], [[src-theforeverera-en-gathering-mithril-ore]].
 - [[src-foreverdb-guide-professions]] da otros conteos (Barrens Iron 41; Ashenvale Iron 50, Tin 31; Durotar Copper 162). Misma raíz (CMaNGOS), cifras distintas: no se elige.
@@ -85,6 +103,7 @@ Gfinity da además umbrales amarillo/verde de cada veta (Copper 1/50/80, Tin 65/
 | https://www.warcrafttavern.com/forever/guides/mining/ | guía | sin fecha | 2026-11-13 | desconocido |
 | https://www.gfinityesports.com/article/world-of-warcraft-forever-mining-guide-leveling-1300-trainers | prensa | 2026-11-03 | 2026-11-13 | No |
 | https://us.forums.blizzard.com/en/wow/t/scarce-materials/2377735 | foro (jugador) | 2026-10-09 | 2026-11-13 | Sí (beta) |
+| Addon ForeverDB 0.60.3, `Data/Meta.lua` versión 2026-11-13.ea2bb422 (Gather.lua) | puntos CMaNGOS + vistos en Forever | 2026-11-13 | 2026-11-13 | No |
 
 ## Preguntas pendientes
 - Densidad real de vetas en Forever en Durotar, Barrens, Stonetalon, Ashenvale y Thousand Needles (observar en juego o con datos de addon).

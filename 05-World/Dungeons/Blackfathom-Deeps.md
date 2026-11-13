@@ -8,7 +8,7 @@ status: conflicting
 confidence: medium
 last_verified: 2026-11-13
 game_version: "Forever 1.60.1"
-sources: [https://www.method.gg/wow-forever/dungeons/blackfathom-deeps, https://www.method.gg/wow-forever/dungeons, https://www.method.gg/wow-forever/wow-forever-dungeon-xp-explained-and-all-dungeons-by-level, https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-11-2026]
+sources: [https://www.method.gg/wow-forever/dungeons/blackfathom-deeps, https://www.method.gg/wow-forever/dungeons, https://www.method.gg/wow-forever/wow-forever-dungeon-xp-explained-and-all-dungeons-by-level, https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-11-2026, https://foreverdb.net/dungeon/48-blackfathom-deeps]
 related: ["[[Dungeons-1-30]]", "[[Dungeon-XP]]", "[[Priest-Wands]]", "[[Conflicts]]"]
 ---
 
@@ -16,12 +16,14 @@ related: ["[[Dungeons-1-30]]", "[[Dungeon-XP]]", "[[Priest-Wands]]", "[[Conflict
 
 > [!warning] Datos en conflicto: ver [[Conflicts]]
 > Rango: 24–32 (página y hub de Method) frente a 23–28 (artículo de XP). Nivel de la varita Gravestone Scepter: C8.
+> El buscador del cliente da **24–32** (ForeverDB).
 
 ## Resumen
 - Nivel: 23–28 o 24–32. 6 jefes y un posible raro; 25–35 min.
 - Ubicación y entrada: norte de Zoram Strand, Ashenvale. Horde: coger el vuelo de Zoram Strand.
 - Por qué ir: cinco misiones Horde (Zoram'gar y dentro). *Blackfathom Villainy* da la varita Gravestone Scepter (según [[Dungeons-1-30]]); Rod of the Sleepwalker (bastón) de Kelris.
 - Hotfix del 09-11: arreglado un bug que impedía liberar el espíritu al morir dentro.
+- **ForeverDB**: entrada (16.5, 11.0), vuelo Horde Zoram'gar; 7 jefes. Para Rogue: Naga Battle Gloves y Darkwater Talwar (45 %, Sarevess), Bite of Serra'kis (29 %), Glowing Thresher Cape (71 %).
 
 ## Misiones
 | Misión | Dónde se recoge | Recompensa | Facción | Estado |
@@ -51,7 +53,27 @@ Alliance: *Knowledge in the Deeps*, *Researching the Corruption*, *Twilight Fall
 - Aku'mai: encender los cuatro braseros de uno en uno; salir de Poison Cloud; sanar fuerte al tanque durante Frenzied Rage.
 - Old Serra'kis está bajo el agua: matarlo antes de ahogarse.
 
+## Datos de ForeverDB (cliente y registros de jugadores, 2026-11-13)
+
+| Dato | Valor | Estado |
+|---|---|---|
+| Nivel (buscador del cliente) | 24–32; entrada desde nivel 15 | confirmed_forever |
+| Entrada | Ashenvale (16.5, 11.0); vuelo Horde Zoram'gar Outpost | confirmed_forever |
+
+| # | Jefe (orden del cliente) | Botín destacado observado (7–11 muertes) | Estado |
+|---|---|---|---|
+| 1 | Ghamoo-ra | Tortoise Armor 55 % | confirmed_forever (low) |
+| 2 | Lady Sarevess | Naga Battle Gloves 45 %, Darkwater Talwar 45 % | confirmed_forever (low) |
+| 3 | Gelihast | Cursed Murloc Eye 55 % | confirmed_forever (low) |
+| 4 | Lorgus Jett | Twilight Maul, Treacherous Treads (vistos) | confirmed_forever (low) |
+| 5 | Old Serra'kis | Glowing Thresher Cape 71 %, Bite of Serra'kis 29 % | confirmed_forever (low) |
+| 6 | Twilight Lord Kelris | Rod of the Sleepwalker 45 %, Gaze Dreamer Pants 45 %, Head of Kelris 45 % | confirmed_forever (low) |
+| 7 | Aku'mai | Strike of the Hydra 55 % | confirmed_forever (low) |
+
+Niveles de misión según ForeverDB: Trouble in the Deeps (22, Tsunaman, Stonetalon 47.3 64.2), The Essence of Aku'Mai (**22**; Method 17), Allegiance to the Old Gods (22/26), Amongst the Ruins (27), Blackfathom Villainy (27).
+
 ## Qué dicen las guías
+- [[src-foreverdb-dungeon-48-blackfathom-deeps]]: rango del buscador del cliente, coordenadas de entrada, orden de jefes y botín con frecuencia observada en Forever (muestras pequeñas).
 - [[src-method-dungeons-blackfathom-deeps]]; [[src-method-wow-forever-dungeon-xp-explained-and-all-dungeons-by-level]] (23–28). Hotfix oficial del 09-11.
 
 ## Fuentes
@@ -61,6 +83,9 @@ Alliance: *Knowledge in the Deeps*, *Researching the Corruption*, *Twilight Fall
 | https://www.method.gg/wow-forever/dungeons | Hub Method | sin fecha | 2026-11-13 | Desconocido |
 | https://www.method.gg/wow-forever/wow-forever-dungeon-xp-explained-and-all-dungeons-by-level | Guía Method | 2026-11-04 | 2026-11-13 | No |
 | https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-11-2026 | Hotfixes oficiales Blizzard | 2026-11-09 | 2026-11-13 | No |
+| https://foreverdb.net/dungeon/48-blackfathom-deeps | Datos ForeverDB (cliente + addons) | 2026-11-13 | 2026-11-13 | No |
+
+[Data from ForeverDB.net](https://foreverdb.net)
 
 ## Preguntas pendientes
 - Recompensas y XP de las misiones Horde; nivel de Gravestone Scepter (C8).

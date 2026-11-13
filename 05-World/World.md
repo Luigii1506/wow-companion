@@ -21,14 +21,14 @@ Leyenda: ✅ confirmado en Forever · ⚠️ en conflicto · 🟦 hipótesis de 
 - ✅ [[Blackmaw-Hold]] · dungeon · nv 55–60 — Nivel: 55–60 (hub de Method); 55–60 (artículo de XP).
 - ✅ [[Blackrock-Depths]] · dungeon · nv 52–60 — Nivel: 52–60 (hub de Method); 52–60 (artículo de XP).
 - ⚠️ [[City-of-Dalaran]] · dungeon · nv 28–35 — Nivel: 28–33 según Blizzard vía Method; otras cifras arriba. Mazmorra nueva, 8 jefes (uno secreto), 30–40 min.
-- ✅ [[Demon-Fall-Canyon]] · dungeon · nv 60–60 — Nivel: 60 (hub de Method).
+- ⚠️ [[Demon-Fall-Canyon]] · dungeon · nv 60–60 — ForeverDB: nivel 60 en el buscador del cliente, Ashenvale, 7 jefes y 5 jugadores en el cliente; sin anuncio de Blizzard, podría no ser jugab…
 - ⚠️ [[Dire-Maul-East]] · dungeon · nv 54–60 — Nivel: 54–60 (hub de Method); 58–60 (artículo de XP).
 - ⚠️ [[Dire-Maul-North]] · dungeon · nv 56–60 — Nivel: 56–60 (hub de Method); 60 (artículo de XP).
 - ⚠️ [[Dire-Maul-West]] · dungeon · nv 56–60 — Nivel: 56–60 (hub de Method); 60 (artículo de XP).
 - ⚠️ [[Excavation-Site-Wetlands]] · dungeon · nv 26–33 — Nivel: 24–29 o 26–33. Mazmorra nueva, 4 jefes (3 con botín), 20–35 min.
 - ⚠️ [[Gnomeregan]] · dungeon · nv 29–38 — Nivel: 29–34 o 29–38. 6 jefes, 30–40 min.
 - ⚠️ [[Hall-of-Thanes]] · dungeon · nv 13–20 — Nivel: 13–18 o 13–20. Mazmorra nueva, 4 jefes.
-- ✅ [[Karazhan-Crypts]] · dungeon · nv 60–60 — Nivel: 60 (hub de Method).
+- ⚠️ [[Karazhan-Crypts]] · dungeon · nv 60–60 — ForeverDB: nivel 60 en el buscador del cliente, 11 jefes y 5 jugadores en el cliente; sin anuncio de Blizzard, podría no ser jugable nunca. …
 - ✅ [[Krol-dok-Stronghold]] · dungeon · nv 40–45 — Nivel: 40–45 (hub de Method); 40–45 (artículo de XP).
 - ⚠️ [[Lower-Blackrock-Spire]] · dungeon · nv 55–60 — Nivel: 55–60 (hub de Method); 57–60 (artículo de XP).
 - ⚠️ [[Maraudon]] · dungeon · nv 46–55 — Nivel: 46–55 (hub de Method); 45–51 (artículo de XP).
@@ -69,10 +69,12 @@ Leyenda: ✅ confirmado en Forever · ⚠️ en conflicto · 🟦 hipótesis de 
 ### Quests
 - ✅ [[Bandarion-Keep-Quest-Chain]] · quest · nv 10–13 — Zona y quién la da: Leonid Barthalomew the Revered, en Bandarion Keep (22, 44.7), subzona nueva del Whispering Forest, al oeste de Tirisfal …
 - ⚠️ [[Cozy-Sleeping-Bag-Quest-Chain]] · quest · nv 14–30 — Zona y quién la da: no hay NPC. Cada paso es un objeto que se clica. La Horde empieza en The Barrens, en los Burned-Out Remains (46, 74), co…
+- ✅ [[Quests-Durotar]] · zone · nv 1–16 — Para un Orc de 11, lo que queda útil en Durotar: *Securing the Lines* (11, Rezlak; espada o arco), *Lost But Not Forgotten* (11, capa), la c…
 - 🟦 [[Quests-Hillsbrad-Foothills]] · zone · nv 20–34 — Hub Horde: Tarren Mill (vuelo de Zarise, 60.1, 18.6). Entrada desde Silverpine por el camino de Deathstalker Lesh (20.8, 47.4) (games.gg).
+- ✅ [[Quests-Orgrimmar]] · zone · nv 10–35 — Hidden Enemies (Thrall, 31.9, 37.8) es la cadena de Ragefire-Chasm: el último paso (5730, Neeru Fireblade, nivel 16) da a elegir Kris of Org…
 - 🟦 [[Quests-Silverpine-Forest]] · zone · nv 10–24 — Zona Horde de nivel 10–20. Hub: The Sepulcher, con el maestro de vuelo Karos Razok (45.6, 42.6), que conecta con Undercity y, tras descubrir…
 - ⚠️ [[Quests-Stonetalon-Mountains]] · zone · nv 15–28 — Zona 18–28 según games.gg: dos visitas para la Horde (18–22 desde los Barrens y 24–27 desde Sun Rock). Vuelo Horde: Tharm, Sun Rock Retreat …
-- 🟦 [[Quests-The-Barrens]] · zone · nv 10–27 — Hub: Crossroads (vuelo de Devrak, 51.5, 30.3). Otros vuelos: Ratchet, Camp Taurajo, Far Watch Post y Mor'shan Rampart (games.gg).
+- ✅ [[Quests-The-Barrens]] · zone · nv 10–27 — Hub: Crossroads (vuelo de Devrak, 51.5, 30.3). Otros vuelos: Ratchet, Camp Taurajo, Far Watch Post y Mor'shan Rampart (games.gg).
 - ⚠️ [[Quests-Tirisfal-Glades]] · zone · nv 1–13 — Tirisfal tiene 139 misiones en Forever, 47 de ellas nuevas (Gamer Guides). No hay una lista pública completa de las 47 con nivel y recompens…
 
 ### Raids

@@ -37,6 +37,18 @@ sources:
   - https://theforeverera.com/es/zones/riverglades/
   - https://theforeverera.com/es/zones/stranglethorn-vale/
   - https://www.method.gg/wow-forever/dungeons
+  - https://foreverdb.net/dungeon/47-razorfen-kraul
+  - https://foreverdb.net/dungeon/189-scarlet-monastery
+  - https://foreverdb.net/dungeon/129-razorfen-downs
+  - https://foreverdb.net/dungeon/70-uldaman
+  - https://foreverdb.net/dungeon/90-gnomeregan
+  - https://foreverdb.net/dungeon/2959-city-of-dalaran
+  - https://foreverdb.net/dungeon/349-maraudon
+  - https://foreverdb.net/dungeon/329-stratholme
+  - https://foreverdb.net/dungeon/429-dire-maul
+  - https://foreverdb.net/dungeon/2875-karazhan-crypts
+  - https://foreverdb.net/dungeon/2784-demon-fall-canyon
+  - https://foreverdb.net/dungeon/3109-manor-mistmantle
 related: ["[[Dungeons-1-30]]", "[[Dungeon-XP]]", "[[Leveling-Route-Orc]]", "[[Rogue-BiS-by-Level]]", "[[Rogue-Leveling]]", "[[Party-Leveling]]", "[[Legacy]]", "[[Conflicts]]"]
 ---
 
@@ -49,6 +61,7 @@ related: ["[[Dungeons-1-30]]", "[[Dungeon-XP]]", "[[Leveling-Route-Orc]]", "[[Ro
 - Plan (igual que en [[Dungeons-1-30]]): **cada mazmorra una vez con todas sus misiones**, al final del tramo de su zona; el XP sale sobre todo de las misiones y el XP por muerte subió +50 % el 08/09-11 ([[Dungeon-XP]]). Sin buscador de mazmorras anunciado: grupos a mano.
 - Orden para un Orc: [[Razorfen-Kraul]] (30) → [[Scarlet-Monastery-Graveyard]]/[[Scarlet-Monastery-Library]] → **[[The-Drowned-City]]** (35–40, nueva, junto a Grom'gol) → [[Scarlet-Monastery-Armory]]/[[Scarlet-Monastery-Cathedral]] y [[Razorfen-Downs]] → **[[Krol-dok-Stronghold]]** (40–45, Riverglades) → [[Uldaman]] → [[Zul-Farrak]] → [[Maraudon]] → **[[Alcaz-Prison]]** (48–53) → [[Sunken-Temple]] y [[Blackrock-Depths]] → [[Lower-Blackrock-Spire]], [[Dire-Maul-East]], **[[Blackmaw-Hold]]** → [[Scholomance]], [[Stratholme-Main-Gate]], **[[Shapers-Terrace]]**, [[Upper-Blackrock-Spire]].
 - Mejores para un Rogue (según listas BiS algorítmicas, botín de Classic): **SM** (Bloody Brass Knuckles, visto en el servidor), **RFK** (Swinetusk Shank, visto en el servidor), **Maraudon** (hombros, botas, pecho de cuero), **BRD** (Blackveil Cape), **Stratholme** y **Dire Maul** a 60. City of Dalaran (28–35) da unas hombreras de top de Assassination 30.
+- **Páginas por mazmorra de ForeverDB (2026-11-13)**: dan coordenadas de entrada y nivel mínimo para entrar (RFK desde 25, SM desde 20, RFD desde 35, Uldaman desde 30, Maraudon desde 25). Solo hay muertes registradas en Forever para SM Graveyard (Bloody Brass Knuckles 20 % en Vishas, 10 muertes), Gnomeregan y City of Dalaran; el resto del botín de 30+ sigue siendo dato de Classic.
 - Legacy: *Experienced Spelunker* = City of Dalaran + Drowned City + Krol'dok; *Master Spelunker* = Alcaz + Blackmaw/Timbermaw (discrepancia) + Shaper's Terrace. Cada desafío da 1 punto de cuenta.
 - Rogue en grupo (ForeverDB): Sap no rompe el sigilo, Kick a lanzadores, Feint al acercarse a la amenaza del tanque; Blade Flurry nunca junto a un mob con Sap o Gouge.
 
@@ -110,6 +123,7 @@ Las descripciones de Krol'dok, Alcaz, Blackmaw y Shaper's Terrace vienen de un a
 
 ## Qué dicen las guías
 - The Forever Era: [[src-theforeverera-es-guides-level-fast]] (mazmorras por tramo) y una ficha por mazmorra: [[src-theforeverera-en-dungeons-razorfen-kraul]], [[src-theforeverera-en-dungeons-gnomeregan]], [[src-theforeverera-en-dungeons-scarlet-monastery]], [[src-theforeverera-en-dungeons-the-drowned-city]], [[src-theforeverera-en-dungeons-razorfen-downs]], [[src-theforeverera-en-dungeons-kroldok-stronghold]], [[src-theforeverera-en-dungeons-uldaman]], [[src-theforeverera-en-dungeons-zulfarrak]], [[src-theforeverera-en-dungeons-maraudon]], [[src-theforeverera-en-dungeons-alcaz-prison]], [[src-theforeverera-en-dungeons-temple-of-atalhakkar]], [[src-theforeverera-en-dungeons-blackrock-depths]], [[src-theforeverera-en-dungeons-dire-maul]], [[src-theforeverera-en-dungeons-blackmaw-hold]], [[src-theforeverera-en-dungeons-lower-blackrock-spire]], [[src-theforeverera-en-dungeons-upper-blackrock-spire]], [[src-theforeverera-en-dungeons-scholomance]], [[src-theforeverera-en-dungeons-stratholme]], [[src-theforeverera-en-dungeons-shapers-terrace]].
+- ForeverDB por mazmorra: [[src-foreverdb-dungeon-47-razorfen-kraul]], [[src-foreverdb-dungeon-189-scarlet-monastery]], [[src-foreverdb-dungeon-129-razorfen-downs]], [[src-foreverdb-dungeon-70-uldaman]], [[src-foreverdb-dungeon-90-gnomeregan]], [[src-foreverdb-dungeon-2959-city-of-dalaran]], [[src-foreverdb-dungeon-209-zulfarrak]], [[src-foreverdb-dungeon-349-maraudon]], [[src-foreverdb-dungeon-109-sunken-temple]], [[src-foreverdb-dungeon-230-blackrock-depths]], [[src-foreverdb-dungeon-229-blackrock-spire]], [[src-foreverdb-dungeon-429-dire-maul]], [[src-foreverdb-dungeon-289-scholomance]], [[src-foreverdb-dungeon-329-stratholme]], [[src-foreverdb-dungeon-2875-karazhan-crypts]], [[src-foreverdb-dungeon-2784-demon-fall-canyon]], [[src-foreverdb-dungeon-3109-manor-mistmantle]].
 - ForeverDB: [[src-foreverdb-llms-full]] y [[src-foreverdb-dungeons]] (rangos del cliente, "merece la pena por"); [[src-foreverdb-veterans]] (botín cambiado); [[src-foreverdb-class-rogue-pve]] (papel del Rogue).
 - Method: rangos por ala de SM y artículo de XP, en [[Dungeon-XP]] y [[src-method-dungeons]]; sin páginas de mazmorra por encima de SM Graveyard (hub consultado el 2026-11-13).
 - Legacy: [[src-theforeverera-es-legacy]]. Zonas de las mazmorras nuevas: [[src-theforeverera-es-zones-riverglades]], [[src-theforeverera-es-zones-stranglethorn-vale]].
@@ -127,6 +141,7 @@ Las descripciones de Krol'dok, Alcaz, Blackmaw y Shaper's Terrace vienen de un a
 | https://theforeverera.com/en/dungeons/ + 19 páginas (ver propiedades) | Jefes del cliente + botín y misiones CMaNGOS | 2026-11-04 a 2026-11-08 | 2026-11-13 | No (datos de Classic) |
 | https://theforeverera.com/es/zones/riverglades/, stranglethorn-vale/ | Páginas de zona | 2026-11-08 | 2026-11-13 | No |
 | https://www.method.gg/wow-forever/dungeons | Hub Method | sin fecha | 2026-11-13 | Desconocido |
+| https://foreverdb.net/dungeon/ (páginas 47, 189, 129, 70, 90, 2959, 109, 209, 229, 230, 289, 329, 349, 429, 2875, 2784, 3109) | Datos ForeverDB por mazmorra | 2026-11-13 | 2026-11-13 | No |
 
 [Data from ForeverDB.net](https://foreverdb.net)
 
