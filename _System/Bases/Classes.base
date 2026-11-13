@@ -1,0 +1,17 @@
+filters:
+  and:
+    - file.inFolder("02-Classes")
+    - file.ext == "md"
+    - type != "moc"
+views:
+  - type: table
+    name: Clases
+    order:
+      - file.name
+      - type
+      - status
+      - confidence
+      - last_verified
+    sort:
+      - property: file.name
+        direction: ASC

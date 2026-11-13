@@ -1,0 +1,3 @@
+# Los exports deben conservarse byte a byte, también al pasar por Windows
+data/inbox/** -text
+data/raw/** -text

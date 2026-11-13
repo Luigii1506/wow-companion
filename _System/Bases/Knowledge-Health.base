@@ -1,0 +1,28 @@
+filters:
+  and:
+    - file.ext == "md"
+    - status != null
+    - type != "source-digest"
+views:
+  - type: table
+    name: Notas por verificar (más antiguas primero)
+    order:
+      - file.name
+      - file.folder
+      - status
+      - confidence
+      - last_verified
+    sort:
+      - property: last_verified
+        direction: ASC
+  - type: table
+    name: En conflicto o sin evidencia
+    filters:
+      or:
+        - status == "conflicting"
+        - status == "unknown"
+    order:
+      - file.name
+      - file.folder
+      - status
+      - confidence

@@ -1,0 +1,17 @@
+filters:
+  or:
+    - type == "dungeon"
+    - type == "raid"
+views:
+  - type: table
+    name: Mazmorras y raids por nivel
+    order:
+      - file.name
+      - type
+      - level_min
+      - level_max
+      - status
+      - confidence
+    sort:
+      - property: level_min
+        direction: ASC

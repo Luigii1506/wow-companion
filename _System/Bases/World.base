@@ -1,0 +1,20 @@
+filters:
+  and:
+    - file.inFolder("05-World")
+    - file.ext == "md"
+    - type != "moc"
+views:
+  - type: table
+    name: Mundo
+    order:
+      - file.name
+      - type
+      - level_min
+      - level_max
+      - faction
+      - status
+      - confidence
+      - last_verified
+    sort:
+      - property: level_min
+        direction: ASC

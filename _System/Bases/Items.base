@@ -1,0 +1,19 @@
+filters:
+  and:
+    - file.inFolder("06-Items")
+    - file.ext == "md"
+    - type != "moc"
+views:
+  - type: table
+    name: Objetos
+    order:
+      - file.name
+      - type
+      - level_min
+      - source_type
+      - status
+      - confidence
+      - last_verified
+    sort:
+      - property: level_min
+        direction: ASC

@@ -1,0 +1,17 @@
+filters:
+  and:
+    - file.inFolder("09-Systems")
+    - file.ext == "md"
+    - type != "moc"
+views:
+  - type: table
+    name: Sistemas
+    order:
+      - file.name
+      - type
+      - status
+      - confidence
+      - last_verified
+    sort:
+      - property: file.name
+        direction: ASC

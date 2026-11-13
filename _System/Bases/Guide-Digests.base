@@ -1,0 +1,17 @@
+filters:
+  and:
+    - type == "source-digest"
+views:
+  - type: table
+    name: Fichas de guías
+    order:
+      - file.name
+      - site
+      - author
+      - published
+      - updated
+      - ingested
+      - confidence
+    sort:
+      - property: ingested
+        direction: DESC

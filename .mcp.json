@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wowdb": {
+      "type": "http",
+      "url": "https://azeroth.wiki/api/mcp"
+    }
+  }
+}

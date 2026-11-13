@@ -1,0 +1,35 @@
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# Base de datos local: se regenera desde los exports
+data/*.sqlite
+data/*.sqlite-*
+
+# Estado local de Obsidian
+.obsidian/workspace*
+.obsidian/cache
+.trash/
+
+# Secretos y archivos sensibles del juego
+.env
+config/settings.yaml
+Config.wtf
+WTF/
+
+# Recortes completos de guías (derechos de autor): solo locales
+07-Research/inbox/*
+!07-Research/inbox/README.md
+
+# Ajustes locales de Claude Code
+.claude/settings.local.json
+
+# Datos del cliente de Blizzard descargados de wago.tools: solo locales
+data/wago/
+
+# Caché local de la API de ForeverDB
+data/foreverdb/
