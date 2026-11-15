@@ -304,7 +304,7 @@ Formato breve: afirmación A frente a B, y nota afectada. Resolver en el juego o
 - **C117** — Fire Blast en la rotación Frost: el simulador de ForeverDB da más daño sin él a 20–39; su guía de clase lo usa. [[Frost-Mage]]
 - **C118** — Objeto de campamento de Tailoring: Intellect según Method ([[Tailoring]]); Faction Banner con Spirit según [[Camping]].
 - **C119** — Rangos de los entrenadores de Enchanting: Godan Journeyman y Hgarth Expert (Method) frente a Expert y Artisan en el addon. Los títulos de NPC pueden no coincidir con el rango que enseñan. [[Enchanting]]
-- **C120** — Comprehend Scroll: Method dice que se aprende del entrenador a 6; la lista de ForeverDB de nivel 6 no lo incluye. Sin confirmar. [[Mage-Comprehension]]
+- **C120** — Comprehend Scroll: Method dice que se aprende del entrenador a 6; la lista de ForeverDB de nivel 6 no lo incluye. **Resuelto el 2026-11-15:** el usuario lo aprendió en el juego a nivel 6 (observado, sin export). [[Mage-Comprehension]]
 - **C121** — Prioridad de estadísticas: Method pone Haste por encima de Intellect; los pesos de ForeverDB ponen hit y regeneración de maná por encima de spell power. [[Frost-Mage]]
 - **C122** — Sable Wand: la guía de leveling de ForeverDB la recomienda, pero su misión es solo de la Alliance (Stormwind) según el addon. No sirve para la Horde. [[Mage-Quest-Rewards-1-30]]
 - **Errores de datos de ForeverDB** (no son conflictos de mecánica): la guía de Valley of Trials da a Norzsh como vendedor de armas y a Nartok como entrenador de Blacksmithing; la guía de Troll Mage lista *Vile Familiars* como misión de clase (en el addon es general, 792).

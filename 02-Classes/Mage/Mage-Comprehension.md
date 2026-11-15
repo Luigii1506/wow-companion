@@ -11,6 +11,8 @@ game_version: "Forever 1.60.1"
 sources:
   - https://www.method.gg/wow-forever/mage-comprehension-and-study-guide-in-wow-forever-how-scrolls-work-and-all-scroll-effects
   - https://foreverdb.net/guide/leveling-mage
+  - https://www.warcrafttavern.com/forever/guides/mage-scrolls/
+  - https://azeroth.wiki/forever/abilities/mage/general-comprehend-scroll-group
 related: ["[[Mage]]", "[[Mage-Leveling]]", "[[Library-Books]]"]
 ---
 
@@ -25,6 +27,18 @@ related: ["[[Mage]]", "[[Mage-Leveling]]", "[[Library-Books]]"]
 - Pergaminos sin descifrar: botín aleatorio (mobs, misiones, mazmorras). No hay farm dedicado.
 - **Study**: una vez por hora, con 1 Light Feather en la Library de tu facción (Undercity para Horde), da un Bundle of Scrolls ya descifrados. Requiere entregar el primer libro de la Library. No sube skill.
 - Efectos: imbues de arma (1 h), familiares con Intellect (1 h), Minor Evocation, Cryoblast, abrir cerraduras, y tres pergaminos que crean armas.
+
+## Cómo descifrar (paso a paso)
+| Dato | Valor | Estado | Fuente |
+|---|---|---|---|
+| Dónde está el hechizo | Libro de hechizos, pestaña **General** | confirmed_forever | Method 2026-11-13 |
+| Cómo se usa | Pulsar Comprehend Scroll y después **clic en el pergamino sin traducir de la mochila** (igual que Disenchant) | probable_classic: resumen de búsqueda web 2026-11-15; ni Method ni Warcraft Tavern lo detallan | búsqueda web |
+| Cómo se reconoce el pergamino | **"Scroll:"** seguido de palabras sin sentido (p. ej. *Scroll: KWYJIBO*, *Scroll: UPDOG*). Consumible, subtipo Scrolls, nivel 1. Cada uno ocupa su propio hueco aunque compartan nombre | confirmed_forever (nombres en ForeverDB; huecos según Warcraft Tavern) | ForeverDB items · Warcraft Tavern |
+| Tiempo de lanzamiento | Datos del cliente: un rango instantáneo y cuatro de **5 s**, alcance 5 m. Estar quieto (los pergaminos no se lanzan en movimiento desde la build del 1 oct.) | confirmed_forever (datos del cliente) | azeroth.wiki 2026-11-15 · ForeverDB |
+| Resultado | Un pergamino descifrado **al azar**, solo para Mage; se apila hasta 5 | probable_classic (búsqueda web) | búsqueda web |
+| Fallo | Una guía dice que un fallo puede convertirte en oveja (Polymorph) | unknown | búsqueda web |
+| Botín | Cualquier clase puede saquear pergaminos sin traducir y no se ligan | probable_classic | Warcraft Tavern · búsqueda web |
+| Tope de skill | 5 × nivel del personaje (máx. 300) | conflicting (Method no lo menciona) | Warcraft Tavern |
 
 ## Tramos
 | Skill | Nivel para usar | Estado |
@@ -54,6 +68,8 @@ Reglas de apilamiento: desconocidas (la guía no las describe).
 |---|---|---|---|---|
 | https://www.method.gg/wow-forever/mage-comprehension-and-study-guide-in-wow-forever-how-scrolls-work-and-all-scroll-effects | Guía Method | 2026-11-13 | 2026-11-13 | No (datos de beta) |
 | https://foreverdb.net/guide/leveling-mage | Guía ForeverDB | 2026-11-05 | 2026-11-15 | No |
+| https://www.warcrafttavern.com/forever/guides/mage-scrolls/ | Guía Warcraft Tavern | sin fecha (2026) | 2026-11-15 | No |
+| https://azeroth.wiki/forever/abilities/mage/general-comprehend-scroll-group | Datos del cliente | — | 2026-11-15 | No |
 
 [Data from ForeverDB.net](https://foreverdb.net)
 
