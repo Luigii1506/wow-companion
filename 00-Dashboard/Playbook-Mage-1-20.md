@@ -183,7 +183,7 @@ Todas las misiones vienen del addon de ForeverDB (vistas en Forever) salvo las c
 \* stat87: identificador que el addon no nombra; ForeverDB pone la línea Silky en la lista de Frost, así que probablemente es daño de Frost (inferido).
 
 ## Qué comprar
-- **Wand**: si no eres encantador, la subasta (Lesser/Greater Magic Wand) o espera a Cinder Wand (15) y Flaring Baton (18). Requisito de nivel de las wands de Enchanting en Forever: desconocido (ForeverDB: 1, 5 y 13).
+- **Wand**: si no eres encantador, la subasta (Lesser/Greater Magic Wand) o espera a Cinder Wand (15) y Flaring Baton (18). Nivel requerido de las wands de Enchanting: **Novice's Practice Wand 1, Lesser Magic Wand 5, Greater Magic Wand 13** (API de ForeverDB, 2026-11-15, `confirmed_forever`).
 - **Bolsas**: la subasta de Orgrimmar (8–10 casillas, ~4–20 s según [[Bags]]); *Carry Your Weight* da una bolsa a 7.
 - **Nada de comida ni bebida**: la conjuras.
 - Dinero para el nivel 20 (muchos hechizos a la vez). Precio: desconocido.
@@ -200,7 +200,7 @@ Todas las misiones vienen del addon de ForeverDB (vistas en Forever) salvo las c
 - Si los rangos bajos sufren penalización en el servidor (cliente frente a notas de Blizzard).
 - Gemas y objetivos de la cadena de clase de 15–16 (datos de Classic) y si *Report to Anastasia* aparece para un Troll.
 - Quién enseña los teleports (Thuul o el entrenador de Mage) y si necesitan reagente.
-- Nivel requerido de las wands de Enchanting y de las recompensas de misión (el addon no lo da para la mayoría).
+- Nivel requerido de las recompensas de misión (el addon no lo da para la mayoría; consultable con la API de ForeverDB).
 
 ## Qué dicen las guías
 - **Coinciden** en Frost para subir, Tailoring + Enchanting, y en Frostbolt + Frost Nova + Ice Lance como base: [[src-foreverdb-guide-leveling-mage]], [[src-method-wow-forever-mage-leveling-guide-and-talents]].
