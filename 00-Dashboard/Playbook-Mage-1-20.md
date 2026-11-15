@@ -50,6 +50,8 @@ related: ["[[Playbook-Mage-20-30]]", "[[Mage]]", "[[Mage-Leveling]]", "[[Frost-M
 | 3 | Mai'ah (42.5, 69.0), a 40 yardas al oeste | Entregar y entrenar | confirmed_forever |
 | 4 | Gornek | *Cutting Teeth* (2), *Wayward Weapons* (2), *Sting of the Scorpid* (3) | confirmed_forever |
 
+**Libros de profesión** (*Galgar's Cactus Apple Surprise*, nivel 3; también *A Humble Task* y *Marla's Last Wish*): eliges entre **Mining for Dummies**, **Wild Harvest** (Herbalism) y **Pelt Collecting for Beginners** (Skinning). Al **usarlo** aprendes esa profesión si tienes menos de dos y sube +2 de skill (tope 15). Son únicos y se ligan al recogerlos. **Si vas a hacer Tailoring + Enchanting, coge cualquiera y no lo uses**: ocuparía una de tus dos profesiones. Fuente: https://foreverdb.net/item/247840 (2026-11-15) · `confirmed_forever`
+
 Si mueres: *Release Spirit*, el sanador está en 44.2, 69.4. Vende todo lo gris en cualquier vendedor: necesitas monedas para el entrenador.
 
 ## Hechizos por nivel y coste
