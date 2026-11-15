@@ -72,6 +72,19 @@ Coste de maná, lanzamiento y CD del cliente (Azeroth DB). El precio del entrena
 - Los rangos bajos de Frostbolt y Fireball tienen el coeficiente completo en el cliente de Forever (Fireball R1 0,429 frente a 0,123 en Classic): el equipo con spell power se nota ya desde nivel 1. `confirmed_forever`
 - Frost Blast (24 en la beta) **ya no existe**. `confirmed_forever`
 
+### Qué puedes dejar para después si vas justo de oro
+*Inferido para un Frost que sube solo; ninguna guía de Forever da esta lista.* Prioridad: Frostbolt, Frost Nova, Frost Armor, Arcane Intellect, Conjure Water/Food, Fire Blast, Polymorph, y a 20 Blink, Evocation e Ice Lance (talento).
+| Hechizo | Por qué puede esperar |
+|---|---|
+| Rangos de Fireball desde el R2 | Frostbolt es tu hechizo principal desde el 4 |
+| Arcane Missiles | Canalizado y caro; Frost no lo usa para subir |
+| Flamestrike | AoE de grupo con lanzamiento largo |
+| Dampen Magic / Amplify Magic | Utilidad de grupo, casi nunca solo |
+| Fire Ward | Solo contra mobs de fuego |
+| Blizzard R1 (20) | 320 de maná: solo para farmear en AoE o en grupo |
+| Teleports (20) | Comodidad; cómpralos cuando sobre oro |
+Cuidado: si los rangos bajos tienen penalización en el servidor (`conflicting`, ver arriba), no te quedes atrás en Frostbolt.
+
 ## Talentos 10–20
 Un punto por nivel desde 10; cada fila pide 5 puntos más en las de arriba. Ice Lance está en la fila 3 (10 puntos en Frost).
 
