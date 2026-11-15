@@ -8,6 +8,7 @@ Genera 07-Research/Knowledge-QA.md con:
 - notas de conocimiento sin `sources`, sin `status` o sin `type`
 - notas con `last_verified` de hace más de 14 días
 - notas con datos de ForeverDB sin el crédito obligatorio
+- notas con caracteres invisibles (marcas de la clave de ForeverDB): nunca deben llegar a git
 Solo biblioteca estándar. No modifica ninguna nota salvo el informe.
 """
 from __future__ import annotations
@@ -49,12 +50,14 @@ def main() -> None:
     names = {p.stem for p in files} | {p.relative_to(ROOT).with_suffix("").as_posix() for p in files}
     names |= {p.stem for p in ROOT.rglob("*.base")} | {p.name for p in ROOT.rglob("*.base")}
     missing: dict[str, set[str]] = defaultdict(set)
-    no_sources, no_status, no_type, stale, no_credit = [], [], [], [], []
+    no_sources, no_status, no_type, stale, no_credit, markers = [], [], [], [], [], []
     today = dt.date.today()
 
     for p in files:
         text = p.read_text(encoding="utf-8")
         rel = p.relative_to(ROOT).as_posix()
+        if re.search("[\u200b\u200c\u200d\u2060-\u2064\ufeff]", text):
+            markers.append(p.stem)
         for target in LINK.findall(text):
             t = target.strip()
             if t and t not in names and t.split("/")[-1] not in names:
@@ -95,7 +98,7 @@ def main() -> None:
         "según [[Vault-Guide]] marca algo pendiente de escribir. Los más enlazados son los mejores candidatos para la próxima investigación.", "",
         f"**Notas revisadas:** {len(files)} · **Destinos sin nota:** {len(missing)} · "
         f"**Sin fuentes:** {len(no_sources)} · **Sin estado:** {len(no_status)} · **Antiguas:** {len(stale)} · "
-        f"**ForeverDB sin crédito:** {len(no_credit)}", "",
+        f"**ForeverDB sin crédito:** {len(no_credit)} · **Con marcas invisibles:** {len(markers)}", "",
         f"## Notas enlazadas que no existen ({len(top)})", "",
         "| Destino | Veces enlazado | Desde (ejemplos) |", "|---|---|---|",
     ]
@@ -107,9 +110,10 @@ def main() -> None:
     out += block("Notas de conocimiento sin tipo", no_type)
     out += block(f"Notas sin verificar en más de {STALE_DAYS} días", stale)
     out += block("Notas con datos de ForeverDB sin el crédito obligatorio", no_credit)
+    out += block("Notas con caracteres invisibles (quitar antes de subir: marcas de la clave de ForeverDB)", markers)
     (ROOT / "07-Research/Knowledge-QA.md").write_text("\n".join(out), encoding="utf-8")
     print(f"Revisadas {len(files)} notas · {len(missing)} destinos sin nota · {len(no_sources)} sin fuentes · "
-          f"{len(no_status)} sin estado · {len(stale)} antiguas · {len(no_credit)} ForeverDB sin crédito")
+          f"{len(no_status)} sin estado · {len(stale)} antiguas · {len(no_credit)} ForeverDB sin crédito · {len(markers)} con marcas invisibles")
 
 
 if __name__ == "__main__":

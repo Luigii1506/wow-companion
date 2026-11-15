@@ -91,3 +91,16 @@ Por confirmar con la primera respuesta real:
   página trae menos filas que `limit`).
 - Hora de reinicio del cupo diario (el adaptador asume medianoche UTC).
 - Formato de los cuerpos de error (402/403) y si `verified`/`seen` esperan `1` o `true`.
+
+## Descarga por lotes (`harvest`)
+
+Guarda en `data/foreverdb/store/` (fuera de git) las respuestas que nos sirven, para no gastar peticiones en cada pregunta:
+
+```
+python3 -m tools.foreverdb.harvest --budget 2500     # fases: quests, misc, professions, vendors (Horde y neutrales), items
+python3 -m tools.foreverdb.harvest --status
+```
+
+- No vuelve a pedir lo que ya está guardado: si se corta por el presupuesto o el límite diario, se reanuda donde quedó.
+- Las respuestas llevan **marcas invisibles** (caracteres de ancho cero) que identifican la clave. Cualquier texto que pase a una nota debe ir por `strip_markers()`; `_System/qa_check.py` avisa si una nota las contiene.
+- Uso personal, sin redistribuir. Toda nota que use estos datos cita `[Data from ForeverDB.net](https://foreverdb.net)`.
