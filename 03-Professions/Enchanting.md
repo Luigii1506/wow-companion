@@ -6,8 +6,8 @@ status: confirmed_forever
 confidence: medium
 last_verified: 2026-11-15
 game_version: "Forever 1.60.1"
-sources: [https://www.method.gg/wow-forever/enchanting-in-wow-forever-1-300-leveling-guide-and-trainers, https://www.method.gg/wow-forever/all-enchanting-recipes-and-best-enchants-in-wow-forever, https://foreverdb.net/professions/best/mage, https://foreverdb.net/guide/valley-of-trials, "Addon ForeverDB, datos 2026-11-13 (recetas, NPCs)"]
-related: ["[[Enchants]]", "[[Tailoring]]", "[[Blacksmithing]]", "[[Material-Demand]]", "[[Professions]]", "[[Mage]]", "[[Playbook-Mage-1-20]]"]
+sources: [https://www.method.gg/wow-forever/enchanting-in-wow-forever-1-300-leveling-guide-and-trainers, https://www.method.gg/wow-forever/all-enchanting-recipes-and-best-enchants-in-wow-forever, https://foreverdb.net/professions/best/mage, https://foreverdb.net/guide/valley-of-trials, https://foreverdb.net/profession/enchanting, https://foreverdb.net/profession/enchanting/leveling, https://foreverdb.net/item/10940, https://foreverdb.net/item/10938, https://foreverdb.net/item/10978, https://foreverdb.net/item/11178, https://warcraft.wiki.gg/wiki/Arcane_Salvager, "Addon ForeverDB, datos 2026-11-13 (recetas, NPCs)"]
+related: ["[[Enchanting-Services]]", "[[Gold-Making-Mage]]", "[[Enchants]]", "[[Tailoring]]", "[[Blacksmithing]]", "[[Material-Demand]]", "[[Professions]]", "[[Mage]]", "[[Playbook-Mage-1-20]]"]
 ---
 
 # Enchanting
@@ -56,8 +56,22 @@ related: ["[[Enchants]]", "[[Tailoring]]", "[[Blacksmithing]]", "[[Material-Dema
 - Enchanted Lute: receta de la misión "Camping 101: Enchanting" o entrenador, skill 20. `confirmed_forever`
 - Enchantresses' Spire: bastón datamineado, -25 % tiempo de Disenchant, origen desconocido. `unknown`
 
-## Para ganar oro
-- Sin precios en la fuente.
+## Troll en Durotar y Orgrimmar
+| Qué | NPC | Lugar | Estado |
+|---|---|---|---|
+| Aprender (Apprentice/Journeyman) | Pa'zula, Journeyman Enchanter | Sen'jin Village, Durotar 56.6, 73.7 | confirmed_forever (addon) |
+| Journeyman | Jhag | Orgrimmar 53.6, 38.3 | confirmed_forever (addon) |
+| Expert (desde skill 125, nivel 20) | Godan, Expert Enchanter | Orgrimmar 53.7, 38.3 | confirmed_forever (addon) |
+| Materiales y fórmulas | Kithas, Enchanting Supplies: Mote of Magic 10 c; Strange Dust y Lesser Magic Essence 8 s (existencias limitadas); Minor Wizard Oil 5 s, Minor Mana Oil 30 s, Lesser Wizard Oil 40 s; Chest – Minor Intellect 3 s, Chest – Lesser Intellect 4 s (limitada), 2H – Lesser Intellect 5 s | Orgrimmar 53.7, 38.0 | confirmed_forever (addon) |
+| Fórmulas por Merchant's Favor | Beneris (Durotar Supply and Logistics) | The Barrens 49.7, 29.7 | confirmed_forever |
+| Simple Wood (wands) | Asoran (Orgrimmar 45.8, 40.7), Aza'bek y Barg (Barrens) a 38 c | — | confirmed_forever (addon) |
+
+## Para hacer oro
+- **Pronto (1–30) no da oro, lo ahorra**: Strange Dust ~1 s y Lesser Magic Essence ~1 s 12 c – 1 s 38 c en los escaneos de ForeverDB (14 y 15 de noviembre, otros reinos), con miles a la venta. Cómpralos en la subasta en vez de a 8 s en Kithas. La ruta Horde de ForeverDB gasta ~318 Strange Dust hasta 164. *Inferido de precios observados.*
+- **Nunca al vendedor**: polvos, esencias, shards y wands encantadas se pagan a 1 c. `confirmed_forever`
+- **Shards**: Small Glimmering Shard 2–4 s; Large Radiant Shard 1 g 45 s – 2 g 49 s (a la baja desde ~20 g el 11-07). Desencantar verdes de nivel 35–45 es lo primero que rinde de verdad. `confirmed_forever` (observado por ForeverDB)
+- **Servicios**: lo que más puede rendir son las fórmulas de MF (collares, Boots – Speed, Spellblasting…). Detalle en [[Enchanting-Services]]; plan del Mage en [[Gold-Making-Mage]].
+- **Arcane Salvager** (campamento, 140): mejora lo que da Disenchant (sin cifra). Blueprint en conflicto: Charlga Razorflank (addon) frente a Rath'mael (Warcraft Wiki). Ver [[src-warcraftwiki-arcane-salvager]].
 
 ## Qué dicen las guías
 - [[src-foreverdb-professions-best-mage]]: segunda profesión para Mage tras Tailoring (wands, Orb of Mystic Insight, Frozen Heart of the Mountain en sus listas; Enchanted Lute en el campamento).
@@ -73,6 +87,9 @@ related: ["[[Enchants]]", "[[Tailoring]]", "[[Blacksmithing]]", "[[Material-Dema
 | https://foreverdb.net/professions/best/mage | ForeverDB | 2026-11-13 | 2026-11-15 | No |
 | https://foreverdb.net/guide/valley-of-trials | Guía ForeverDB | 2026-11-14 | 2026-11-15 | No |
 | Addon ForeverDB (recetas, NPCs) | Datos de jugadores y cliente | 2026-11-13 | 2026-11-15 | No |
+| https://foreverdb.net/profession/enchanting y /leveling | Datos del cliente | 2026-11-13 | 2026-11-15 | No |
+| https://foreverdb.net/item/10940, /10938, /10978, /11178 | Escaneos de subasta | 2026-11-14/15 | 2026-11-15 | No |
+| https://warcraft.wiki.gg/wiki/Arcane_Salvager | Wiki | 2026-11-11 | 2026-11-15 | No |
 
 [Data from ForeverDB.net](https://foreverdb.net)
 

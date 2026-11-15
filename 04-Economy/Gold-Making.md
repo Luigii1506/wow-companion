@@ -31,6 +31,7 @@ related: ["[[Gold-Gathering-While-Leveling]]", "[[Auction-House]]", "[[Mount-and
 - **Fuentes de oro al nivel 9–20**: dinero de misiones, grises y basura de bestias al vendedor, y materiales de Herbalism/Skinning en la AH. El plan concreto está en [[Gold-Gathering-While-Leveling]].
 - **Lo confirmado por Blizzard que afecta al oro** (`confirmed_forever`): al nivel 60 las misiones ya no convierten XP en oro, y el 2026-11-10 se añadió oro a la mayoría de misiones de nivel 48 o más. Los vendedores pagan menos por varios objetos fabricados (hotfixes del 2026-11-05 y del 2026-11-10).
 - **Reglas de prudencia**: no equipar un BoE que quieras vender, mirar la AH antes de vender tela o materiales al vendedor, y no gastar en mejoras de equipo que vas a superar enseguida. Si dudas, **conservar** (CLAUDE.md).
+- **Por personaje y profesión**: Troll Mage con Tailoring + Enchanting → [[Gold-Making-Mage]]; vender enchants y desencantar para otros → [[Enchanting-Services]].
 - **Cuidado con las "guías de oro" de Forever** que aparecen en los buscadores: la mayoría son de webs que venden oro o boosts. No se usaron como fuente.
 
 ## Métodos por tramo de nivel

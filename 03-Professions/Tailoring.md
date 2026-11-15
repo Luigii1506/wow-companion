@@ -6,8 +6,8 @@ status: confirmed_forever
 confidence: medium
 last_verified: 2026-11-15
 game_version: "Forever 1.60.1"
-sources: [https://www.method.gg/wow-forever/tailoring-in-wow-forever-1-300-leveling-guide-and-trainers, https://foreverdb.net/professions/best/mage, https://foreverdb.net/guide/leveling-mage, "Addon ForeverDB, datos 2026-11-13 (recetas, vendedores, NPCs)"]
-related: ["[[Enchanting]]", "[[Material-Demand]]", "[[Professions]]", "[[Mage]]", "[[Playbook-Mage-1-20]]"]
+sources: [https://www.method.gg/wow-forever/tailoring-in-wow-forever-1-300-leveling-guide-and-trainers, https://foreverdb.net/professions/best/mage, https://foreverdb.net/guide/leveling-mage, https://foreverdb.net/profession/tailoring, https://foreverdb.net/profession/tailoring/leveling, https://foreverdb.net/item/2589, https://foreverdb.net/item/2592, https://foreverdb.net/item/4306, https://foreverdb.net/item/4245, https://foreverdb.net/item/253664, https://news.blizzard.com/en-us/article/24315281, "Addon ForeverDB, datos 2026-11-13 (recetas, vendedores, NPCs)"]
+related: ["[[Gold-Making-Mage]]", "[[Enchanting]]", "[[Material-Demand]]", "[[Professions]]", "[[Mage]]", "[[Playbook-Mage-1-20]]"]
 ---
 
 # Tailoring
@@ -53,8 +53,23 @@ Totales: 1–75 120 Linen, 60 Wool, 10 Coarse Thread · 75–150 75 Wool, 160 Si
 - Buff de Intellect para el campamento (sistema de camping de Forever). `confirmed_forever`
 - La guía no enumera otras diferencias frente a Classic.
 
-## Para ganar oro
-- Sin datos en la fuente.
+## Troll en Durotar y Orgrimmar
+| Qué | NPC | Lugar | Estado |
+|---|---|---|---|
+| Aprender (Apprentice/Journeyman) | Snang, Journeyman Tailor | Orgrimmar 63.0, 49.7 (no hay entrenador de Tailoring en Durotar fuera de Orgrimmar según el addon) | confirmed_forever (addon) |
+| Expert (desde skill 125, nivel 20) | Magar, Expert Tailor | Orgrimmar 63.4, 50.0 | confirmed_forever (addon) |
+| Alternativa en Barrens | Kil'hala (Journeyman) y Wrahk (suministros), Crossroads 52.2, 31.7; Mahani (Expert), Camp Taurajo 44.9, 59.4 | — | confirmed_forever (addon) |
+| Hilos y patrones de bolsa | Borya, Tailoring Supplies: Coarse Thread 10 c, Fine Thread 1 s, Silken Thread 5 s; Pattern: Linen Reagent Bag 1 s 50 c, Pattern: Woolen Reagent Bag 2 s 50 c | Orgrimmar 63.3, 51.2 | confirmed_forever (addon) |
+| Patrones Silky y de escuela (Merchant's Favor) | Jim'bek (Durotar Supply and Logistics) | The Barrens 49.6, 29.5 | confirmed_forever |
+
+Un Troll llega a Orgrimmar hacia el nivel 12: guarda la Linen de Durotar hasta entonces (*inferido*).
+
+## Para hacer oro
+- **Tela casi a precio de vendedor** (escaneos de ForeverDB del 14 y 15 de noviembre, otros reinos): Linen 15–24 c (vendedor 13 c), Wool 70 c – 1 s 28 c (33 c), Silk 1 s 70 c – 1 s 90 c (1 s 50 c). Hay decenas de miles de unidades a la venta. Úsala para subir Tailoring en vez de venderla. `confirmed_forever` (observado) / consejo inferido
+- **Bolsas**: Small Silk Pack ~20–21 s, igual que su precio de vendedor (20 s): no deja margen sobre vender la seda. Linen Reagent Bag (nueva, 6 casillas, para la ranura de componentes) 4 s – 5 s 95 c frente a un coste aprox. de 2 s 40 c – 3 s 50 c: margen pequeño con 300 o más a la venta. Los vendedores de Zephras Isle venden bolsas de profesión Apprentice desde el 11-05. *Inferido de precios observados.*
+- **Armadura fabricada**: los vendedores pagan menos por ella desde el hotfix del 11-10. Desencántala (con [[Enchanting]]) en vez de venderla. `confirmed_forever`
+- **Línea Silky (Frost)**: cada pieza pide **Cerulean Dye** (Alchemy: 2 Frilled Lichen, una hierba Scarce, + Empty Vial). Si se vende a otros Mages Frost depende de que sea BoE, algo que el addon no dice. Guarda Spider's Silk y Frilled Lichen. `confirmed_forever` (recetas) / venta: unknown
+- **Merchant's Favor**: el crate Apprentice Textiles admite 40 Linen; el MF paga los patrones de Jim'bek (tramos de 30 / 60 / 90 MF). Plan completo en [[Gold-Making-Mage]].
 
 ## Qué dicen las guías
 - [[src-foreverdb-professions-best-mage]]: Tailoring es la mejor profesión para Mage (6 piezas de su BiS de 60, 77 "mejores en el camino"); ningún recolector cubre más del 10 % de sus recetas.
@@ -66,6 +81,9 @@ Totales: 1–75 120 Linen, 60 Wool, 10 Coarse Thread · 75–150 75 Wool, 160 Si
 | https://www.method.gg/wow-forever/tailoring-in-wow-forever-1-300-leveling-guide-and-trainers | Guía Method | 2026-11-11 | 2026-11-13 | 225–300 sí |
 | https://foreverdb.net/professions/best/mage | ForeverDB | 2026-11-13 | 2026-11-15 | No |
 | Addon ForeverDB (recetas, vendedores) | Datos de jugadores y cliente | 2026-11-13 | 2026-11-15 | No |
+| https://foreverdb.net/profession/tailoring y /leveling | Datos del cliente | 2026-11-13 | 2026-11-15 | No |
+| https://foreverdb.net/item/2589, /2592, /4306, /4245, /253664 | Escaneos de subasta | 2026-11-14/15 | 2026-11-15 | No |
+| https://news.blizzard.com/en-us/article/24315281 | Oficial (hotfixes) | Hasta 2026-11-13 | 2026-11-15 | No |
 
 [Data from ForeverDB.net](https://foreverdb.net)
 

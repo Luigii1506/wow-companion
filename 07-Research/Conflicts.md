@@ -309,6 +309,15 @@ Formato breve: afirmación A frente a B, y nota afectada. Resolver en el juego o
 - **C122** — Sable Wand: la guía de leveling de ForeverDB la recomienda, pero su misión es solo de la Alliance (Stormwind) según el addon. No sirve para la Horde. [[Mage-Quest-Rewards-1-30]]
 - **Errores de datos de ForeverDB** (no son conflictos de mecánica): la guía de Valley of Trials da a Norzsh como vendedor de armas y a Nartok como entrenador de Blacksmithing; la guía de Troll Mage lista *Vile Familiars* como misión de clase (en el addon es general, 792).
 
+## Conflictos de la tanda 7 (2026-11-15, oro y Enchanting)
+- **C123** — Frost Nova + Blizzard: [[Mage-Leveling]] y [[Playbook-Mage-20-30]] recomiendan la combinación, pero el hotfix del 2026-11-13 hace que el daño de Blizzard rompa Frost Nova. Ver [[Gold-Making-Mage]]. Falta añadir esa línea a [[src-blizzard-hotfixes-24315281]].
+- **C124** — Plano del Arcane Salvager: Charlga Razorflank (RFK) según el addon; Rath'mael (Ruins of Lordaeron) según Warcraft Wiki. [[Enchanting]]
+- **C125** — Profession Certification: [[Titles]] da su origen como desconocido; [[Durotar-Supply-and-Logistics]] dice 1000 Merchant's Favor y el addon pone las certificaciones de Enchanting y Tailoring en Beneris y Jim'bek.
+- **C126** — Armadura del Enchanted Lute: +28 (Blizzard Watch, beta) frente a 308 (addon y ForeverDB). [[Camping]], [[Enchanting]]
+- **C127** — "Ninguna fuente tiene precios": [[Auction-House]] y [[Gold-Making]] lo dicen, pero las páginas de objeto de ForeverDB traen escaneos de subasta con fecha (de otros rulesets). Hay que matizar esas notas.
+- **C128** — Rutas para subir Enchanting y Tailoring: ForeverDB (unos 318 Strange Dust para la Horde) frente a Method. [[Enchanting]], [[Tailoring]]
+- **C129** — Desencantar blancos: la FAQ de Strange Dust de ForeverDB dice que se puede; Warcraft Tavern dice que solo verde o mejor. Cómo resolver: en el juego. [[Enchanting]]
+
 ## Estado de verificación
 - Estado: conflicting
 - Confianza: medium

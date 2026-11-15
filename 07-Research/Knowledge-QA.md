@@ -8,7 +8,7 @@ last_updated: 2026-11-15
 
 Generado por `python3 _System/qa_check.py`. Un enlace a una nota inexistente no siempre es un error: según [[Vault-Guide]] marca algo pendiente de escribir. Los más enlazados son los mejores candidatos para la próxima investigación.
 
-**Notas revisadas:** 739 · **Destinos sin nota:** 19 · **Sin fuentes:** 1 · **Sin estado:** 1 · **Antiguas:** 0 · **ForeverDB sin crédito:** 0
+**Notas revisadas:** 760 · **Destinos sin nota:** 19 · **Sin fuentes:** 1 · **Sin estado:** 1 · **Antiguas:** 0 · **ForeverDB sin crédito:** 0
 
 ## Notas enlazadas que no existen (19)
 
