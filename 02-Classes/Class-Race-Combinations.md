@@ -42,6 +42,7 @@ related: ["[[Races]]", "[[Classes]]"]
 Estado de la matriz: `probable_classic` (fuente de beta), salvo la fila Skyborne: `conflicting`.
 
 ## Implicaciones para la Horde
+- **Skyborne Mage solo en la Alliance**: los Windshaper Skyborne (Horde) pueden ser Druid, Hunter, Rogue, Shaman o Warrior; no Mage (ForeverDB, guía de raza actualizada el 2026-11-14, `confirmed_forever`). El "Skyborne S" de Method para Mage se refiere a los High Order (Alliance). Mage de Horde: Troll, Undead u Orc. Fuente: https://foreverdb.net/guide/race-windshaper-skyborne · [Data from ForeverDB.net](https://foreverdb.net)
 - Por primera vez la Horde tiene Paladin (solo Undead).
 - Opciones de grupo Horde completas: las 9 clases (Druid vía Tauren/Skyborne, Paladin vía Undead).
 
