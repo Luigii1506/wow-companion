@@ -6,7 +6,7 @@ level_max: 60
 faction: both
 status: confirmed_forever
 confidence: medium
-last_verified: 2026-11-13
+last_verified: 2026-11-15
 game_version: "Forever 1.60.1"
 sources:
   - https://www.method.gg/wow-forever/class-guides/fire-mage
@@ -18,6 +18,8 @@ sources:
   - https://www.method.gg/wow-forever/class-guides/fire-mage/interface-addons-and-macros
   - https://www.method.gg/dfc/ForeverTalentsData-1.60.1-2nov.json
   - https://foreverdb.net/class/Mage/talents
+  - https://foreverdb.net/guide/leveling-mage
+  - https://foreverdb.net/class/Mage
 related: ["[[Mage]]", "[[Mage-Leveling]]", "[[Frost-Mage]]", "[[Arcane-Mage]]"]
 ---
 
@@ -102,9 +104,17 @@ Orden del widget:
 | https://www.method.gg/wow-forever/class-guides/fire-mage (+ 6 subpáginas) | Guía Method | 2026-11-09 | 2026-11-13 | No |
 | https://www.method.gg/dfc/ForeverTalentsData-1.60.1-2nov.json | Datos de la calculadora (Method) | 1.60.1 (02-11) | 2026-11-13 | No |
 | https://foreverdb.net/class/Mage/talents | Datos de cliente | sin fecha | 2026-11-13 | No |
+| https://foreverdb.net/guide/leveling-mage, https://foreverdb.net/class/Mage | Guía y simulador ForeverDB | 2026-11-05 / 2026-11-13 | 2026-11-15 | No |
 
 [Data from ForeverDB.net](https://foreverdb.net)
 
 ## Preguntas pendientes
 - ¿Cuánto crit hace falta para que Fire supere a Arcane/Frost? Method no da cifra.
 - Rotación AoE de Fire: no publicada.
+
+## Datos de ForeverDB (leveling y simulador)
+Añadido el 2026-11-15 de [[src-foreverdb-guide-leveling-mage]] y [[src-foreverdb-class-mage]]. `confirmed_forever` (talentos del cliente; simulador propio)
+- Build leveling 20 "Fireball leveling": Accelerant 5, Incineration 2, Ignite 3, Pyroblast 1. A 30 "Heating Up leveling": Accelerant 5, Improved Fire Blast 2, Incineration 3, Ignite 5, Pyroblast 1, Heating Up 1, Master of Elements 3, Blast Wave 1.
+- Fire Blast solo llega a 20 yd (26 con Flame Throwing); Improved Fire Blast 2/2 le suma 15 yd y −2 s de CD (desde el 31-10 está en la fila 3, nivel 20).
+- Heating Up (antes Hot Streak): cada crítico de Fireball, Fire Blast o Scorch acelera un 25 % el siguiente Pyroblast (3 cargas, 20 s), y cada Fire Blast que impacta añade una carga.
+- Simulador: a 20–29 el daño es ≈ Fireball 78 % y Fire Blast 19 %; a 60 Scorch vale un 11 % del DPS. Pyroblast R1 hace menos daño que en Classic (95–125 + 44).

@@ -6,7 +6,7 @@ level_max: 60
 faction: both
 status: confirmed_forever
 confidence: medium
-last_verified: 2026-11-13
+last_verified: 2026-11-15
 game_version: "Forever 1.60.1"
 sources:
   - https://www.method.gg/wow-forever/class-guides/arcane-mage
@@ -18,6 +18,8 @@ sources:
   - https://www.method.gg/wow-forever/class-guides/arcane-mage/interface-addons-and-macros
   - https://www.method.gg/dfc/ForeverTalentsData-1.60.1-2nov.json
   - https://foreverdb.net/class/Mage/talents
+  - https://foreverdb.net/guide/leveling-mage
+  - https://foreverdb.net/class/Mage
 related: ["[[Mage]]", "[[Mage-Leveling]]", "[[Frost-Mage]]", "[[Fire-Mage]]"]
 ---
 
@@ -108,9 +110,17 @@ Orden del widget:
 | https://www.method.gg/wow-forever/class-guides/arcane-mage (+ 6 subpáginas) | Guía Method | 2026-11-09 | 2026-11-13 | No |
 | https://www.method.gg/dfc/ForeverTalentsData-1.60.1-2nov.json | Datos de la calculadora (Method) | 1.60.1 (02-11) | 2026-11-13 | No |
 | https://foreverdb.net/class/Mage/talents | Datos de cliente | sin fecha | 2026-11-13 | No |
+| https://foreverdb.net/guide/leveling-mage, https://foreverdb.net/class/Mage | Guía y simulador ForeverDB | 2026-11-05 / 2026-11-13 | 2026-11-15 | No |
 
 [Data from ForeverDB.net](https://foreverdb.net)
 
 ## Preguntas pendientes
 - BiS, encantamientos y consumibles: pendientes de Method.
 - ¿Cuánto maná cuesta la cuarta carga de Arcane Blast? No hay cifra base en las fuentes leídas.
+
+## Datos de ForeverDB (leveling y simulador)
+Añadido el 2026-11-15 de [[src-foreverdb-guide-leveling-mage]] y [[src-foreverdb-class-mage]]. `confirmed_forever` (talentos del cliente; simulador propio)
+- Build leveling 20 "Arcane Blast leveling": Improved Channeling 5, Arcane Concentration 5, Arcane Blast 1. A 30: + Arcane Impact 3, Arcane Geometry 2, Missile Barrage 1, Arcane Meditation 3, Presence of Mind 1.
+- Arcane Blast R1: 30–34 de daño, 15 % del maná base, 1,5 s; cada carga da 12 % de la Int como daño de hechizos y +100 % de coste (4 cargas, 18 s). Otros hechizos ya no gastan las cargas. Con poco maná, parar en 1–2 cargas.
+- Arcane Meditation llega al 50 % de regeneración lanzando (Classic 15 %).
+- Simulador: a 20–29 ≈ Arcane Missiles 63 % y Arcane Blast 37 %; Evocation bajo 15 %; Arcane Blast bajo 25 % de maná; Presence of Mind justo antes de Arcane Blast.

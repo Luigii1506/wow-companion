@@ -297,6 +297,18 @@ Formato breve: afirmación A frente a B, y nota afectada. Resolver en el juego o
 - **C113** — Entrenadores: en el addon Norzsh no es entrenador de Mining y Kaylaena Springwhisper no aparece. Añade a Strange Hermit (Zephras Isle) como entrenador de Engineering visto en Forever. [[Mining]], [[Engineering]]
 - **C64 (actualización)** — El addon da a elegir en *Hidden Enemies* entre Kris, Hammer, Axe y Staff of Orgrimmar: las dos fuentes tenían razón en parte. Resuelto.
 
+## Conflictos de la tanda 6 (2026-11-15, Troll Frost Mage)
+- **C114** — Talentos Frost 10–30: ForeverDB pone Improved Frost Nova y Ice Lance a 20; Method pone Precision antes y Ice Lance a 21, cambia a Arcane a 43 (ForeverDB sigue Frost puro) y su orden a 29 rompe las reglas de filas del cliente. [[Mage-Leveling]], [[Frost-Mage]], [[Playbook-Mage-1-20]], [[Playbook-Mage-20-30]]
+- **C115** — Cold Snap: Method lo pone a 34; en el cliente es talento disponible desde 30 y ForeverDB lo toma a 40. [[Mage-Leveling]]
+- **C116** — Penalización por rango bajo: la página de downrank de ForeverDB dice que el cliente no la tiene; su guía de leveling cita notas de Blizzard del 1-oct que dicen que sí existe en el servidor. Cómo resolver: en el juego. [[Mage-Leveling]]
+- **C117** — Fire Blast en la rotación Frost: el simulador de ForeverDB da más daño sin él a 20–39; su guía de clase lo usa. [[Frost-Mage]]
+- **C118** — Objeto de campamento de Tailoring: Intellect según Method ([[Tailoring]]); Faction Banner con Spirit según [[Camping]].
+- **C119** — Rangos de los entrenadores de Enchanting: Godan Journeyman y Hgarth Expert (Method) frente a Expert y Artisan en el addon. Los títulos de NPC pueden no coincidir con el rango que enseñan. [[Enchanting]]
+- **C120** — Comprehend Scroll: Method dice que se aprende del entrenador a 6; la lista de ForeverDB de nivel 6 no lo incluye. Sin confirmar. [[Mage-Comprehension]]
+- **C121** — Prioridad de estadísticas: Method pone Haste por encima de Intellect; los pesos de ForeverDB ponen hit y regeneración de maná por encima de spell power. [[Frost-Mage]]
+- **C122** — Sable Wand: la guía de leveling de ForeverDB la recomienda, pero su misión es solo de la Alliance (Stormwind) según el addon. No sirve para la Horde. [[Mage-Quest-Rewards-1-30]]
+- **Errores de datos de ForeverDB** (no son conflictos de mecánica): la guía de Valley of Trials da a Norzsh como vendedor de armas y a Nartok como entrenador de Blacksmithing; la guía de Troll Mage lista *Vile Familiars* como misión de clase (en el addon es general, 792).
+
 ## Estado de verificación
 - Estado: conflicting
 - Confianza: medium

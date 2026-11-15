@@ -4,10 +4,10 @@ tags: [forever, profession, enchanting, crafting]
 faction: both
 status: confirmed_forever
 confidence: medium
-last_verified: 2026-11-13
+last_verified: 2026-11-15
 game_version: "Forever 1.60.1"
-sources: [https://www.method.gg/wow-forever/enchanting-in-wow-forever-1-300-leveling-guide-and-trainers, https://www.method.gg/wow-forever/all-enchanting-recipes-and-best-enchants-in-wow-forever]
-related: ["[[Enchants]]", "[[Tailoring]]", "[[Blacksmithing]]", "[[Material-Demand]]", "[[Professions]]"]
+sources: [https://www.method.gg/wow-forever/enchanting-in-wow-forever-1-300-leveling-guide-and-trainers, https://www.method.gg/wow-forever/all-enchanting-recipes-and-best-enchants-in-wow-forever, https://foreverdb.net/professions/best/mage, https://foreverdb.net/guide/valley-of-trials, "Addon ForeverDB, datos 2026-11-13 (recetas, NPCs)"]
+related: ["[[Enchants]]", "[[Tailoring]]", "[[Blacksmithing]]", "[[Material-Demand]]", "[[Professions]]", "[[Mage]]", "[[Playbook-Mage-1-20]]"]
 ---
 
 # Enchanting
@@ -60,6 +60,8 @@ related: ["[[Enchants]]", "[[Tailoring]]", "[[Blacksmithing]]", "[[Material-Dema
 - Sin precios en la fuente.
 
 ## Qué dicen las guías
+- [[src-foreverdb-professions-best-mage]]: segunda profesión para Mage tras Tailoring (wands, Orb of Mystic Insight, Frozen Heart of the Mountain en sus listas; Enchanted Lute en el campamento).
+- Títulos de NPC en el addon distintos de la tabla de Method: Godan figura como *Expert* Enchanter y Jhag como *Journeyman*; Hgarth como *Artisan* Enchanter.
 - [[src-method-enchanting-in-wow-forever-1-300-leveling-guide-and-trainers]] (ruta y entrenadores) y [[src-method-all-enchanting-recipes-and-best-enchants-in-wow-forever]] (recetas). Discrepancia: Enchant Chest – Greater Intellect figura a skill 185 en la lista de recetas, pero la ruta lo usa en 201–205.
 - La guía incluye una macro /run para repetir crafteos: no se recomienda aquí sin verificar que esté permitida (regla de automatización).
 
@@ -68,6 +70,30 @@ related: ["[[Enchants]]", "[[Tailoring]]", "[[Blacksmithing]]", "[[Material-Dema
 |---|---|---|---|---|
 | https://www.method.gg/wow-forever/enchanting-in-wow-forever-1-300-leveling-guide-and-trainers | Guía Method | 2026-11-12 | 2026-11-13 | 200–300 sin probar (beta) |
 | https://www.method.gg/wow-forever/all-enchanting-recipes-and-best-enchants-in-wow-forever | Guía Method | 2026-11-05 | 2026-11-13 | No |
+| https://foreverdb.net/professions/best/mage | ForeverDB | 2026-11-13 | 2026-11-15 | No |
+| https://foreverdb.net/guide/valley-of-trials | Guía ForeverDB | 2026-11-14 | 2026-11-15 | No |
+| Addon ForeverDB (recetas, NPCs) | Datos de jugadores y cliente | 2026-11-13 | 2026-11-15 | No |
+
+[Data from ForeverDB.net](https://foreverdb.net)
 
 ## Preguntas pendientes
 - Costes de entrenamiento; ruta 200–300 verificada; origen de Enchantresses' Spire.
+
+## Para un Mage (Forever)
+Añadido el 2026-11-15 desde el addon de ForeverDB y [[src-foreverdb-professions-best-mage]]. `confirmed_forever` (recetas del addon)
+
+| Skill | Receta | Reactivos | Resultado (addon) | Aprendizaje |
+|---|---|---|---|---|
+| 1 | **Novice's Practice Wand** (nueva) | Simple Wood, Mote of Magic | Wand 4.0 dps | Automática |
+| 5 | Minor Wizard Oil | Strange Dust, Maple Seed, Empty Vial | Aceite de arma (caster) | Objeto |
+| 10 | **Lesser Magic Wand** | Simple Wood, Lesser Magic Essence | Wand SP +1, 11.3 dps | Entrenador, 50c |
+| 20 | Enchanted Lute (campamento, nueva) | Simple Wood, Strange Dust | 308 armadura, +13 stats, +22 resistencias (no se suma a Mark of the Wild) | Entrenador, 1s |
+| 70 | **Greater Magic Wand** | Simple Wood, 2 Lesser Magic Essence | Wand SP +2, 17.5 dps | Entrenador, 2s |
+| 140 | **Glimmering Staff** (nueva) | Large/Small Glimmering Shard, Star Wood… | Bastón Int +11, Sta +11, 24.5 dps | Objeto |
+| 140 | **Orb of Mystic Insight** (nueva) | 2 Small Glimmering Shard, 2 Greater Astral Essence, Strange Dust… | Mano izq. Int +6, SP +7 | Objeto |
+| 155 | Lesser Mystic Wand | Star Wood, Lesser Mystic Essence | Wand | Entrenador, 26s |
+
+- **Por qué le sirve a un Mage**: una wand hecha por ti antes de nivel 10, cuando las de misión llegan a 15 (Cinder Wand) y 18 (Flaring Baton). Las wands no suman daño de hechizos en Forever: solo cuenta su DPS (ver [[Playbook-Mage-1-20]]).
+- Entrenador más cercano a un Troll: **Pa'zula**, Journeyman Enchanter en Sen'jin Village (56.6, 73.7); da también la misión *A Pain in the Neck* (8). Orgrimmar: Jhag (53.6, 38.3) y Godan (53.7, 38.3).
+- Campamento: *Camping 101: Enchanting* (Brakk, Durotar 52.0, 47.2) → Jhag.
+- BiS de 60 (ForeverDB, Frost): Enchant Bracer – Greater Spellpower, Enchant Gloves – Frost Power, Enchant 2H Weapon – Spellblasting y Enchant Necklace – Spell Power (210); la mayoría con receta de Alynsia (Redridge 11.2, 71.7, vista en Forever). Ver [[Frost-Mage]].

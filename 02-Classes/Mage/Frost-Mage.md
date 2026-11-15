@@ -6,7 +6,7 @@ level_max: 60
 faction: both
 status: confirmed_forever
 confidence: medium
-last_verified: 2026-11-13
+last_verified: 2026-11-15
 game_version: "Forever 1.60.1"
 sources:
   - https://www.method.gg/wow-forever/class-guides/frost-mage
@@ -18,13 +18,19 @@ sources:
   - https://www.method.gg/wow-forever/class-guides/frost-mage/interface-addons-and-macros
   - https://www.method.gg/dfc/ForeverTalentsData-1.60.1-2nov.json
   - https://foreverdb.net/class/Mage/talents
-related: ["[[Mage]]", "[[Mage-Leveling]]", "[[Arcane-Mage]]", "[[Fire-Mage]]", "[[Mage-Comprehension]]"]
+  - https://foreverdb.net/class/Mage/builds
+  - https://foreverdb.net/class/Mage
+  - https://foreverdb.net/class/Mage/pve
+  - https://foreverdb.net/class/Mage/pvp
+  - https://foreverdb.net/bis/mage/frost
+  - https://foreverdb.net/buffs-and-nerfs/mage
+related: ["[[Mage]]", "[[Mage-Leveling]]", "[[Arcane-Mage]]", "[[Fire-Mage]]", "[[Mage-Comprehension]]", "[[Playbook-Mage-1-20]]", "[[Playbook-Mage-20-30]]"]
 ---
 
 # Frost Mage
 
 > [!success] Confirmado en Forever
-> Guía de endgame de Method (Celz, 2026-11-09, parche 1.60.1). Builds decodificadas del widget con los datos de talentos 1.60.1 de Method y nombres de ForeverDB. BiS, encantamientos y consumibles siguen "Work in Progress". Una sola fuente: confianza media.
+> Guía de endgame de Method (Celz, 2026-11-09, parche 1.60.1). Builds decodificadas del widget con los datos de talentos 1.60.1 de Method y nombres de ForeverDB. BiS, encantamientos y consumibles de Method siguen "Work in Progress"; desde 2026-11-15 se añaden las builds, el BiS, el simulador y la guía PvP de ForeverDB (datos de cliente y ranking propio).
 
 ## Resumen
 - Spec de **congelar o pescar procs de Fingers of Frost y gastar Ice Lance** (+300 % contra congelados, CD 8 s según Method). `confirmed_forever`
@@ -107,7 +113,10 @@ Orden del widget (empieza en el 10):
 - Frost Nova, Blizzard y Cone of Cold frenan a los enemigos mientras el Rogue pega, y Polymorph se suma a Sap como control. *Inferido de las herramientas que cita Method; no es una recomendación de la guía.*
 
 ## Qué dicen las guías
-- Method es la única fuente por spec: [[src-method-class-guides-frost-mage]], [[src-method-class-guides-frost-mage-talents]], [[src-method-class-guides-frost-mage-rotation-and-playstyle]], [[src-method-class-guides-frost-mage-bis-gear-and-stats]], [[src-method-class-guides-frost-mage-enchants-and-consumables]], [[src-method-class-guides-frost-mage-races-professions-and-other]], [[src-method-class-guides-frost-mage-interface-addons-and-macros]].
+- Method: [[src-method-class-guides-frost-mage]], [[src-method-class-guides-frost-mage-talents]], [[src-method-class-guides-frost-mage-rotation-and-playstyle]], [[src-method-class-guides-frost-mage-bis-gear-and-stats]], [[src-method-class-guides-frost-mage-enchants-and-consumables]], [[src-method-class-guides-frost-mage-races-professions-and-other]], [[src-method-class-guides-frost-mage-interface-addons-and-macros]].
+- ForeverDB: [[src-foreverdb-class-mage-builds]] (builds por nivel), [[src-foreverdb-bis-mage-frost]] (BiS 60), [[src-foreverdb-class-mage]] (simulador), [[src-foreverdb-class-mage-pve]], [[src-foreverdb-class-mage-pvp]], [[src-foreverdb-buffs-and-nerfs-mage]].
+- Discrepancia de builds de 60: Method mezcla Arcane (18/0/33) o Fire (14/5/32, 9/5/37); ForeverDB propone Frost casi puro (48 en Frost + 3 Incineration) para leveling a 60 y otra build de mazmorra con Arcane Concentration.
+- Discrepancia de stats: Method pone Haste por encima de Intellect; los pesos de BiS de ForeverDB ponen hit 1,1 y **mp5 1,1** por encima del spell power, y su simulador valora Spirit casi como el hit a 60.
 - Discrepancia con la guía de leveling de Method ([[src-method-wow-forever-mage-leveling-guide-and-talents]], en [[Mage]]): allí se recomiendan Human, Gnome, Orc y Troll; en endgame Orc y Human quedan en B y Skyborne sube a S. Son contextos distintos.
 
 ## Fuentes
@@ -117,9 +126,56 @@ Orden del widget (empieza en el 10):
 | https://www.method.gg/wow-forever/class-guides/frost-mage (+ 6 subpáginas) | Guía Method | 2026-11-09 | 2026-11-13 | No |
 | https://www.method.gg/dfc/ForeverTalentsData-1.60.1-2nov.json | Datos de la calculadora (Method) | 1.60.1 (02-11) | 2026-11-13 | No |
 | https://foreverdb.net/class/Mage/talents | Datos de cliente (nombres y efectos) | sin fecha | 2026-11-13 | No |
+| https://foreverdb.net/class/Mage/builds, /pve, /pvp, /class/Mage | ForeverDB (cliente y simulador) | 2026-11-13 | 2026-11-15 | No |
+| https://foreverdb.net/bis/mage/frost | BiS ForeverDB (orígenes de Classic salvo vendedores) | 2026-11-13 | 2026-11-15 | No |
+| https://foreverdb.net/buffs-and-nerfs/mage | Cambios por build | 2026-11-04 | 2026-11-15 | Incluye beta |
 
 [Data from ForeverDB.net](https://foreverdb.net)
 
 ## Preguntas pendientes
 - ¿Lleva la build Dungeon Arcane Concentration (texto) o no (widget)?
-- Pre-raid BiS, encantamientos y consumibles: pendientes de Method.
+- Pre-raid BiS, encantamientos y consumibles: pendientes de Method. ForeverDB ya publica un BiS de 60 (abajo) con orígenes casi todos de Classic.
+- Si el slow de Frostbolt cuenta como Chill para Frostbite y Fingers of Frost (ForeverDB lo deja abierto).
+
+## Builds de ForeverDB por nivel
+De [[src-foreverdb-class-mage-builds]]. Los niveles 40–60 no se jugaron en la beta. `confirmed_forever` (talentos del cliente)
+
+| Nivel | Leveling | Mazmorra | PvP |
+|---|---|---|---|
+| 20 | Imp. Frostbolt 5, Imp. Frost Nova 2, Frostbite 3, Ice Lance | Imp. Frostbolt 5, Precision 3, Ice Shards 2, Ice Lance | Imp. Frostbolt 3, Frost Warding 2, Imp. Frost Nova 2, Frostbite 3, Ice Lance |
+| 30 | + Frost Channeling 3, Imp. Blizzard 1, Shatter 3, Ice Block, Arctic Reach 1, Fingers of Frost 1 | (Frost Channeling para la amenaza) | + Ice Block, Shatter, Cold Snap |
+| 40 | + Ice Shards 5, Imp. Cone of Cold 2, Cold Snap, Fingers of Frost 2, Ice Barrier | con Ice Barrier | con Ice Barrier |
+| 50 | + Precision 3, Permafrost 3, Imp. Blizzard 3, Arctic Reach 2, Imp. Cone of Cold 3, Frost Warding 2 | — | con Winter's Chill |
+| 60 | 48 en Frost + Incineration 3 | con Arcane Concentration | — |
+
+## Simulador de ForeverDB (Frost)
+Patrones del simulador, no una rotación probada ([[src-foreverdb-class-mage]]):
+- Evocation bajo 15 % de maná; Ice Lance cuando salta Fingers of Frost (≈2 veces por minuto a 30–59); Frostbolt de relleno.
+- Reparto de daño: 20–29 ≈ Frostbolt 87 % y Fire Blast 13 %; 60 ≈ Frostbolt 66 %, Fire Blast 15 %, Ice Lance 10 %; la wand vale un 7,5 % del DPS a 60.
+- A 60 y a 40–49 hace más daño **sin** Fire Blast a un objetivo; a 20–39 también, aunque la guía de clase lo usa (lo marcan como especulación).
+- Pesos por punto a 60 (1 SP = 1): hit 1,63, Spirit 1,61, Intellect 1,31. Mejor consumible: Greater Arcane Elixir (+2,7 %), luego Elixir of Greater Intellect.
+
+## BiS de 60 según ForeverDB (PvE)
+De [[src-foreverdb-bis-mage-frost]]; ranking propio de ForeverDB, orígenes de Classic salvo vendedores vistos en Forever. `probable_classic`
+
+| Ranura | Objeto | Origen |
+|---|---|---|
+| Cabeza | Spellweaver's Turban | General Drakkisath, UBRS (25 %, Classic) |
+| Cuello | Charm of the Shifting Sands | *The Fall of Ossirian* (Classic) |
+| Hombros | Mantle of the Timbermaw | Tailoring 290 |
+| Espalda | Arcanoweave Cloak | Pix Xizzix, Stranglethorn (28.5, 75.8), visto en Forever |
+| Pecho / Cintura | Robe of the Archmage / Belt of the Archmage | Tailoring 295 |
+| Muñecas | Dryad's Wrist Bindings | Illiyana Moonblaze, Ashenvale (61.5, 83.8), 8g 75s 49c, visto en Forever |
+| Manos | General's Silk Gauntlets (Horde) | Origen desconocido |
+| Piernas / Pies | Bloodvine Leggings / Bloodvine Boots | Tailoring 300 |
+| Anillos | Ring of the Fallen God; Seal of the Damned | Misión AQ (Classic); Naxxramas (Classic) |
+| Abalorios | Weakness Analyzer; Warmth of Forgiveness | Pix Xizzix (visto en Forever); Naxxramas |
+| Arma | Atiesh (alternativa: Elemental Mage Staff) | Classic |
+| Wand | Wand of Biting Cold | *The Legend of Korrak* (Horde, Classic) |
+
+Encantamientos que propone: Enchant Bracer – Greater Spellpower, Enchant Gloves – Frost Power, Enchant 2H Weapon – Spellblasting, Enchant Necklace – Spell Power (Enchanting 210, nuevo en Forever); Mystic Rugged Armor Kit en pecho, piernas y pies.
+
+## PvP Frost (ForeverDB)
+- Frost Nova (hasta 8 s) → 2–3 Ice Lance antes de que se rompa → salir; Frostbolt entre congelaciones; Fire Blast en movimiento. Desde 30, Cold Snap da una segunda Frost Nova.
+- Frost Warding 2/2 sube un 30 % la armadura de Frost Armor (útil contra Rogue y Warrior).
+- En campos de batalla: defensor de banderas y puntos; Polymorph al sanador al empezar la pelea. Ver [[src-foreverdb-class-mage-pvp]].
