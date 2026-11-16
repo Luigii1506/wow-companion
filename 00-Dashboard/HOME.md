@@ -7,7 +7,7 @@ last_updated: 2026-11-15
 # WoW Companion — WoW Forever
 
 > [!abstract] Personajes
-> **Troll Mage (Frost) · Horde · nivel 10** (dicho por el usuario el 2026-11-15, en Razor Hill; sin export, sin talentos todavía) · Profesiones: plan **Tailoring + Enchanting** (olvidó Herbalism el 2026-11-15; Enchanting con Pa'zula en Sen'jin, Tailoring con Snang en Orgrimmar) → [[Playbook-Mage-1-20]] · [[Frost-Mage]]
+> **Troll Mage (Frost) · Horde · nivel 13** (dicho por el usuario el 2026-11-16; sin export) · Profesiones: **Tailoring + Enchanting** (aprendidas el 2026-11-15/16) · Wand: Greater Magic Wand (AH) → [[Playbook-Mage-1-20]] · [[Frost-Mage]]
 > **Orc Rogue · Horde · nivel 11** (dicho por el usuario el 2026-11-13; sin export que lo confirme)
 > Profesiones: **Mining + Skinning** (para oro); plan: cambiar después a **Mining + Engineering** · Alt: Undead Priest ~9
 > **Último export:** ninguno. Nada de esta bóveda describe todavía el estado real del personaje.
