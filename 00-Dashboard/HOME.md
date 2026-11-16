@@ -7,7 +7,7 @@ last_updated: 2026-11-15
 # WoW Companion — WoW Forever
 
 > [!abstract] Personajes
-> **Nuevo: Troll Mage (Frost) · Horde · nivel 1** (decidido el 2026-11-15) → [[Playbook-Mage-1-20]] · [[Frost-Mage]]
+> **Troll Mage (Frost) · Horde · nivel 10** (dicho por el usuario el 2026-11-15, en Razor Hill; sin export, sin talentos todavía) → [[Playbook-Mage-1-20]] · [[Frost-Mage]]
 > **Orc Rogue · Horde · nivel 11** (dicho por el usuario el 2026-11-13; sin export que lo confirme)
 > Profesiones: **Mining + Skinning** (para oro); plan: cambiar después a **Mining + Engineering** · Alt: Undead Priest ~9
 > **Último export:** ninguno. Nada de esta bóveda describe todavía el estado real del personaje.
