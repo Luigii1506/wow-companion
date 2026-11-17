@@ -124,4 +124,14 @@ Añadido el 2026-11-15 desde el addon de ForeverDB y [[src-foreverdb-professions
 - **Por qué le sirve a un Mage**: una wand hecha por ti antes de nivel 10, cuando las de misión llegan a 15 (Cinder Wand) y 18 (Flaring Baton). Las wands no suman daño de hechizos en Forever: solo cuenta su DPS (ver [[Playbook-Mage-1-20]]).
 - Entrenador más cercano a un Troll: **Pa'zula**, Journeyman Enchanter en Sen'jin Village (56.6, 73.7); da también la misión *A Pain in the Neck* (8). Orgrimmar: Jhag (53.6, 38.3) y Godan (53.7, 38.3).
 - Campamento: *Camping 101: Enchanting* (Brakk, Durotar 52.0, 47.2) → Jhag.
+- **Encantamientos de Int para subir de nivel** (valores del cliente de Forever en azeroth.wiki y precios de la API de ForeverDB, consultados el 2026-11-17). `confirmed_forever`
+
+| Skill | Encantamiento | Efecto en Forever | Reactivos | Fórmula |
+|---|---|---|---|---|
+| 20 | Chest – Minor Intellect | Int +2 | 1 Lesser Magic Essence | Kithas (Orgrimmar 53.7, 38.0), 3 s |
+| 70 | Bracer – Minor Intellect (nueva) | Int +3 | 1 Lesser Magic Essence | Botín de Vile Fin Tidehunter (addon) |
+| 80 | Chest – Lesser Intellect | Int +3 | 2 Lesser Magic Essence | Kithas, 4 s, existencias limitadas (dato de Classic; ForeverDB no lo ha visto en Forever) |
+| 100 | **2H Weapon – Lesser Intellect** | **Int +5** (en Classic, +3) | 4 Lesser Magic Essence | Kithas, 5 s |
+
+- **Glimmering Staff y Orb of Mystic Insight**: cada fórmula cuesta **45 Merchant's Favor** en **Beneris** (Crossroads, The Barrens 49.7, 29.7, Horde). Requieren nivel 25. `confirmed_forever` (API de ForeverDB, 2026-11-15)
 - BiS de 60 (ForeverDB, Frost): Enchant Bracer – Greater Spellpower, Enchant Gloves – Frost Power, Enchant 2H Weapon – Spellblasting y Enchant Necklace – Spell Power (210); la mayoría con receta de Alynsia (Redridge 11.2, 71.7, vista en Forever). Ver [[Frost-Mage]].
