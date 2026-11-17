@@ -27,7 +27,7 @@ related: ["[[Performance-and-Settings]]", "[[Legacy]]", "[[Addons]]"]
 ## Teclas
 | Tecla | Abre | Estado |
 |---|---|---|
-| K | Professions and Tradeskills (nuevo) | unknown (beta) |
+| K | Professions and Tradeskills (nuevo) | confirmed_forever (lo comprobó el usuario en el juego el 2026-11-17) |
 | Y | Legacy Talents (nuevo) | unknown (beta) |
 | C, B, P, L, M, N, U, H, I, O, J | personaje, bolsas, hechizos, misiones, mapa, talentos, reputación, honor, LFG, amigos, hermandad | unknown |
 | V / Shift+V | placas enemigas / amigas | unknown |
