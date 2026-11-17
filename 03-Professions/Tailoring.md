@@ -94,18 +94,18 @@ Un Troll llega a Orgrimmar hacia el nivel 12: guarda la Linen de Durotar hasta e
 Añadido el 2026-11-15 desde el addon de ForeverDB y [[src-foreverdb-professions-best-mage]]. `confirmed_forever` (recetas del cliente y del addon)
 
 - **Líneas nuevas por escuela**: Forever añade piezas Pristine, **Silky**, Flame, Shadow, Pearly y Shining (botas, guantes, faja, túnica, perneras, diadema) y versiones Filigreed. ForeverDB pone **Silky** en la lista de Frost, Flame en la de Fire y Pearly en la de Arcane. Los patrones normales los vende **Jim'bek** (Crossroads, Barrens 49.6, 29.5; precio 0c en el addon, moneda desconocida); también vende patrones Frothing, Golden, Fiery y Nether-.
-- Silky (stat87* = probablemente daño de Frost, inferido):
+- Silky: **stat87 = Frost Damage** (azeroth.wiki, datos del cliente, 2026-11-17). Las demás escuelas: stat84 Holy (Shining, reactivo Pyrite), stat85 Fire (Flame), stat88 Shadow, stat89 Arcane (Pearly); Pristine da curación. Todos los patrones Silky de Jim'bek cuestan **30 Merchant's Favor** (API de ForeverDB, 2026-11-15). `confirmed_forever`
 
 | Skill | Pieza | Req | Stats (addon) | Patrón |
 |---|---|---|---|---|
 | 50 | Novice Arcanist's Sash | 10 | SP +4, Int +3, Sta +3 | Patrón propio (5s de entrenamiento) |
-| 60 | Silky Boots | 12 | Int +3, Sta +4, stat87* +6 | Jim'bek |
-| 75 | Silky Gloves | 15 | Int +3, Sta +4, stat87* +7 | Jim'bek |
-| 75 | Filigreed Silky Gown | 15 | Int +5, Sta +4, Spi +3, stat87* +9 | Drop: Rhahk'Zor (Deadmines) o Kresh (WC) |
-| 85 | Silky Sash | 17 | Int +4, Sta +5, stat87* +7 | Jim'bek |
-| 100 | Silky Circlet / Filigreed Silky Leggings | 20 | Sta +10, stat87* +11 / Int +6, Sta +5, Spi +4, stat87* +11 | Jim'bek / desconocido |
-| 110 | Silky Gown | 22 | Int +7, Sta +6, Spi +4, stat87* +13 | Jim'bek |
-| 125 | Silky Leggings / Filigreed Silky Circlet | 25 | Int +7, Sta +7, Spi +5, stat87* +14 / Sta +12, stat87* +14 | Jim'bek / drop de Aku'mai (BFD) |
+| 60 | Silky Boots | 12 | Int +3, Sta +4, Frost +6 | Jim'bek |
+| 75 | Silky Gloves | 15 | Int +3, Sta +4, Frost +7 | Jim'bek |
+| 75 | Filigreed Silky Gown | 15 | Int +5, Sta +4, Spi +3, Frost +9 | Drop: Rhahk'Zor (Deadmines) o Kresh (WC) |
+| 85 | Silky Sash | 17 | Int +4, Sta +5, Frost +7 | Jim'bek |
+| 100 | Silky Circlet / Filigreed Silky Leggings | 20 | Sta +10, Frost +11 / Int +6, Sta +5, Spi +4, Frost +11 | Jim'bek / fuente desconocida |
+| 110 | Silky Gown | 22 | Int +7, Sta +6, Spi +4, Frost +13 | Jim'bek |
+| 125 | Silky Leggings / Filigreed Silky Circlet | 25 | Int +7, Sta +7, Spi +5, Frost +14 / Sta +12, Frost +14 | Jim'bek / drop de Aku'mai (BFD) |
 
 - Clásicas útiles: Spidersilk Boots (skill 125, req 20: SP +7, Int +4, Sta +4), en todas las listas de Mage de 20 de ForeverDB. A 60: Robe y Belt of the Archmage (295), Bloodvine Leggings y Boots (300), Mantle of the Timbermaw (290).
 - **Bolsas de componentes** nuevas (Linen Reagent Bag skill 5, Woolen Reagent Bag 70) para la ranura extra de Forever.

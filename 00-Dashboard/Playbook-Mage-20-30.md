@@ -109,11 +109,11 @@ Uso práctico (inferido): Teleport: Undercity a 20 acorta las idas a Silverpine/
 
 ## Profesiones 20–30
 - **Expert** (150–225) a nivel 20: Magar (Expert Tailor, Orgrimmar 63.4, 50.0); Godan (Expert Enchanter según el addon, Orgrimmar 53.7, 38.3). `confirmed_forever` (NPCs)
-- Tailoring Silky (patrones de Jim'bek, Crossroads 49.6, 29.5): **Silky Gown** (skill 110, req 22: Int +7, Sta +6, Spi +4, stat87 +13*), **Silky Leggings** (125, req 25), **Filigreed Silky Circlet** (125, req 25, patrón de Aku'mai en BFD). `confirmed_forever`
+- Tailoring Silky (patrones de Jim'bek, Crossroads 49.6, 29.5): **Silky Gown** (skill 110, req 22: Int +7, Sta +6, Spi +4, Frost +13*), **Silky Leggings** (125, req 25), **Filigreed Silky Circlet** (125, req 25, patrón de Aku'mai en BFD). `confirmed_forever`
 - ForeverDB cita Spidersilk Boots (req 20: SP +7, Int +4, Sta +4) en todas las listas de Mage a 20 y Frothing Slippers, Azure Silk Gloves y Azure Silk Cloak a 30.
 - Enchanting a skill 140: **Glimmering Staff** (Int +11, Sta +11, 24.5 dps) y **Orb of Mystic Insight** (mano izq., Int +6, SP +7), ambas nuevas en Forever (receta por objeto). `confirmed_forever` (recetas)
 
-\* stat87: identificador sin nombre en el addon; probablemente daño de Frost (inferido).
+\* Frost = daño de Frost (stat87; confirmado con datos del cliente en azeroth.wiki el 2026-11-17).
 
 ## Esbozo 30–60
 | Tramo | Talentos (ForeverDB) | Hechizos | Zonas y misiones de clase | Estado |

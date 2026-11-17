@@ -176,11 +176,11 @@ Todas las misiones vienen del addon de ForeverDB (vistas en Forever) salvo las c
 | Herbalism + Mining/Skinning | Oro desde la primera hierba o veta; se cambia una por un oficio más tarde | Pierdes la wand casera y el equipo Silky; cambiar de profesión borra su skill | Si te falta oro (montura a 40). Ver [[Profession-Switch-Plan]] |
 
 - Entrenadores cercanos: **Pa'zula** (Enchanting, Sen'jin 56.6, 73.7), Jhag (Journeyman Enchanter, Orgrimmar 53.6, 38.3), Snang (Journeyman Tailor, Orgrimmar 63.0, 49.7). Kil'hala (Journeyman Tailor) en Crossroads. `confirmed_forever`
-- Nivel 10 de Tailoring: **Novice Arcanist's Sash** (skill 50, SP +4, Int +3, Sta +3, receta nueva que se aprende de un patrón), y desde skill 60 **Silky Boots** (Int +3, Sta +4, stat87 +6*). Patrón de **Filigreed Silky Gown** (skill 75, req 15): drop de Rhahk'Zor (Deadmines) o Kresh (WC). `confirmed_forever` (recetas del addon)
+- Nivel 10 de Tailoring: **Novice Arcanist's Sash** (skill 50, SP +4, Int +3, Sta +3, receta nueva que se aprende de un patrón), y desde skill 60 **Silky Boots** (Int +3, Sta +4, Frost +6*). Patrón de **Filigreed Silky Gown** (skill 75, req 15): drop de Rhahk'Zor (Deadmines) o Kresh (WC). `confirmed_forever` (recetas del addon)
 - Guarda **10 Linen Cloth** para la misión de clase de 15 antes de convertir la tela en rollos.
 - Camping: Enchanting a skill 20 coloca el **Enchanted Lute** (308 armadura, +13 stats, +22 resistencias). `confirmed_forever`
 
-\* stat87: identificador que el addon no nombra; ForeverDB pone la línea Silky en la lista de Frost, así que probablemente es daño de Frost (inferido).
+\* Frost = daño de Frost (stat87; confirmado con datos del cliente en azeroth.wiki el 2026-11-17).
 
 ## Qué comprar
 - **Wand**: si no eres encantador, la subasta (Lesser/Greater Magic Wand) o espera a Cinder Wand (15) y Flaring Baton (18). Nivel requerido de las wands de Enchanting: **Novice's Practice Wand 1, Lesser Magic Wand 5, Greater Magic Wand 13** (API de ForeverDB, 2026-11-15, `confirmed_forever`).

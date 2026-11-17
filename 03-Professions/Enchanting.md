@@ -50,7 +50,7 @@ related: ["[[Enchanting-Services]]", "[[Gold-Making-Mage]]", "[[Enchants]]", "[[
 | 275–285 | Wizard Oil (10) | 30 Illusion Dust, 20 Firebloom, 10 Crystal Vial | unknown |
 | 285–300 | Enchant Cloak – Superior Defense (15) | 120 Illusion Dust | unknown |
 
-### Ruta barata 1–80 con los colores de Forever (addon, cliente 2026-11-13)
+### Ruta barata 1–100 con los colores de Forever (addon, cliente 2026-11-13)
 *Ruta inferida de los colores del cliente; ninguna guía la da así.* `confirmed_forever` (recetas y colores)
 
 | Skill | Receta | Reactivo | Naranja hasta | Entrenador |
@@ -58,6 +58,7 @@ related: ["[[Enchanting-Services]]", "[[Gold-Making-Mage]]", "[[Enchants]]", "[[
 | 1–20 | Enchant Bracer – Inferior Stamina | 1 Mote of Magic (10 c, Kithas) | 20 | viene al aprender |
 | 15–70 | Enchant Chest – Inferior Stamina | 1 Strange Dust | 70 | 50 c |
 | 1–80 | Enchant Bracer – Minor Deflect | 1 Lesser Magic Essence | 80 | 1 s |
+| 50–100 | Enchant Bracer – Minor Stamina | 2 Strange Dust | 100 | 2,5 s |
 
 Además, desencantar sube skill. Enchanted Lute (campamento) a skill 20: Simple Wood + Strange Dust. Se puede encantar cualquier brazal o pechera que lleves en la mochila (mecánica de Classic, `probable_classic`).
 
@@ -134,4 +135,5 @@ Añadido el 2026-11-15 desde el addon de ForeverDB y [[src-foreverdb-professions
 | 100 | **2H Weapon – Lesser Intellect** | **Int +5** (en Classic, +3) | 4 Lesser Magic Essence | Kithas, 5 s |
 
 - **Glimmering Staff y Orb of Mystic Insight**: cada fórmula cuesta **45 Merchant's Favor** en **Beneris** (Crossroads, The Barrens 49.7, 29.7, Horde). Requieren nivel 25. `confirmed_forever` (API de ForeverDB, 2026-11-15)
+  - Reactivos de Glimmering Staff: 4 Large Glimmering Shard, 2 Small Glimmering Shard, 4 **Star Wood** (Kithas, 45 s cada uno), 1 Greater Astral Essence, 5 Strange Dust y 3 **Pyrite** (nuevo en Forever, verde, objeto de nivel 25; el addon lo da como botín de un objeto del mundo y no sabemos de cuál. También lo usa la línea Shining de Tailoring). `confirmed_forever` (recetas y precio), `unknown` (origen de Pyrite)
 - BiS de 60 (ForeverDB, Frost): Enchant Bracer – Greater Spellpower, Enchant Gloves – Frost Power, Enchant 2H Weapon – Spellblasting y Enchant Necklace – Spell Power (210); la mayoría con receta de Alynsia (Redridge 11.2, 71.7, vista en Forever). Ver [[Frost-Mage]].
