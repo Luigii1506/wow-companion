@@ -7,7 +7,7 @@ last_updated: 2026-11-15
 # WoW Companion — WoW Forever
 
 > [!abstract] Personajes
-> **Troll Mage (Frost) · Horde · nivel 19** (dicho por el usuario el 2026-11-17; sin export) · Profesiones: **Tailoring 68 + Enchanting 102** (2026-11-17) · Wand: Greater Magic Wand (AH) · Bastón: Twisted Chanter's Staff (azul, Int +10, req. 19) → [[Playbook-Mage-1-20]] · [[Frost-Mage]]
+> **Troll Mage (Frost) · Horde · nivel 20** (dicho por el usuario el 2026-11-17; sin export) · Profesiones: **Tailoring 68 + Enchanting 102** (2026-11-17) · Wand: Greater Magic Wand (AH) · Bastón: Twisted Chanter's Staff (azul, Int +10, req. 19) → [[Playbook-Mage-1-20]] · [[Frost-Mage]]
 > **Orc Rogue · Horde · nivel 11** (dicho por el usuario el 2026-11-13; sin export que lo confirme)
 > Profesiones: **Mining + Skinning** (para oro); plan: cambiar después a **Mining + Engineering** · Alt: Undead Priest ~9
 > **Último export:** ninguno. Nada de esta bóveda describe todavía el estado real del personaje.
