@@ -50,6 +50,17 @@ related: ["[[Enchanting-Services]]", "[[Gold-Making-Mage]]", "[[Enchants]]", "[[
 | 275–285 | Wizard Oil (10) | 30 Illusion Dust, 20 Firebloom, 10 Crystal Vial | unknown |
 | 285–300 | Enchant Cloak – Superior Defense (15) | 120 Illusion Dust | unknown |
 
+### Ruta barata 1–80 con los colores de Forever (addon, cliente 2026-11-13)
+*Ruta inferida de los colores del cliente; ninguna guía la da así.* `confirmed_forever` (recetas y colores)
+
+| Skill | Receta | Reactivo | Naranja hasta | Entrenador |
+|---|---|---|---|---|
+| 1–20 | Enchant Bracer – Inferior Stamina | 1 Mote of Magic (10 c, Kithas) | 20 | viene al aprender |
+| 15–70 | Enchant Chest – Inferior Stamina | 1 Strange Dust | 70 | 50 c |
+| 1–80 | Enchant Bracer – Minor Deflect | 1 Lesser Magic Essence | 80 | 1 s |
+
+Además, desencantar sube skill. Enchanted Lute (campamento) a skill 20: Simple Wood + Strange Dust. Se puede encantar cualquier brazal o pechera que lleves en la mochila (mecánica de Classic, `probable_classic`).
+
 ## Cambios en Forever
 - Wands, mejoras de campamento y recetas nuevas como motivo para la profesión. `confirmed_forever` (Method)
 - Enchants de collar (skill 210, vendedor/reputación). `confirmed_forever` (Method; la página de recetas no los marca explícitamente como nuevos, la de consumibles sí)
