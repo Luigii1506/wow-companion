@@ -110,7 +110,7 @@ Un punto por nivel desde 10; cada fila pide 5 puntos más en las de arriba. Ice 
 | 4–9 | **Frostbolt** de apertura y relleno (llega lento: 2–3 lanzamientos antes de que te toque). Fire Blast (6) para rematar o si te alcanzan. Polymorph (8) al segundo mob | confirmed_forever |
 | 10–19 | Frostbolt → Frostbolt → **Frost Nova** cuando llegue → caminar hasta 25–30 yd → Frostbolt. Si Frost Nova está en CD: Fire Blast o wand para acabar, o correr hacia atrás por donde viniste | confirmed_forever |
 | 14+ | Arcane Explosion solo contra varios mobs débiles congelados por Frost Nova; nunca al lado de una oveja | confirmed_forever |
-| 20 | Frostbolt → Frost Nova → **2–3 Ice Lance** (instantáneo, +300 % contra congelados, CD 8 s) → salir. Blizzard solo en grupos de verdad | confirmed_forever |
+| 20 | Frostbolt → Frost Nova → **Ice Lance** (R1 27–33, instantáneo, +300 % contra congelados ≈ 108–132; CD 8 s según Method, sin CD propio según el cliente: ver C130 en [[Conflicts]]) → salir. Blizzard solo en grupos de verdad | confirmed_forever |
 
 - Berserking (Troll): +10 % de velocidad de lanzamiento 15 s. Úsalo al empezar una pelea difícil o un pull de varios. `confirmed_forever`
 - Simulador de ForeverDB a 20–29: hace un poco más de daño **sin** Fire Blast en un objetivo; la guía de clase sí lo usa. Para leveling, Fire Blast vale como remate en movimiento. `conflicting` (simulador frente a guía)

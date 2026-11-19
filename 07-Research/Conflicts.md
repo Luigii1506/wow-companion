@@ -317,6 +317,7 @@ Formato breve: afirmación A frente a B, y nota afectada. Resolver en el juego o
 - **C127** — "Ninguna fuente tiene precios": [[Auction-House]] y [[Gold-Making]] lo dicen, pero las páginas de objeto de ForeverDB traen escaneos de subasta con fecha (de otros rulesets). Hay que matizar esas notas.
 - **C128** — Rutas para subir Enchanting y Tailoring: ForeverDB (unos 318 Strange Dust para la Horde) frente a Method. [[Enchanting]], [[Tailoring]]
 - **C129** — Desencantar blancos: la FAQ de Strange Dust de ForeverDB dice que se puede; Warcraft Tavern dice que solo verde o mejor. Cómo resolver: en el juego. [[Enchanting]]
+- **C130** — Cooldown de Ice Lance: Method dice 8 s; los datos del cliente (azeroth.wiki, 2026-11-18) no le dan cooldown propio, solo el global de 1,5 s. R1 (nivel 20): 27–33 de daño, 45 de maná, instantáneo, ×4 contra congelados. Cómo resolver: en el juego (¿se queda gris el botón tras lanzarlo?). [[Frost-Mage]], [[Playbook-Mage-20-30]]
 
 ## Estado de verificación
 - Estado: conflicting
