@@ -114,7 +114,7 @@ Añadido el 2026-11-15 desde el addon de ForeverDB y [[src-foreverdb-professions
 | Skill | Receta | Reactivos | Resultado (addon) | Aprendizaje |
 |---|---|---|---|---|
 | 1 | **Novice's Practice Wand** (nueva) | Simple Wood, Mote of Magic | Wand 4.0 dps | Automática |
-| 5 | Minor Wizard Oil | Strange Dust, Maple Seed, Empty Vial | Aceite de arma (caster) | Objeto |
+| 5 | **Minor Wizard Oil** | Strange Dust, Maple Seed (2 s, vendedores de reagentes: Horthus/Hagrus/Magenius en Orgrimmar, Hula'mahi en Crossroads 51.4, 30.2, Jeeda en Sun Rock 47.6, 61.6), Empty Vial (20 c, vendedores de comercio: Zeal'aya Orgrimmar 55.0, 39.7, Tari'qa Crossroads, Kulwia Sun Rock) | **+8 de daño y curación de hechizos, 30 min** sobre el arma (azeroth.wiki) | Formula de Kithas (Orgrimmar 53.7, 38.0), 5 s; ~3 s 20 c por aceite |
 | 10 | **Lesser Magic Wand** | Simple Wood, Lesser Magic Essence | Wand SP +1, 11.3 dps | Entrenador, 50c |
 | 20 | Enchanted Lute (campamento, nueva) | Simple Wood, Strange Dust | 308 armadura, +13 stats, +22 resistencias (no se suma a Mark of the Wild) | Entrenador, 1s |
 | 70 | **Greater Magic Wand** | Simple Wood, 2 Lesser Magic Essence | Wand SP +2, 17.5 dps | Entrenador, 2s |
