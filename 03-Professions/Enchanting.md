@@ -136,4 +136,16 @@ Añadido el 2026-11-15 desde el addon de ForeverDB y [[src-foreverdb-professions
 
 - **Glimmering Staff y Orb of Mystic Insight**: cada fórmula cuesta **45 Merchant's Favor** en **Beneris** (Crossroads, The Barrens 49.7, 29.7, Horde). Requieren nivel 25. `confirmed_forever` (API de ForeverDB, 2026-11-15)
   - Reactivos de Glimmering Staff: 4 Large Glimmering Shard, 2 Small Glimmering Shard, 4 **Star Wood** (Kithas, 45 s cada uno), 1 Greater Astral Essence, 5 Strange Dust y 3 **Pyrite** (nuevo en Forever, verde, objeto de nivel 25; el addon lo da como botín de un objeto del mundo y no sabemos de cuál. También lo usa la línea Shining de Tailoring). `confirmed_forever` (recetas y precio), `unknown` (origen de Pyrite)
+- **Plan de encantamientos por hueco para un Frost Mage** (efectos y skill: cliente en azeroth.wiki, 2026-11-19; fórmulas y Merchant's Favor: API de ForeverDB, 2026-11-15). `confirmed_forever` (datos) / prioridad inferida
+
+| Hueco | Ahora | Siguiente | Final (60) |
+|---|---|---|---|
+| Arma 2H (bastón) | 2H Lesser Intellect +5 Int (100) | **Weapon – Revelation** (140, nuevo: tras un no-crítico, a veces +100 % de crítico al siguiente hechizo; 45 MF en Beneris; 8 Soul Dust, 6 Large Glimmering Shard, 2 Greater Astral Essence, 4 Cerulean Dye, 4 Sulfuric Acid) · **Winter's Might** (190, **+15 Frost** en Forever; fórmula del regalo de Winter Veil) | 2H Spellblasting +65 SP (300, 240 MF) o Mighty Spell Power +55 (240 MF) · Weapon – Spell Power +30 |
+| Pecho | Minor Intellect +2 (20) · Lesser Intellect +3 (80) | Chest – Intellect +4 (145) · Minor Stats +2 a todo (150) · Greater Intellect +6 (185) | Major Intellect +10 (290) · Greater Stats +4 (300) |
+| Muñecas | Minor Intellect +3 (70, fórmula de Vile Fin Tidehunter) | **Lesser Intellect +5 (150)** · Intellect +5 (210) · Greater Intellect +7 (255) | **Greater Spellpower +16 SP** (300, 240 MF) |
+| Collar (nuevo en Forever) | — | **Necklace – Spell Power +6** (210, 120 MF en Beneris) | — |
+| Pies | Minor Stamina +3 (125) | Lesser Spirit +4 (190) · **Minor Speed** (225) | Boots – Speed (280, 180 MF) |
+| Manos | — | — | **Gloves – Frost Power +20** (300, botín de The Prophet Skeram, AQ40) |
+| Capa | Sin Int ni SP; Lesser Protection o resistencias | — | — |
+
 - BiS de 60 (ForeverDB, Frost): Enchant Bracer – Greater Spellpower, Enchant Gloves – Frost Power, Enchant 2H Weapon – Spellblasting y Enchant Necklace – Spell Power (210); la mayoría con receta de Alynsia (Redridge 11.2, 71.7, vista en Forever). Ver [[Frost-Mage]].
