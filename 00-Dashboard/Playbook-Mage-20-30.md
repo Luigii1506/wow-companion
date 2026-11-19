@@ -86,7 +86,7 @@ Con Ice Lance a 20 llevas 11 puntos. La fila 4 pide 15 puntos (nivel 24 como pro
 | 20–24 | **Wailing Caverns** | *Deviate Eradication*, *Leaders of the Fang* (Nara Wildmane, Thunder Bluff) | **Sizzle Stick** (wand SP +2); **Crescent Staff** (azul, Int/Agi/Sta +7, 20.3 dps) | confirmed_forever |
 | 20–22 | Stonetalon (Sun Rock Retreat) | *Earthen Arise* (20), *Arachnophobia* (21, cartel de Besseleth) | Owlbeard Bracers (Int +2, Sta +1, SP +1); **Clear Crystal Rod** (bastón Int +5, Sta +4) | confirmed_forever |
 | 21–25 | Silverpine (zepelín a Undercity) y **Shadowfang Keep** | *Beren's Peril* (21), **Assault on Fenris Isle** (24), *Deathstalkers in Shadowfang* (25, SFK), *The Book of Ur* (26, SFK) | Wand of Decay (Int +2); **High Robe of the Adjudicator** (Int +2, **SP +8**); Ghostly Mantle (Spi +6, healing/SpellDmg); Tattered Mittens | confirmed_forever |
-| 23–27 | Ashenvale (Splintertree, Zoram'gar) y **Blackfathom Deeps** | *Torek's Assault* (24), **Warsong Supplies** (27), *Je'neu of the Earthen Ring* (27), *Allegiance to the Old Gods* (26, BFD), *Blackfathom Villainy* (27, BFD), *Baron Aquanis* (30, BFD) | Polished Walking Staff (Int +7, Sta +3); **Warsong Sash** (azul, **SP +11**, Sta +4); Soft Willow Cape (Int +5); Chestnut Mantle (SP +5); **Gravestone Scepter** (wand azul); **Witch's Finger** (mano izq. azul, Int +8, Sta +4) | confirmed_forever |
+| 23–27 | Ashenvale (Splintertree, Zoram'gar) y **Blackfathom Deeps** | *Torek's Assault* (24), **Warsong Supplies** (27), *Je'neu of the Earthen Ring* (27), *Allegiance to the Old Gods* (26, BFD), *Blackfathom Villainy* (27, BFD), *Baron Aquanis* (30, BFD) | Polished Walking Staff (**SP +16**, Int +7, Sta +3); **Warsong Sash** (azul, **SP +11**, Sta +4); Soft Willow Cape (Int +5); Chestnut Mantle (SP +5); **Gravestone Scepter** (wand azul); **Witch's Finger** (mano izq. azul, Int +8, Sta +4) | confirmed_forever |
 | 24–28 | Hillsbrad (Tarren Mill) | *Elixir of Pain* (24), *Souvenirs of Death* (25), *Dangerous!* (28), *Humbert's Sword* (30) | Firewalker Boots (SP +2, Spi +5); Skull Ring (Sta/Int +3); **Charred Wand** (Int +2, SP +2, 22.2 dps); Ethereal Mantle (Int/Spi +5) | confirmed_forever |
 | 25–29 | Barrens sur y Stonetalon (segunda visita) | *In Nightmares* (25), *New Life* (25), *Bloodfury Bloodline* (26), *Revenge of Gann* (26), *Isha Awak* (27), *Horde Presence* (29), *The Den* (29) | Talbar Mantle (Int +4, mp5 +1); Harpy Bangles (Int +4); Totemic Clan Ring (Int/Spi +3); **Branding Rod** (wand SP +2, Int +2, 21.6 dps); **Jutebraid Gloves** (SP +6, Int +5); Sacred Band (SP +2, Spi +4) | confirmed_forever |
 | 26 | Orgrimmar → Crossroads | Cadena de clase: Anastasia Hartwell (Undercity) → *Speak with Deino* (Orgrimmar 38.4, 86.1) → *Waters of Xavian* → *Laughing Sisters* (12 Laughing Sister's Hairs) → *Nether-lace Garment* (Kil'hala, Crossroads 52.2, 31.7) | Nether-lace Robe (Int/Sta/Spi +6) o **Nether-lace Tunic** (Sta +6, Int +9) | probable_classic (nadie la ha registrado aún; XP del addon) |
@@ -106,6 +106,28 @@ Zonas: [[Quests-The-Barrens]], [[Quests-Stonetalon-Mountains]], [[Quests-Silverp
 Quién los enseña: en Classic el Portal Trainer (Thuul, Orgrimmar 38.7, 85.6); ForeverDB solo dice "trainer". Reagente (Rune of Teleportation en Classic): desconocido en Forever. `probable_classic`
 
 Uso práctico (inferido): Teleport: Undercity a 20 acorta las idas a Silverpine/SFK y Hillsbrad; Teleport: Orgrimmar sustituye a la piedra de hogar, que puedes dejar en la posada de la zona donde estés.
+
+## Equipo con Spell Power de misión (Horde, 18–30)
+Recompensas con SP o daño de Frost que han visto jugadores en Forever (addon ForeverDB, 2026-11-13; stats de Polished Walking Staff y Embroidered Leggings comprobados en azeroth.wiki el 2026-11-18). `confirmed_forever`
+
+| Hueco | Pieza | Bonus | Misión (nivel) | Dónde empieza |
+|---|---|---|---|---|
+| Arma | **Polished Walking Staff** | **SP +16**, Int +7, Sta +3 | Ashenvale (23–27) | — |
+| Manos | Apothecary Gloves | SP +4 | *Dig Rat Stew* (23) o *Serpentbloom* (18, WC) | Grub, Barrens 55.3, 31.8 / Apothecary Zamah, Thunder Bluff |
+| Manos | Blight Gloves | SP +5 | *The New Plague* (22, cadena previa en Silverpine) | Theodore Griffs, Undercity 46.5, 71.8 |
+| Manos | **Jutebraid Gloves** | SP +6, Int +5 | *Horde Presence* (29) | Kadrak, Barrens 48.1, 5.4 |
+| Manos | Oilrag Handwraps | SP +9 | *The Lost Pages* (30) | Gurda Ragescar, Ashenvale 70.0, 71.1 |
+| Muñecas | Tabitha's Cuffs | SP +3, Sta +4 | *A Frightened Request* (22) | Tabitha Heartweaver, Silverpine 44.5, 42.9 |
+| Muñecas | Owlbeard Bracers | SP +1, Int +2 | *Earthen Arise* (20) | Mor'rogal, Sun Rock 47.1, 64.1 |
+| Piernas | Embroidered Leggings | SP +4, Sta +5 | *Free From the Hold* (20) | Gilthares Firebough, Barrens 61.9, 54.9 |
+| Piernas | **Dark Ritual Leggings** | **SP +14**, Sta +9 | *Blackfathom Villainy* (27, BFD) | Argent Guard Thaelrid, Ashenvale 16.1, 18.8 |
+| Pecho | Barkshell Tunic | SP +8, Sta +4 | *Betrayal from Within* (25) | Mangletooth, Barrens 44.6, 59.2 |
+| Pecho | High Robe of the Adjudicator | SP +8, Int +2 | *Assault on Fenris Isle* (24, grupo) | High Executor Hadrec, Silverpine 43.4, 40.9 |
+| Pies | Firewalker Boots | SP +2, Spi +5 | *Elixir of Pain* (24) | Apothecary Lydon, Hillsbrad 61.5, 19.1 |
+| Hombros | Chestnut Mantle | SP +5, Sta +3 | *Allegiance to the Old Gods* (26, BFD) | Je'neu Sancrea, Ashenvale 11.6, 34.3 |
+| Cintura | **Warsong Sash** | **SP +11**, Sta +4 | *Warsong Supplies* (27) | Locke Okarr, Ashenvale 71.4, 67.7 |
+| Espalda | Windsong Drape | SP +5, Spi +4 | *Free at Last* (29) | Lakota Windsong, Thousand Needles 38.0, 26.7 |
+| Wand | Sizzle Stick / Charred Wand / Branding Rod | SP +2 | *Deviate Eradication* (21, WC) / *Dangerous!* (28) / *Isha Awak* (27) | WC / Hillsbrad / Barrens 65.8, 43.8 |
 
 ## Profesiones 20–30
 - **Expert** (150–225) a nivel 20: Magar (Expert Tailor, Orgrimmar 63.4, 50.0); Godan (Expert Enchanter según el addon, Orgrimmar 53.7, 38.3). `confirmed_forever` (NPCs)
