@@ -8,12 +8,15 @@ last_updated: 2026-11-15
 
 > [!abstract] Personajes
 > **Troll Mage (Frost) · Horde · nivel 23** (export ForeverDataExporter del 2026-11-20 08:57) · Tailoring **98** · Enchanting **121** · 4 g 8 s · SP +36 · Bastón: Polished Walking Staff (+5 Int) · Wand: Greater Magic Wand → **[[Mage-Route-23-30]]** (ruta desde el export) · [[Playbook-Mage-20-30]] · [[Playbook-Mage-1-20]] · [[Frost-Mage]]
+> **Troll Hunter (Beast Mastery) · Horde · nivel 1** (creado el 2026-11-20, mismo reino que el Mage) → **[[Playbook-Hunter-1-30]]**
 > **Orc Rogue · Horde · nivel 11** (dicho por el usuario el 2026-11-13; sin export que lo confirme)
 > Profesiones: **Mining + Skinning** (para oro); plan: cambiar después a **Mining + Engineering** · Alt: Undead Priest ~9
-> **Último export:** ninguno. Nada de esta bóveda describe todavía el estado real del personaje.
+> **Último export:** Troll Mage, 2026-11-20 08:57 (ForeverDataExporter, solo en local).
 
 ## Para tu nivel ahora
 **Troll Mage:** abre [[Playbook-Mage-1-20]] y después [[Playbook-Mage-20-30]]. Recompensas de misiones para tela y hechizos: [[Mage-Quest-Rewards-1-30]]. Mismo inicio que el Orc: Valley of Trials → Razor Hill → The Barrens ([[Leveling-Route-Orc]]).
+
+**Troll Hunter:** abre [[Playbook-Hunter-1-30]]: mascota a 10 con Thotar (Razor Hill), talentos BM, rotación, profesiones y qué pedirle al Mage.
 
 **Orc Rogue:** **Abre [[Playbook-Rogue-10-20]]** y la **[[Beginner-Guide|Guía del novato]]** · rutina de XP en [[XP-Buffs]]: talentos, rotación, ruta, mazmorras, profesiones y oro del 10 al 20. Basado en guías; se ajustará con tu primer export.
 
