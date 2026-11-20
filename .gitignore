@@ -37,3 +37,7 @@ data/foreverdb/
 # Exports del personaje: el repositorio es público, se quedan solo en local
 data/inbox/savedvariables/
 data/inbox/dossier/
+# Listas del personaje exportadas por el usuario (llevan nombre y reino)
+/bags.md
+/questcompleted.md
+/questlog.md
