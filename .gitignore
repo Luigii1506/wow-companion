@@ -33,3 +33,7 @@ data/wago/
 
 # Caché local de la API de ForeverDB
 data/foreverdb/
+
+# Exports del personaje: el repositorio es público, se quedan solo en local
+data/inbox/savedvariables/
+data/inbox/dossier/
