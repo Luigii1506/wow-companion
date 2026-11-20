@@ -123,6 +123,8 @@ Los encantamientos se ponen con el objeto en tu poder: pásale el objeto al Mage
 **No compres**: comida para ti (bebe agua y come lo que sueltan los mobs), ni armas cuerpo a cuerpo caras (solo usas Raptor Strike).
 
 ## 8. Ruta 10–30
+> **Zonas nuevas de Forever**: entre 1 y 35 no hay ninguna para un Troll (Zephras Isle es solo Skyborne). Lo nuevo de este tramo son misiones nuevas en zonas clásicas y mazmorras nuevas: **Ruins of Lordaeron** (15–22) y **City of Dalaran** (28–35). Las zonas nuevas (**Riverglades** 36–44 y **Shen'dralas** 38–45) llegan después. Ver [[Forever-New-Zones]].
+
 Igual que el Mage: The Barrens (12–20) → Stonetalon y Ashenvale (20–27) → Hillsbrad y Thousand Needles (25–30). Misiones, XP y recompensas en [[Mage-Route-23-30]] y [[Quests-The-Barrens]]. Armas de misión para Hunter: **Venomstrike** (19, Lord Serpentis en Wailing Caverns, grupo) y **Quilboar Blaster** (29, Horde). `confirmed_forever` (Method)
 
 ## Errores comunes

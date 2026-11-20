@@ -319,6 +319,7 @@ Formato breve: afirmación A frente a B, y nota afectada. Resolver en el juego o
 - **C129** — Desencantar blancos: la FAQ de Strange Dust de ForeverDB dice que se puede; Warcraft Tavern dice que solo verde o mejor. Cómo resolver: en el juego. [[Enchanting]]
 - **C130** — Cooldown de Ice Lance: Method dice 8 s; los datos del cliente (azeroth.wiki, 2026-11-18) no le dan cooldown propio, solo el global de 1,5 s. R1 (nivel 20): 27–33 de daño, 45 de maná, instantáneo, ×4 contra congelados. Cómo resolver: en el juego (¿se queda gris el botón tras lanzarlo?). [[Frost-Mage]], [[Playbook-Mage-20-30]]
 - **C131** — Novice Arcanist's Sash (y Ardent's): warcraft.wiki.gg ("Forever tailoring patterns", editada el 2026-10-28) la da como receta de **entrenador a skill 35**; el cliente (azeroth.wiki y ForeverDB, 2026-11-18) tiene un **Pattern: Novice Arcanist's Sash** azul que pide Tailoring 50, sin fuente registrada, y el addon pone la receta a skill 50. La misma página del wiki pone Pearl-clasped Cloak a 70 frente a 90 en el addon. Cómo resolver: en el juego, mirando la lista de Snang. [[Tailoring]]
+- **C132** — Shen'dralas: wow.gg (2026-11-17) la sitúa al sur de Desolace por el Valley of Bones, nivel 38–45; Warcraft Tavern (2026-09-13, BlizzCon) dice entre Desolace y Mulgore, nivel 30–50 sin confirmar. Krol'dok Stronghold: 40–45 frente a 40–55. Manda wow.gg por ser posterior al lanzamiento. [[Forever-New-Zones]]
 
 ## Estado de verificación
 - Estado: conflicting
