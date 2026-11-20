@@ -18,12 +18,13 @@ related: ["[[HOME]]", "[[Playbook-Mage-20-30]]", "[[Quests-The-Barrens]]", "[[Qu
 # Ruta: Troll Mage Frost 23 → 30 (a partir del export real)
 
 > [!abstract] Para quién
-> Troll Mage Frost (Horde) que juega solo. Construida con el **export del 2026-11-20**: nivel 23 (6.657/29.400 XP), 4 g 8 s, SP +36, Tailoring 98, Enchanting 121, 36 misiones en el registro y 166 completadas. Misiones, XP, dinero y coordenadas: addon ForeverDB (vistas en Forever). El orden y las estimaciones son *inferidos*.
+> Troll Mage Frost (Horde) que **juega solo**. Las misiones marcadas 👥 son de grupo: su propio texto lo avisa o son de mazmorra. Si un mob tiene el **dragón dorado** en el retrato (élite), sáltalo. Construida con el **export del 2026-11-20**: nivel 23 (6.657/29.400 XP), 4 g 8 s, SP +36, Tailoring 98, Enchanting 121, 36 misiones en el registro y 166 completadas. Misiones, XP, dinero y coordenadas: addon ForeverDB (vistas en Forever). El orden y las estimaciones son *inferidos*.
 
 ## Resumen
 - **Tu registro ya vale casi 2 niveles.** Las misiones que tienes en The Barrens, Stonetalon y Ashenvale suman unos 49.000 XP y unos 3 g. Con las que se abren al entregarlas y las de las mismas zonas, llegas a ~27 al salir de Ashenvale (estimado: no conocemos la XP por nivel de Forever después del 23).
 - **Orden**: Orgrimmar (preparar) → **The Barrens** (cerrar el registro, 23–24) → **Stonetalon** (24–25) → **Ashenvale** (25–27, **Warsong Sash SP +11**) → Undercity/Silverpine → **Hillsbrad** (27–29) → **Thousand Needles** (29–30).
-- **Oro**: las misiones de dinero de esta ruta dan ~5 g; guárdalo para los entrenamientos de 24, 26, 28 y 30. No compres lana a 1 s 79 c: farméala en Stonetalon y Ashenvale.
+- **Solo no**: *Chol'aruk the Ravener* ("do not go alone"), *King of the Foulweald* ("no task for a single <class>") y *Vorsha the Lasher* ("bring some strong allies"), según el texto de cada misión en el cliente (azeroth.wiki, 2026-11-20). Hazlas solo con grupo del canal o del buscador.
+- **Oro**: las misiones de dinero de esta ruta dan ~4 g; guárdalo para los entrenamientos de 24, 26, 28 y 30. No compres lana a 1 s 79 c: farméala en Stonetalon y Ashenvale.
 - **Gratis ahora mismo**: Waylaid Crate (40 Linen → **50 Merchant's Favor**), Scroll of Imbue Frost (+8 Frost 1 h), Scroll of Frog Familiar (+6 Int).
 - **Talentos (sigues la línea de Method)**: 24 Ice Shards 3 · **25 Ice Block** · 26–28 **Shatter 3** · 29 Ice Shards 4 · 30 **Fingers of Frost**. *Orden inferido.*
 
@@ -38,8 +39,8 @@ related: ["[[HOME]]", "[[Playbook-Mage-20-30]]", "[[Quests-The-Barrens]]", "[[Qu
 ## 1. The Barrens: cerrar el registro (23 → ~24)
 | # | Misión (nivel) | Dónde se entrega | XP | Dinero | Nota |
 |---|---|---|---|---|---|
-| 1 | **Chol'aruk the Ravener** (21) | Gur'ak, Crossroads 52.6, 29.0 | **4.100** | **50 s** | La que más da de todas |
-| 2 | Hezrul Bloodmark (19) | Regthar Deathgate 45.3, 28.4 | 1.100 | 8 s | Abre **Counterattack!** (1.950 XP, 25 s) |
+| 👥 | Chol'aruk the Ravener (21) | Gur'ak, Crossroads 52.6, 29.0 | 4.100 | 50 s | **De grupo**: la misión dice "do not go alone". Guárdala para cuando encuentres grupo |
+| 1 | Hezrul Bloodmark (19) | Regthar Deathgate 45.3, 28.4 | 1.100 | 8 s | Abre **Counterattack!** (1.950 XP, 25 s) |
 | 3 | Stolen Silver (18) | Gazrog, Crossroads 51.9, 30.4 | 1.350 | 10 s | — |
 | 4 | The Angry Scytheclaws (17) | Sergra Darkthorn, Crossroads 52.2, 31.0 | 1.250 | 9 s | Plumas de raptores Sunscale en los 3 nidos |
 | 5 | Lost in Battle (20) | Mankrik, Crossroads 52.0, 31.6 | 1.150 | 9 s | Abre *Her Name Is Olgra* (1.550 XP) |
@@ -81,9 +82,9 @@ Sáltate las élites de *The Ashenvale Hunt* y de Lakota'mani/Owatanka/Washte Pa
 ## 4. Ashenvale: Splintertree y Zoram'gar (25,5 → 27)
 | Misión (nivel) | Dador / entrega | XP | Dinero | Premio |
 |---|---|---|---|---|
-| Between a Rock and a Thistlefur (completa) | Karang Amakkar, Zoram'gar 11.9, 34.5 | 1.950 | 17 s | Abre King of the Foulweald (2.650, 20 s) |
+| Between a Rock and a Thistlefur (completa) | Karang Amakkar, Zoram'gar 11.9, 34.5 | 1.950 | 17 s | Abre 👥 *King of the Foulweald*: de grupo |
 | Troll Charm (24) | Mitsuwa, Zoram'gar 11.7, 34.8 | 1.950 | 17 s | — |
-| Vorsha the Lasher (23, escolta) | Muglash, Zoram'gar 12.1, 34.5 | 2.300 | — | Horn Ring |
+| 👥 Vorsha the Lasher (23, escolta) | Muglash, Zoram'gar 12.1, 34.5 | 2.300 | — | **De grupo** ("bring some strong allies") |
 | Freedom to Ruul (24, escolta) | Ruul Snowhoof 41.4, 34.7 | 2.400 | 17 s | — |
 | Never Coming Back (22, nueva) | Va'xug Firefure 40.4, 61.5 | 1.750 | 8 s | — |
 | Stonetalon Standstill (25) | Mastok Wrilehiss, Splintertree 73.7, 60.0 | 2.000 | 18 s | Elementales de Mystral Lake |
@@ -127,7 +128,7 @@ Message to Freewind Post (25), Alien Egg (26, 15 s), Test of Faith (26), Wind Ri
 ## Oro en la ruta
 | Fuente | Cuánto | Estado |
 |---|---|---|
-| Dinero de misiones en esta ruta | ~5 g (Chol'aruk 50 s, Bruuz 25 s, Counterattack 25 s, Sacred Flame 35 s…) | confirmed_forever (addon) |
+| Dinero de misiones en solitario | ~4 g (Bruuz 25 s, Counterattack 25 s, Sacred Flame 35 s, Gann 20 s + 20 s…); Chol'aruk suma 50 s si consigues grupo | confirmed_forever (addon) |
 | Grises al vendedor y desencantar verdes | sin dato | — |
 | Primera Waylaid Crate | 50 MF | confirmed_forever |
 | Gastos fijos: entrenamientos de 24, 26, 28 y 30 | desconocido; de 1 a 60 suman ~206 g | confirmed_forever (total) |
@@ -142,6 +143,9 @@ Message to Freewind Post (25), Alien Egg (26, 15 s), Test of Faith (26), Wind Ri
 | azeroth.wiki (cliente Forever) | Recetas y hechizos | — | 2026-11-19 |
 
 [Data from ForeverDB.net](https://foreverdb.net)
+
+## Dificultad sin confirmar en solitario
+El cliente no da la clasificación de los mobs. Según Classic (*probable_classic*), pueden costar solo: *Hezrul Bloodmark* (líder con escolta), *Revenge of Gann* (packs de enanos en Bael Modan), *Gerenzo Wrenchwhistle*, *Ordanus* y *The Den* (Stonetalon Peak), *Hypercapacitor Gizmo* y *Dangerous!* (humanos con nombre junto a guardias). Pruébalas con Frost Nova, Blink e Ice Block (25) y dime cuáles no salen.
 
 ## Preguntas pendientes
 - Coste de los entrenamientos de Mage de 24 a 30 en Forever.
