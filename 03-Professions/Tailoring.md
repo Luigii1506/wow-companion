@@ -95,6 +95,7 @@ Añadido el 2026-11-15 desde el addon de ForeverDB y [[src-foreverdb-professions
 
 - **Líneas nuevas por escuela**: Forever añade piezas Pristine, **Silky**, Flame, Shadow, Pearly y Shining (botas, guantes, faja, túnica, perneras, diadema) y versiones Filigreed. ForeverDB pone **Silky** en la lista de Frost, Flame en la de Fire y Pearly en la de Arcane. Los patrones normales los vende **Jim'bek** (Crossroads, Barrens 49.6, 29.5; precio 0c en el addon, moneda desconocida); también vende patrones Frothing, Golden, Fiery y Nether-.
 - Silky: **stat87 = Frost Damage** (azeroth.wiki, datos del cliente, 2026-11-17). Las demás escuelas: stat84 Holy (Shining, reactivo Pyrite), stat85 Fire (Flame), stat88 Shadow, stat89 Arcane (Pearly); Pristine da curación. Todos los patrones Silky de Jim'bek cuestan **30 Merchant's Favor** (API de ForeverDB, 2026-11-15). `confirmed_forever`
+- **Calidad (azeroth.wiki, datos del cliente, 2026-11-21)**: las 6 piezas Silky de Jim'bek son **azules** (nivel de objeto: Boots 17, Gloves 20, Sash 22, Circlet 25, Gown 27, Leggings 30). Las 3 Filigreed Silky también son azules (Gown 20, Leggings 25, Circlet 30), pero sus patrones no se compran: Gown cae de Rhahk'Zor (Deadmines) o Kresh (Wailing Caverns), Circlet de Aku'mai (BFD) y el de Leggings no tiene fuente conocida. De las Filigreed solo la Circlet (Frost +14, Sta +12) mejora a su versión de Jim'bek (Frost +11). `confirmed_forever`
 
 | Skill | Pieza | Req | Stats (addon) | Patrón |
 |---|---|---|---|---|
