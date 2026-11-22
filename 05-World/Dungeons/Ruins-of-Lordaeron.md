@@ -23,6 +23,7 @@ related: ["[[Dungeons-1-30]]", "[[Dungeon-XP]]", "[[Leveling-Route-Undead]]", "[
 - Ubicación y entrada: ruinas encima de Undercity, Tirisfal Glades. Coordenadas: ver [[Dungeons-1-30]] (dato de Warcraft Tavern, no comprobado aquí).
 - Por qué ir: **la mejor mazmorra temprana para un Undead**: seis misiones Horde, casi todas recogidas en Undercity/Tirisfal/Silverpine; testers ganaron casi dos niveles con una run completa (beta, Method).
 - Mucho botín de tela: pecho, piernas, botas y cinturón.
+- **Para el Frost Mage**: **Coldspire Staff** (Rath'mael, 22 % en 9 muertes del addon de ForeverDB): azul, BoP, req 19, **Frost Damage +32**, Frost Resistance +13, 43–66 de daño (azeroth.wiki, datos del cliente, 2026-11-22). Supera a Polished Walking Staff (SP +16, Int +7) en daño de Frost. Es la mazmorra 15–22 con más botín de caster visto en Forever (18 piezas). `confirmed_forever`
 - **Para el Orc Rogue (ForeverDB)**: Meathook Slicer (The Butcher, 33 %), Vileblood Scimitar (Viktor the Vile, 67 %), Corpse Chopper (Bjork, 44 %) y Sword of the Fallen (22 %). Entrada (63.3, 67.5); 7 jefes; run ~44 min (10 runs).
 
 ## Misiones
