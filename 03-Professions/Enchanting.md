@@ -60,6 +60,8 @@ related: ["[[Enchanting-Services]]", "[[Gold-Making-Mage]]", "[[Enchants]]", "[[
 | 1–80 | Enchant Bracer – Minor Deflect | 1 Lesser Magic Essence | 80 | 1 s |
 | 50–100 | Enchant Bracer – Minor Stamina | 2 Strange Dust | 100 | 2,5 s |
 
+**Soul Dust para un sastre (2026-11-21).** En Classic sale de desencantar verdes de armadura de nivel de objeto 26–30 (75 %: 1–2) y 31–35 (75 %: 2–5); los azules de 26–30 dan solo Large Glimmering Shard (tabla CMaNGOS de ForeverDB, `probable_classic`). Verdes de Tailoring que entran (cliente, azeroth.wiki): **Gloves of Meditation** (aprende 105, nivel de objeto 26; 4 Bolt of Woolen, 3 Fine Thread, 1 Elixir of Wisdom), Azure Silk Pants (115, 28; 4 Bolt of Silk, 2 Blue Dye, 3 Fine Thread), **Azure Silk Hood** (120, 29; 2 Bolt of Silk, 2 Blue Dye, 1 Fine Thread), **Silk Headband** (125, **32**; 3 Bolt of Silk, 2 Fine Thread). Blue Dye: 50 c en Borya (Orgrimmar 63.3, 51.2). *Inferido*: Silk Headband da más Soul Dust por Silk; no conviene usar Soul Dust para llenar crates (Journeyman Curiosities paga lo mismo que 20 Wool) porque se necesita para Weapon – Revelation (8) y Bracer – Lesser Stamina (130–155).
+
 Además, desencantar sube skill. Enchanted Lute (campamento) a skill 20: Simple Wood + Strange Dust. Se puede encantar cualquier brazal o pechera que lleves en la mochila (mecánica de Classic, `probable_classic`).
 
 ## Cambios en Forever
