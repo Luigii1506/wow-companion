@@ -5,7 +5,7 @@ level_min: 10
 faction: horde
 status: confirmed_forever
 confidence: medium
-last_verified: 2026-11-13
+last_verified: 2026-11-21
 game_version: "Forever 1.60.1"
 sources:
   - https://www.method.gg/wow-forever/azerorth-commerce-authority-and-durotar-supply-and-logistics-reputation-guide
@@ -63,6 +63,20 @@ Más rango → algo más de Merchant's Favor (cantidad desconocida).
 
 Hay también crates de minerales, lingotes, piezas de ingeniería, telas/pieles curadas y "curiosities" de encantamiento (ver la ficha de Waylaid Crates).
 
+## Merchant's Favor por crate (añadido 2026-11-21)
+| Rango | Blanca (Common) | Verde (Uncommon) | Estado |
+|---|---|---|---|
+| Apprentice | 5 MF + 2 s 50 c | 10 MF + 5 s | confirmed_forever (games.gg, 2026-11-21, medido en el juego) |
+| Journeyman | 10 MF + 5 s | 20 MF + 10 s | probable (LepreStore, datos de la beta, 2026-10-29) |
+| Expert | 15 MF + 7 s 50 c | 30 MF + 15 s | probable (LepreStore, beta) |
+| Artisan | sin dato | sin dato | unknown |
+
+- El material elegido no cambia el pago (games.gg). Las **verdes** (Fabrics, Ingots, Parts) pagan el doble que las blancas del mismo rango.
+- ForeverDB (2026-11-15) aún no tiene MF por crate. Talento Legacy **Performance Bonus**: 5/10/15 % de probabilidad de doble MF por crate.
+- Drop: bichos normales de ~7 a 26, raro (0,4–4 % por muerte según conquestcapped, sin verificar). Las crates vacías **se venden en la subasta**.
+- Opciones de llenado útiles para Tailoring + Enchanting (ForeverDB): **Journeyman Fabrics** (verde) 6 Bolt of Woolen Cloth o 10 Bolt of Silk Cloth; Journeyman Textiles 20 Wool, 40 Silk o 20 Medium Leather; Apprentice Fabrics (verde) 20 Bolt of Linen Cloth; Apprentice Curiosities 20 Strange Dust, 4 Greater Magic Essence, 6 Small o 2 Large Glimmering Shard; Journeyman Curiosities 20 Soul Dust, 4 Greater Astral Essence, 6 Small o 2 Large Glowing Shard.
+- Coste real por MF = (precio de la crate + coste del llenado − plata que paga) ÷ MF (método de LepreStore). *Inferido*: la más barata para un sastre es **Journeyman Fabrics con 6 Bolt of Woolen Cloth** (12 Wool → 20 MF).
+
 ## Recompensas por Merchant's Favor
 | Recompensa | Tipo | Reputación | Coste MF | Estado |
 |---|---|---|---|---|
@@ -99,8 +113,11 @@ Herbalism y Skinning no tienen recetas aquí: para este personaje la facción si
 |---|---|---|---|---|
 | https://www.method.gg/wow-forever/azerorth-commerce-authority-and-durotar-supply-and-logistics-reputation-guide | guía | 2026-11-03 | 2026-11-13 | no |
 | https://www.method.gg/wow-forever/how-to-get-waylaid-crates-and-merchants-favor-in-wow-forever | guía | 2026-11-03 | 2026-11-13 | no |
+| https://games.gg/world-of-warcraft/guides/wow-forever-waylaid-crates-turn-in-fills-and-merchants-favor/ | guía | 2026-11-21 | 2026-11-21 | no |
+| https://leprestore.com/guides/world-of-warcraft-forever/wow-forever-merchants-favor-farming-guide/ | guía (tienda) | 2026-10-29 | 2026-11-21 | sí (beta) |
+| https://conquestcapped.com/guides/wow-forever/wow-forever-merchants-favor/ | guía | desconocida | 2026-11-21 | desconocido |
 
 ## Preguntas pendientes
-- Reputación y Merchant's Favor por crate y por writ.
+- Reputación por crate; MF y reputación por writ; MF de Journeyman/Expert confirmado tras el lanzamiento.
 - Nivel real del Journeyman crate.
 - Tasa de aparición de crates y writs (no inventar: medir con el addon).
