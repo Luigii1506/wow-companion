@@ -6,7 +6,7 @@ level_max: 60
 faction: horde
 status: unknown
 confidence: medium
-last_verified: 2026-11-15
+last_verified: 2026-11-22
 game_version: "Forever 1.60.1"
 sources:
   - https://foreverdb.net/profession/enchanting
@@ -45,6 +45,10 @@ related: ["[[Gold-Making]]", "[[Enchanting-Services]]", "[[Enchanting]]", "[[Tai
 - **El oro de Enchanting llega más tarde (30–60)**: shards de desencantar (Large Radiant Shard 1 g 45 s – 2 g 49 s en los escaneos, cayendo) y servicios de encantamiento con las fórmulas nuevas, que se compran con **Merchant's Favor**. Ver [[Enchanting-Services]].
 - **Meta de la montura**: ~100 g para Apprentice Riding a nivel 40 (`unknown`, cifra de beta), más el entrenamiento de clase (206–207 g de 1 a 60, `confirmed_forever`). Si el oro aprieta, considera Enchanting + Herbalism (ver la tabla de profesiones).
 - **Regla**: nunca vendas al vendedor polvos, esencias, shards ni wands de Enchanting. Se pagan a **1 c** y valen mucho más en la subasta o para ti.
+
+## Observado en su reino (2026-11-22)
+- **Cerulean Dye a 60 s** en la subasta (lo vio el usuario). La piden casi todas las recetas nuevas de Tailoring (Silky, Woolen/Silk Reagent Bag) y varias de Leatherworking y Enchanting (azeroth.wiki). Solo la hace Alchemy: 2 Frilled Lichen + 1 Empty Vial (20 c). `confirmed_forever` (receta) / precio observado
+- Frilled Lichen es un material Scarce que sale como bonus al recoger Earthroot, Mageroyal, Briarthorn y Stranglekelp ([[Herbs]]); en la beta parecía limitado a personajes de nivel 25 o menos (disputado). *Inferido*: un alt de nivel bajo con **Herbalism + Alchemy** (p. ej. el Troll Hunter) puede vender Frilled Lichen o Cerulean Dye y abastecer al Mage. Medir cuánta Lichen sale por hora antes de cambiar sus profesiones.
 
 ## Métodos por tramo de nivel
 | Tramo | Método | Detalle | Estado | Fuente |
