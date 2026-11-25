@@ -7,6 +7,7 @@ last_updated: 2026-11-15
 # WoW Companion — WoW Forever
 
 > [!abstract] Personajes
+> **Undead Paladin (Retribution) · Horde · nuevo main** (decidido el 2026-11-24, mismo reino) → **[[Playbook-Paladin-1-30]]**
 > **Troll Mage (Frost) · Horde · nivel 23** (export ForeverDataExporter del 2026-11-20 08:57) · Tailoring **98** · Enchanting **121** · 4 g 8 s · SP +36 · Bastón: Polished Walking Staff (+5 Int) · Wand: Greater Magic Wand → **[[Mage-Route-23-30]]** (ruta desde el export) · [[Playbook-Mage-20-30]] · [[Playbook-Mage-1-20]] · [[Frost-Mage]]
 > **Troll Hunter (Beast Mastery) · Horde · nivel 1** (creado el 2026-11-20, mismo reino que el Mage) → **[[Playbook-Hunter-1-30]]**
 > **Orc Rogue · Horde · nivel 11** (dicho por el usuario el 2026-11-13; sin export que lo confirme)
@@ -15,6 +16,8 @@ last_updated: 2026-11-15
 
 ## Para tu nivel ahora
 **Troll Mage:** abre [[Playbook-Mage-1-20]] y después [[Playbook-Mage-20-30]]. Recompensas de misiones para tela y hechizos: [[Mage-Quest-Rewards-1-30]]. Mismo inicio que el Orc: Valley of Trials → Razor Hill → The Barrens ([[Leveling-Route-Orc]]).
+
+**Undead Paladin (main):** abre [[Playbook-Paladin-1-30]]: Tirisfal → Silverpine → Ruins of Lordaeron → Hillsbrad, armas de dos manos por nivel, talentos Ret, Mining + Blacksmithing y qué le encanta el Mage.
 
 **Troll Hunter:** abre [[Playbook-Hunter-1-30]]: mascota a 10 con Thotar (Razor Hill), talentos BM, rotación, profesiones y qué pedirle al Mage.
 
