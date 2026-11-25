@@ -92,6 +92,7 @@ Zonas nuevas de Forever para la Horde: ninguna hasta **Riverglades (36+)** y **S
 | Nivel | Arma | dps | Stats | De dónde | Grupo |
 |---|---|---|---|---|---|
 | 11 | Driftwood Smasher | 8,9 | Sta +2 | *Murlocs at the Gates* (Tirisfal) | No |
+| 11 | **Heavy Copper Maul** (verde, BoE) | 10,8 | Str +4 | Blacksmithing (receta de skill 65) o subasta | No |
 | 13 | **Bonecracker** / Riptear's Cleaver | 9,1 / 8,9 | Str +3 | *The Family Crypt* / *Rear Guard Patrol* (Tirisfal) | No |
 | 15 | Logsplitter | 10,8 | Str +3, Sta +2 | *Arugal's Folly* (Silverpine) | Última parte |
 | 16 | **Axe of Orgrimmar** (azul) | 16,1 | Sta +6, Spi +6 | *Hidden Enemies* (Ragefire Chasm) | Sí |
@@ -104,6 +105,8 @@ Zonas nuevas de Forever para la Horde: ninguna hasta **Riverglades (36+)** y **S
 | 26 | Strike of the Hydra (azul) | 25,6 | — | Aku'mai, BFD (55 %) | Sí |
 | 29 | **Corpsemaker** (azul) | 28,9 | Str +15, Sta +8 | Overlord Ramtusk, Razorfen Kraul (40 %) | Sí |
 
+- **Mazas de vendedor** (blancas, sin ligar): Wooden Mallet (4, 5,0 dps, 7 s) y Giant Mace (10, 9,0 dps, 26 s) en Angus Hammerhand, Tirisfal (21.2, 45.8); Rock Hammer (16, 12,6 dps, 63 s) y Maul (21, 16,0 dps, 1 g 9 s) en Benijah Fenner, Undercity (58.6, 32.3); War Hammer (30, 22,3 dps) en Galthuk, Orgrimmar (82.2, 18.6). Fuente: addon ForeverDB.
+- Con la **Heavy Copper Maul** (11) sáltate la Giant Mace, Bonecracker y Rock Hammer: tu siguiente arma es Sword of the Fallen (18, grupo) o la Maul de vendedor (21).
 - Jugando **solo**, tu línea es Bonecracker (13) → Demolition Hammer (24) → Brute Hammer (28), más cualquier verde de dos manos de la subasta (§8).
 - Con grupo, **Ruins of Lordaeron a 18–22** te da el mejor salto: Sword of the Fallen y Forsaken Greataxe.
 - Habilidades de arma: si un arma te sale en rojo, apréndela con un maestro de armas. Archibald (Undercity 57.1, 32.6), Hanashi o Sayoc (Orgrimmar ~81, 19) y Ansekhwa (Thunder Bluff 41.2, 62.3). Qué arma enseña cada uno: en Classic, sin comprobar en Forever.
