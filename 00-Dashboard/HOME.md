@@ -17,7 +17,7 @@ last_updated: 2026-11-15
 ## Para tu nivel ahora
 **Troll Mage:** abre [[Playbook-Mage-1-20]] y después [[Playbook-Mage-20-30]]. Recompensas de misiones para tela y hechizos: [[Mage-Quest-Rewards-1-30]]. Mismo inicio que el Orc: Valley of Trials → Razor Hill → The Barrens ([[Leveling-Route-Orc]]).
 
-**Undead Paladin (main):** abre [[Playbook-Paladin-1-30]]: Tirisfal → Silverpine → Ruins of Lordaeron → Hillsbrad, armas de dos manos por nivel, talentos Ret, Mining + Blacksmithing y qué le encanta el Mage.
+**Undead Paladin (main):** abre [[Playbook-Paladin-1-30]] (guía completa 1–40, Mobalytics + Method): talentos nivel a nivel, rotación, macros, mazmorras por nivel, armas de dos manos siempre al día (Wolfsbane, Heavehammer), Mining + Blacksmithing, Cooking +5 % XP y qué le encanta el Mage.
 
 **Troll Hunter:** abre [[Playbook-Hunter-1-30]]: mascota a 10 con Thotar (Razor Hill), talentos BM, rotación, profesiones y qué pedirle al Mage.
 
