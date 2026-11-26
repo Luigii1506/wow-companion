@@ -6,7 +6,7 @@ level_max: 60
 faction: both
 status: confirmed_forever
 confidence: medium
-last_verified: 2026-11-13
+last_verified: 2026-11-26
 game_version: "Forever 1.60.1"
 sources:
   - https://www.method.gg/wow-forever/wow-forever-warlock-leveling-guide-and-talents
@@ -39,6 +39,20 @@ related: ["[[Warlock]]"]
 | 24 | Shadowburn | Destruction | confirmed_forever |
 | 29 | Conflagrate | Destruction | confirmed_forever |
 | 30 | Siphon Life | Affliction | confirmed_forever |
+
+## Demonios: nivel y misión (Alliance)
+Datos del addon de ForeverDB (2026-11-13), consultados el 2026-11-26.
+
+| Nivel | Demonio | Cómo (Alliance) | Estado |
+|---|---|---|---|
+| 1 | Imp | Hechizo inicial | confirmed_forever |
+| 10 | Voidwalker | *The Slaughtered Lamb* (Lago Blackwrench, Ironforge 47.6, 9.3) → Gakin the Darkbinder (Stormwind 39.3, 85.2): *Surena Caledon* → *The Binding*. Desde Elwynn: *Gakin's Summons* (Remen Marcot 44.5, 66.1) | confirmed_forever |
+| 20 | Succubus (Sayaad) | *Gakin's Summons* (Lago Blackwrench, Ironforge) → *Devourer of Souls* (Takar the Seer, Barrens) → *The Binding* (Gakin, Stormwind) | confirmed_forever |
+| 30 | Felhunter | *Seeking Strahad* (Gakin, Stormwind) → Strahad Farsan, Ratchet (62.6, 35.5): *Tome of the Cabal* → *The Binding* | confirmed_forever |
+| 40 | Felsteed (montura) | *Summon Felsteed* (Briarthorn, Ironforge 50.3, 5.7, o Demisette Cloyce, Stormwind) → Strahad Farsan, Ratchet | confirmed_forever |
+| 50 / 60 | Infernal / Doomguard | Inferno y Ritual of Doom en Classic; sin comprobar en Forever | probable_classic |
+
+Horde: Voidwalker y Succubus con Carendin Halgar (Undercity 84.8, 26.1) o Gan'rul Bloodeye (Orgrimmar 48.2, 45.7).
 
 ## Talentos Affliction (orden de la guía)
 | Paso | Talento | Puntos | Estado |
