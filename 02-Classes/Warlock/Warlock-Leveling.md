@@ -28,7 +28,7 @@ related: ["[[Warlock]]"]
 ## Hechizos por nivel
 | Nivel | Hechizo | Spec | Estado |
 |---|---|---|---|
-| 1 | Shadow Bolt, Demon Skin, Immolate, Summon Imp | Todas | confirmed_forever |
+| 1 | Shadow Bolt, Demon Skin, Immolate. **Summon Imp no viene de serie**: es la recompensa de la misión de clase de nivel 1–4 (ver Demonios) | Todas | confirmed_forever |
 | 4 | Corruption, Curse of Weakness, grimorio Blood Pact | Affliction | confirmed_forever |
 | 6 | Life Tap, Shadow Bolt r2 | Todas | confirmed_forever |
 | 8 | Bane of Agony (etiqueta al instante) | Affliction | confirmed_forever |
@@ -45,7 +45,7 @@ Datos del addon de ForeverDB (2026-11-13), consultados el 2026-11-26.
 
 | Nivel | Demonio | Cómo (Alliance) | Estado |
 |---|---|---|---|
-| 1 | Imp | Hechizo inicial | confirmed_forever |
+| 1–4 | Imp | **Misión de clase**, no del entrenador. Gnome/Dwarf: *Tainted Memorandum* (Sten Stoutarm, Coldridge Valley 29.9, 71.2) → *Beginnings* (Alamar Grimm, Anvilmar 28.6, 66.2): 3 Feather Charms de los Frostmane Novice de la cueva al suroeste. El texto de la misión dice que el premio es el Imp (azeroth.wiki, 2026-11-26) | confirmed_forever |
 | 10 | Voidwalker | *The Slaughtered Lamb* (Lago Blackwrench, Ironforge 47.6, 9.3) → Gakin the Darkbinder (Stormwind 39.3, 85.2): *Surena Caledon* → *The Binding*. Desde Elwynn: *Gakin's Summons* (Remen Marcot 44.5, 66.1) | confirmed_forever |
 | 20 | Succubus (Sayaad) | *Gakin's Summons* (Lago Blackwrench, Ironforge) → *Devourer of Souls* (Takar the Seer, Barrens) → *The Binding* (Gakin, Stormwind) | confirmed_forever |
 | 30 | Felhunter | *Seeking Strahad* (Gakin, Stormwind) → Strahad Farsan, Ratchet (62.6, 35.5): *Tome of the Cabal* → *The Binding* | confirmed_forever |
