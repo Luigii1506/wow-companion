@@ -4,9 +4,11 @@ tags: [forever, race, class]
 faction: both
 status: conflicting
 confidence: medium
-last_verified: 2026-11-13
+last_verified: 2026-11-26
 game_version: "Forever 1.60.1"
 sources:
+  - "azeroth.wiki API /api/forever/races/<raza> (cliente Forever), 2026-11-26"
+  - https://foreverdb.net/guide/race-dwarf
   - https://www.method.gg/wow-forever/all-class-and-race-combinations-in-world-of-warcraft-forever
   - https://www.method.gg/wow-forever/all-new-racial-abilities-in-world-of-warcraft-forever
   - https://www.method.gg/wow-forever/wow-forever-shaman-leveling-guide-and-talents
@@ -24,6 +26,13 @@ related: ["[[Races]]", "[[Classes]]"]
 - **Undead**: Mage, Paladin, Priest, Rogue, Warlock, Warrior.
 - Priest: Human, Dwarf, Night Elf, Gnome, Undead, Troll (Skyborne no puede ser Priest).
 
+- **Alliance, comprobado en el cliente de Forever (azeroth.wiki, 2026-11-26)** `confirmed_forever`:
+  - Human: Warrior, Paladin, Hunter, Rogue, Priest, Mage, Warlock.
+  - Dwarf: Warrior, Paladin, Hunter, Rogue, Priest, Shaman. **No puede ser Warlock ni Mage** (lo confirma también la guía de raza de ForeverDB del 2026-11-26).
+  - Gnome: Warrior, Rogue, Priest, Mage, Warlock.
+  - Night Elf: Warrior, Hunter, Rogue, Priest, Druid.
+  - High Order Skyborne: Warrior, Hunter, Rogue, Mage, Druid (sin Shaman: resuelve en parte el conflicto de Skyborne).
+  - **Warlock de la Alliance: solo Human o Gnome.**
 ## Matriz
 ✔ = permitido · ★ = nuevo en Forever
 
